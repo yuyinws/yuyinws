@@ -2,4 +2,6 @@
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=yuyinws&show_icons=true&theme=nord)
 
-![stat](https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/github-metrics.svg)
+<div style="backgroud-color:red;border:1px solid red">
+  <img style="border:1px solid red" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/github-metrics.svg" />
+</div>
