@@ -1,6 +1,4 @@
-[**Steam Card**](https://github.com/yuyinws/steam-card)
-
-*Generate Your Steam Profile Quickly*
+[**Steam Card**](https://github.com/yuyinws/steam-card) — *Generate Your Steam Profile Quickly*
 
 [![steamcard](https://steam-card-yuyinws.vercel.app/card/76561198340841543)](https://github.com/yuyinws/steam-card)
 
