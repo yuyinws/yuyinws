@@ -1,8 +1,8 @@
-<svg width="450" height="400" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<svg width="450" height="280" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
   <style>
     .foreign{
         width: 450px;
-        height: 400px;
+        height: 280px;
         border-radius: 7px;
       }
 
@@ -50,7 +50,7 @@
 
     .window {
       background: rgba(0,0,0,0.8);
-      height: 375px;
+      height: 255px;
       padding: 5px 10px;
     }
 
@@ -142,6 +142,26 @@
       <div class="index">10</div>
       <div class="percent">62(2.42%)</div>
       <div class="text">rm</div>
+    </div><div class="item">
+      <div class="index">11</div>
+      <div class="percent">51(1.99%)</div>
+      <div class="text">ga</div>
+    </div><div class="item">
+      <div class="index">12</div>
+      <div class="percent">49(1.91%)</div>
+      <div class="text">vim</div>
+    </div><div class="item">
+      <div class="index">13</div>
+      <div class="percent">44(1.72%)</div>
+      <div class="text">i</div>
+    </div><div class="item">
+      <div class="index">14</div>
+      <div class="percent">42(1.64%)</div>
+      <div class="text">npm</div>
+    </div><div class="item">
+      <div class="index">15</div>
+      <div class="percent">38(1.48%)</div>
+      <div class="text">b</div>
     </div>
         </div>
       </div>
