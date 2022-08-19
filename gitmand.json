@@ -1,48 +1,48 @@
 [
   {
     "command": "ls",
-    "count": 502,
+    "count": 503,
     "percent": "16.54%"
   },
   {
     "command": "cd",
     "count": 460,
-    "percent": "15.16%"
+    "percent": "15.13%"
   },
   {
     "command": "d",
     "count": 211,
-    "percent": "6.95%"
+    "percent": "6.94%"
   },
   {
     "command": "git",
-    "count": 208,
-    "percent": "6.85%"
+    "count": 210,
+    "percent": "6.91%"
   },
   {
     "command": "code",
     "count": 179,
-    "percent": "5.90%"
+    "percent": "5.89%"
   },
   {
     "command": "gc",
     "count": 149,
-    "percent": "4.91%"
+    "percent": "4.90%"
   },
   {
     "command": "w",
     "count": 145,
-    "percent": "4.78%"
+    "percent": "4.77%"
   },
   {
     "command": "ni",
     "count": 104,
-    "percent": "3.43%"
+    "percent": "3.42%"
   },
   {
     "command": "c",
     "count": 88,
-    "percent": "2.90%"
+    "percent": "2.89%"
   },
   {
     "command": "rm",
@@ -52,7 +52,7 @@
   {
     "command": "i",
     "count": 57,
-    "percent": "1.88%"
+    "percent": "1.87%"
   },
   {
     "command": "npm",
@@ -62,7 +62,7 @@
   {
     "command": "vim",
     "count": 53,
-    "percent": "1.75%"
+    "percent": "1.74%"
   },
   {
     "command": "ga",
@@ -122,7 +122,7 @@
   {
     "command": "clone",
     "count": 19,
-    "percent": "0.63%"
+    "percent": "0.62%"
   },
   {
     "command": "vd",
@@ -136,6 +136,11 @@
   },
   {
     "command": "npx",
+    "count": 16,
+    "percent": "0.53%"
+  },
+  {
+    "command": "gitmand",
     "count": 16,
     "percent": "0.53%"
   },
@@ -160,14 +165,9 @@
     "percent": "0.46%"
   },
   {
-    "command": "gitmand",
-    "count": 14,
-    "percent": "0.46%"
-  },
-  {
     "command": "act",
     "count": 12,
-    "percent": "0.40%"
+    "percent": "0.39%"
   },
   {
     "command": "sudo",
@@ -300,6 +300,11 @@
     "percent": "0.10%"
   },
   {
+    "command": "sl",
+    "count": 3,
+    "percent": "0.10%"
+  },
+  {
     "command": "ip",
     "count": 3,
     "percent": "0.10%"
@@ -346,11 +351,6 @@
   },
   {
     "command": "ln",
-    "count": 2,
-    "percent": "0.07%"
-  },
-  {
-    "command": "sl",
     "count": 2,
     "percent": "0.07%"
   },
