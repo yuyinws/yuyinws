@@ -1,0 +1,21 @@
+lockfileVersion: 5.4
+
+specifiers:
+  gitmand: ^0.0.6
+
+dependencies:
+  gitmand: 0.0.6
+
+packages:
+
+  /gitmand/0.0.6:
+    resolution: {integrity: sha512-F+1FcfC87qoxv22DdZcQjaar7mCseNy1sL1MQd8ZDvcwxLZz7GZ39W2PzMqQssUCND8a1oaX0OC4PdXqWLIqmw==}
+    hasBin: true
+    dependencies:
+      shell-history: 2.0.0
+    dev: false
+
+  /shell-history/2.0.0:
+    resolution: {integrity: sha512-gk7ORkNTLZHmxD6K6vcyijxmYwlI2vVr8clvgKFqazHQKMI9wBXrze4u4af0PQ1uY86XB6JT8WKcmiVGW93KUQ==}
+    engines: {node: '>=12'}
+    dev: false
