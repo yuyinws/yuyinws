@@ -2,7 +2,7 @@
 
 **Most Used Command**
 
-[![gitmand](https://raw.githubusercontent.com/yuyinws/gitmand/master/gitmand.svg)](https://github.com/yuyinws/gitmand)
+[![gitmand](https://raw.githubusercontent.com/yuyinws/yuyinws/master/gitmand.svg)](https://github.com/yuyinws/gitmand)
 
 [**Steam Card**](https://github.com/yuyinws/steam-card) — *Generate Your Steam Profile Quickly*
 
