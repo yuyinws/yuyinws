@@ -1,772 +1,967 @@
 [
   {
     "command": "ls",
-    "count": 725,
-    "percent": "14.00%"
+    "count": 986,
+    "percent": "12.82%"
   },
   {
     "command": "cd",
-    "count": 655,
-    "percent": "12.64%"
+    "count": 918,
+    "percent": "11.94%"
   },
   {
     "command": "d",
-    "count": 453,
-    "percent": "8.75%"
-  },
-  {
-    "command": "code",
-    "count": 312,
-    "percent": "6.02%"
+    "count": 799,
+    "percent": "10.39%"
   },
   {
     "command": "git",
-    "count": 309,
-    "percent": "5.97%"
+    "count": 557,
+    "percent": "7.24%"
+  },
+  {
+    "command": "code",
+    "count": 480,
+    "percent": "6.24%"
   },
   {
     "command": "w",
-    "count": 240,
-    "percent": "4.63%"
+    "count": 353,
+    "percent": "4.59%"
   },
   {
     "command": "ni",
-    "count": 211,
-    "percent": "4.07%"
-  },
-  {
-    "command": "gc",
-    "count": 164,
-    "percent": "3.17%"
+    "count": 324,
+    "percent": "4.21%"
   },
   {
     "command": "b",
-    "count": 147,
-    "percent": "2.84%"
-  },
-  {
-    "command": "c",
-    "count": 140,
-    "percent": "2.70%"
+    "count": 227,
+    "percent": "2.95%"
   },
   {
     "command": "rm",
-    "count": 137,
-    "percent": "2.64%"
+    "count": 219,
+    "percent": "2.85%"
   },
   {
-    "command": "i",
-    "count": 98,
-    "percent": "1.89%"
-  },
-  {
-    "command": "pnpm",
-    "count": 91,
-    "percent": "1.76%"
-  },
-  {
-    "command": "n",
-    "count": 79,
-    "percent": "1.53%"
-  },
-  {
-    "command": "npm",
-    "count": 73,
-    "percent": "1.41%"
-  },
-  {
-    "command": "vim",
-    "count": 71,
-    "percent": "1.37%"
-  },
-  {
-    "command": "p",
-    "count": 71,
-    "percent": "1.37%"
-  },
-  {
-    "command": "npx",
-    "count": 68,
-    "percent": "1.31%"
+    "command": "c",
+    "count": 209,
+    "percent": "2.72%"
   },
   {
     "command": "clear",
-    "count": 68,
-    "percent": "1.31%"
+    "count": 170,
+    "percent": "2.21%"
+  },
+  {
+    "command": "gc",
+    "count": 169,
+    "percent": "2.20%"
+  },
+  {
+    "command": "i",
+    "count": 136,
+    "percent": "1.77%"
+  },
+  {
+    "command": "pnpm",
+    "count": 135,
+    "percent": "1.76%"
+  },
+  {
+    "command": "p",
+    "count": 110,
+    "percent": "1.43%"
+  },
+  {
+    "command": "vim",
+    "count": 105,
+    "percent": "1.37%"
   },
   {
     "command": "t",
-    "count": 67,
-    "percent": "1.29%"
+    "count": 100,
+    "percent": "1.30%"
+  },
+  {
+    "command": "n",
+    "count": 81,
+    "percent": "1.05%"
+  },
+  {
+    "command": "npm",
+    "count": 79,
+    "percent": "1.03%"
+  },
+  {
+    "command": "npx",
+    "count": 78,
+    "percent": "1.01%"
   },
   {
     "command": "ga",
-    "count": 67,
-    "percent": "1.29%"
-  },
-  {
-    "command": "ll",
-    "count": 43,
-    "percent": "0.83%"
-  },
-  {
-    "command": "curl",
-    "count": 41,
-    "percent": "0.79%"
+    "count": 75,
+    "percent": "0.98%"
   },
   {
     "command": "node",
-    "count": 41,
-    "percent": "0.79%"
+    "count": 74,
+    "percent": "0.96%"
   },
   {
-    "command": "nu",
-    "count": 39,
-    "percent": "0.75%"
-  },
-  {
-    "command": "cat",
-    "count": 37,
-    "percent": "0.71%"
+    "command": "curl",
+    "count": 59,
+    "percent": "0.77%"
   },
   {
     "command": "nun",
-    "count": 37,
-    "percent": "0.71%"
+    "count": 58,
+    "percent": "0.75%"
+  },
+  {
+    "command": "bp",
+    "count": 51,
+    "percent": "0.66%"
+  },
+  {
+    "command": "ll",
+    "count": 49,
+    "percent": "0.64%"
   },
   {
     "command": "sudo",
-    "count": 36,
-    "percent": "0.69%"
+    "count": 47,
+    "percent": "0.61%"
   },
   {
-    "command": "gh",
-    "count": 35,
-    "percent": "0.68%"
-  },
-  {
-    "command": "f",
-    "count": 35,
-    "percent": "0.68%"
-  },
-  {
-    "command": "clone",
-    "count": 30,
-    "percent": "0.58%"
-  },
-  {
-    "command": "brew",
-    "count": 27,
-    "percent": "0.52%"
+    "command": "nu",
+    "count": 47,
+    "percent": "0.61%"
   },
   {
     "command": "",
-    "count": 26,
-    "percent": "0.50%"
+    "count": 45,
+    "percent": "0.59%"
+  },
+  {
+    "command": "clone",
+    "count": 44,
+    "percent": "0.57%"
+  },
+  {
+    "command": "cat",
+    "count": 42,
+    "percent": "0.55%"
+  },
+  {
+    "command": "gh",
+    "count": 41,
+    "percent": "0.53%"
+  },
+  {
+    "command": "f",
+    "count": 41,
+    "percent": "0.53%"
   },
   {
     "command": "vd",
-    "count": 26,
-    "percent": "0.50%"
-  },
-  {
-    "command": "mkdir",
-    "count": 20,
-    "percent": "0.39%"
+    "count": 33,
+    "percent": "0.43%"
   },
   {
     "command": "l",
-    "count": 19,
-    "percent": "0.37%"
+    "count": 30,
+    "percent": "0.39%"
+  },
+  {
+    "command": "docker",
+    "count": 30,
+    "percent": "0.39%"
+  },
+  {
+    "command": "brew",
+    "count": 29,
+    "percent": "0.38%"
   },
   {
     "command": "echo",
-    "count": 17,
+    "count": 25,
     "percent": "0.33%"
+  },
+  {
+    "command": "mkdir",
+    "count": 24,
+    "percent": "0.31%"
+  },
+  {
+    "command": "nio",
+    "count": 24,
+    "percent": "0.31%"
+  },
+  {
+    "command": "ping",
+    "count": 22,
+    "percent": "0.29%"
+  },
+  {
+    "command": "yarn",
+    "count": 22,
+    "percent": "0.29%"
+  },
+  {
+    "command": "touch",
+    "count": 19,
+    "percent": "0.25%"
+  },
+  {
+    "command": ":",
+    "count": 18,
+    "percent": "0.23%"
+  },
+  {
+    "command": "mv",
+    "count": 17,
+    "percent": "0.22%"
   },
   {
     "command": "history",
     "count": 17,
-    "percent": "0.33%"
+    "percent": "0.22%"
+  },
+  {
+    "command": "qnm",
+    "count": 17,
+    "percent": "0.22%"
   },
   {
     "command": "gitmand",
-    "count": 16,
-    "percent": "0.31%"
+    "count": 17,
+    "percent": "0.22%"
   },
   {
-    "command": "yarn",
+    "command": "vercel",
+    "count": 16,
+    "percent": "0.21%"
+  },
+  {
+    "command": "unproxy",
+    "count": 15,
+    "percent": "0.20%"
+  },
+  {
+    "command": "taze",
+    "count": 15,
+    "percent": "0.20%"
+  },
+  {
+    "command": "proxy",
     "count": 14,
-    "percent": "0.27%"
+    "percent": "0.18%"
   },
   {
     "command": "gp",
     "count": 14,
-    "percent": "0.27%"
+    "percent": "0.18%"
   },
   {
-    "command": "touch",
-    "count": 13,
-    "percent": "0.25%"
+    "command": "pwd",
+    "count": 12,
+    "percent": "0.16%"
   },
   {
     "command": "ssh",
     "count": 12,
-    "percent": "0.23%"
+    "percent": "0.16%"
+  },
+  {
+    "command": "whereis",
+    "count": 12,
+    "percent": "0.16%"
   },
   {
     "command": "act",
     "count": 12,
-    "percent": "0.23%"
-  },
-  {
-    "command": "pwd",
-    "count": 11,
-    "percent": "0.21%"
-  },
-  {
-    "command": "proxy",
-    "count": 11,
-    "percent": "0.21%"
-  },
-  {
-    "command": "mv",
-    "count": 11,
-    "percent": "0.21%"
-  },
-  {
-    "command": "whereis",
-    "count": 11,
-    "percent": "0.21%"
+    "percent": "0.16%"
   },
   {
     "command": "source",
-    "count": 10,
-    "percent": "0.19%"
-  },
-  {
-    "command": "qnm",
-    "count": 10,
-    "percent": "0.19%"
-  },
-  {
-    "command": ":",
-    "count": 10,
-    "percent": "0.19%"
+    "count": 11,
+    "percent": "0.14%"
   },
   {
     "command": "upgit",
     "count": 10,
-    "percent": "0.19%"
+    "percent": "0.13%"
   },
   {
     "command": "folderify",
     "count": 9,
-    "percent": "0.17%"
-  },
-  {
-    "command": "ping",
-    "count": 8,
-    "percent": "0.15%"
-  },
-  {
-    "command": "bun",
-    "count": 8,
-    "percent": "0.15%"
-  },
-  {
-    "command": "unproxy",
-    "count": 7,
-    "percent": "0.14%"
-  },
-  {
-    "command": "nio",
-    "count": 7,
-    "percent": "0.14%"
-  },
-  {
-    "command": "ssh-keygen",
-    "count": 6,
-    "percent": "0.12%"
-  },
-  {
-    "command": "taze",
-    "count": 6,
     "percent": "0.12%"
   },
   {
     "command": "degit",
-    "count": 6,
+    "count": 9,
     "percent": "0.12%"
   },
   {
-    "command": "exa",
-    "count": 6,
-    "percent": "0.12%"
-  },
-  {
-    "command": "dig",
-    "count": 6,
-    "percent": "0.12%"
-  },
-  {
-    "command": "nrm",
-    "count": 6,
-    "percent": "0.12%"
-  },
-  {
-    "command": "docker",
-    "count": 6,
-    "percent": "0.12%"
-  },
-  {
-    "command": "swift",
-    "count": 6,
-    "percent": "0.12%"
-  },
-  {
-    "command": "nx",
-    "count": 6,
+    "command": "xcode-select",
+    "count": 9,
     "percent": "0.12%"
   },
   {
     "command": "gpg",
-    "count": 5,
+    "count": 8,
     "percent": "0.10%"
   },
   {
-    "command": "bat",
-    "count": 5,
-    "percent": "0.10%"
-  },
-  {
-    "command": "vercel",
-    "count": 5,
-    "percent": "0.10%"
-  },
-  {
-    "command": "xcode-select",
-    "count": 5,
+    "command": "bun",
+    "count": 8,
     "percent": "0.10%"
   },
   {
     "command": "sl",
-    "count": 4,
+    "count": 7,
+    "percent": "0.09%"
+  },
+  {
+    "command": "s",
+    "count": 7,
+    "percent": "0.09%"
+  },
+  {
+    "command": "o",
+    "count": 7,
+    "percent": "0.09%"
+  },
+  {
+    "command": "ssh-keygen",
+    "count": 6,
     "percent": "0.08%"
+  },
+  {
+    "command": "exa",
+    "count": 6,
+    "percent": "0.08%"
+  },
+  {
+    "command": "dig",
+    "count": 6,
+    "percent": "0.08%"
+  },
+  {
+    "command": "nrm",
+    "count": 6,
+    "percent": "0.08%"
+  },
+  {
+    "command": "swift",
+    "count": 6,
+    "percent": "0.08%"
+  },
+  {
+    "command": "nx",
+    "count": 6,
+    "percent": "0.08%"
+  },
+  {
+    "command": "bat",
+    "count": 5,
+    "percent": "0.07%"
+  },
+  {
+    "command": "open",
+    "count": 5,
+    "percent": "0.07%"
+  },
+  {
+    "command": "celar",
+    "count": 5,
+    "percent": "0.07%"
+  },
+  {
+    "command": "python3",
+    "count": 5,
+    "percent": "0.07%"
+  },
+  {
+    "command": "pip3",
+    "count": 5,
+    "percent": "0.07%"
+  },
+  {
+    "command": "chmod",
+    "count": 5,
+    "percent": "0.07%"
   },
   {
     "command": "gl",
     "count": 4,
-    "percent": "0.08%"
+    "percent": "0.05%"
   },
   {
     "command": "g",
     "count": 4,
-    "percent": "0.08%"
-  },
-  {
-    "command": "s",
-    "count": 4,
-    "percent": "0.08%"
+    "percent": "0.05%"
   },
   {
     "command": "\\",
     "count": 4,
-    "percent": "0.08%"
+    "percent": "0.05%"
   },
   {
     "command": "dog",
     "count": 4,
-    "percent": "0.08%"
+    "percent": "0.05%"
+  },
+  {
+    "command": "v2ex",
+    "count": 4,
+    "percent": "0.05%"
   },
   {
     "command": "/bin/bash",
     "count": 3,
-    "percent": "0.06%"
+    "percent": "0.04%"
   },
   {
     "command": "ip",
     "count": 3,
-    "percent": "0.06%"
+    "percent": "0.04%"
   },
   {
     "command": "lks",
     "count": 3,
-    "percent": "0.06%"
-  },
-  {
-    "command": "picgo",
-    "count": 3,
-    "percent": "0.06%"
-  },
-  {
-    "command": "hugo",
-    "count": 3,
-    "percent": "0.06%"
-  },
-  {
-    "command": "pgrep",
-    "count": 3,
-    "percent": "0.06%"
-  },
-  {
-    "command": "open",
-    "count": 3,
-    "percent": "0.06%"
-  },
-  {
-    "command": "ln",
-    "count": 2,
     "percent": "0.04%"
   },
   {
-    "command": "nvim",
-    "count": 2,
-    "percent": "0.04%"
-  },
-  {
-    "command": "zinit",
-    "count": 2,
+    "command": "killall",
+    "count": 3,
     "percent": "0.04%"
   },
   {
     "command": "ks",
-    "count": 2,
+    "count": 3,
     "percent": "0.04%"
   },
   {
-    "command": "which",
-    "count": 2,
+    "command": "picgo",
+    "count": 3,
     "percent": "0.04%"
   },
   {
-    "command": "cp",
-    "count": 2,
-    "percent": "0.04%"
-  },
-  {
-    "command": "a",
-    "count": 2,
-    "percent": "0.04%"
-  },
-  {
-    "command": "lsof",
-    "count": 2,
-    "percent": "0.04%"
-  },
-  {
-    "command": "kill",
-    "count": 2,
+    "command": "hugo",
+    "count": 3,
     "percent": "0.04%"
   },
   {
     "command": "oi",
-    "count": 2,
+    "count": 3,
     "percent": "0.04%"
+  },
+  {
+    "command": "pgrep",
+    "count": 3,
+    "percent": "0.04%"
+  },
+  {
+    "command": "unproyx",
+    "count": 3,
+    "percent": "0.04%"
+  },
+  {
+    "command": "ln",
+    "count": 2,
+    "percent": "0.03%"
+  },
+  {
+    "command": "nvim",
+    "count": 2,
+    "percent": "0.03%"
+  },
+  {
+    "command": "zinit",
+    "count": 2,
+    "percent": "0.03%"
+  },
+  {
+    "command": "which",
+    "count": 2,
+    "percent": "0.03%"
+  },
+  {
+    "command": "cp",
+    "count": 2,
+    "percent": "0.03%"
+  },
+  {
+    "command": "a",
+    "count": 2,
+    "percent": "0.03%"
+  },
+  {
+    "command": "lsof",
+    "count": 2,
+    "percent": "0.03%"
+  },
+  {
+    "command": "kill",
+    "count": 2,
+    "percent": "0.03%"
   },
   {
     "command": "胯��僭��。。",
     "count": 2,
-    "percent": "0.04%"
+    "percent": "0.03%"
   },
   {
     "command": "duf",
     "count": 2,
-    "percent": "0.04%"
+    "percent": "0.03%"
   },
   {
     "command": "xcrun",
     "count": 2,
-    "percent": "0.04%"
+    "percent": "0.03%"
+  },
+  {
+    "command": "cloen",
+    "count": 2,
+    "percent": "0.03%"
+  },
+  {
+    "command": "log",
+    "count": 2,
+    "percent": "0.03%"
   },
   {
     "command": "traceroute",
     "count": 2,
-    "percent": "0.04%"
+    "percent": "0.03%"
+  },
+  {
+    "command": "java",
+    "count": 2,
+    "percent": "0.03%"
+  },
+  {
+    "command": "..",
+    "count": 2,
+    "percent": "0.03%"
+  },
+  {
+    "command": "gpgconf",
+    "count": 2,
+    "percent": "0.03%"
   },
   {
     "command": "wget",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "export",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "sh",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "eval",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "rn",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "exit",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "cdu",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "ssh-add",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "ll-",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "cod",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "LS",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "ds",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "viim",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "neofetch",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "bash",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": ";ls",
     "count": 1,
-    "percent": "0.02%"
-  },
-  {
-    "command": "killall",
-    "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "cd..",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "hostname",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "PNPM_HOME",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "zsh_stats",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "exec",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "gaga",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "/Users/yuyin/Library/pnpm/pnpm",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "/usr/local/bin/hugo;",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "df",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "ls＃�",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "commande",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "lear",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "Software",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "softwareupdate",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "rustc",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "/Users/yuyin/Scripts/upgit/upgit",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "/bin/zsh",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "connect",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": ":Q",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": ":q",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "du",
     "count": 1,
-    "percent": "0.02%"
-  },
-  {
-    "command": "cloen",
-    "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "code====w",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "@antfu/eslint-config-vue",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "g[",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "gpo",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "lls",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "locale",
     "count": 1,
-    "percent": "0.02%"
-  },
-  {
-    "command": "log",
-    "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": ";s",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "vi",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "D",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "0;60;12M0;60;12md",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "0;59;17M32;59;17M0;59;17mclear",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "0;41;12M32;41;12M0;41;12md",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "nopx",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "0;66;17M32;66;17M0;66;17md",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "lc",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "temir-sg",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
   },
   {
     "command": "0;63;14M0;63;14md",
     "count": 1,
-    "percent": "0.02%"
+    "percent": "0.01%"
+  },
+  {
+    "command": "e",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "稃�度。。",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "nr",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "\t\t\tt",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "sw",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "lw",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "python",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "fkill",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "scode",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "pp",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "niop",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "create-next-app",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "vnpm",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "STEAM_KEY=5B23D7ECE73049D23EEB3B58C57BC242",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "0;90;10M32;90;10M0;90;10md",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "0;83;12M0;83;12md",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "0;66;7M32;66;7M0;66;7md",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "0;65;6M32;65;6M0;65;6md",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "0;73;13M32;73;13M0;73;13md",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "0;89;15M32;89;15M0;89;15md",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "0;71;14M32;71;14M0;71;14md",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "clea",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "z",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "clkear",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "cela",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "cler",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "cleaer",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "0;81;8M32;81;8M0;81;8md",
+    "count": 1,
+    "percent": "0.01%"
   }
 ]
