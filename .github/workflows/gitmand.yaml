@@ -21,7 +21,13 @@ jobs:
           write-mode: overwrite
           contents: ${{ steps.gitmand.outputs.svg }}
 
+      - name: Check diff
+        id: verify_diff
+        run: |
+          git diff --quiet gitmand.svg || echo "::set-output name=new_file_exist::true"
+
       - name: Commit file
+        if: steps.verify_diff.outputs.new_file_exist == 'true'
         run: |
           git add gitmand.svg
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
