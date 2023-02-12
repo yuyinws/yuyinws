@@ -2,9 +2,8 @@ name: activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '* * * * *'
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
 jobs:
   build:
     runs-on: ubuntu-latest
