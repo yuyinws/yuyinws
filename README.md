@@ -16,6 +16,8 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
     <img width="30" height="30" alt="VScode" src="./assets/vscode.svg" /> 
     <img width="30" height="30" alt="Git" src="./assets/git.svg" />
     <img width="30" height="30" alt="Docker" src="./assets/docker.svg" />
+    <img width="30" height="30" alt="Vercel" src="./assets/vercel.svg" />
+    <img width="30" height="30" alt="Netlify" src="./assets/netlify.svg" />
     <img width="30" height="30" alt="Figma" src="https://static.figma.com/app/icon/1/favicon.svg" />
 </div>
 
