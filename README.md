@@ -34,9 +34,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 - [**comm1t**](https://github.com/yuyinws/comm1t) - Find Repo's First Commit.
 
 ### ⭐️ Recent Activity
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
+
 <details>
   <summary>
   More Info
