@@ -1,38 +1,38 @@
 [
   {
     "command": "ls",
-    "count": 1188,
-    "percent": "11.76%"
+    "count": 1185,
+    "percent": "11.72%"
   },
   {
     "command": "cd",
-    "count": 1121,
-    "percent": "11.10%"
+    "count": 1120,
+    "percent": "11.08%"
   },
   {
     "command": "d",
-    "count": 1071,
-    "percent": "10.60%"
+    "count": 1067,
+    "percent": "10.55%"
   },
   {
     "command": "code",
-    "count": 740,
+    "count": 741,
     "percent": "7.33%"
   },
   {
     "command": "git",
-    "count": 642,
-    "percent": "6.36%"
+    "count": 646,
+    "percent": "6.39%"
   },
   {
     "command": "w",
-    "count": 524,
-    "percent": "5.19%"
+    "count": 527,
+    "percent": "5.21%"
   },
   {
     "command": "ni",
-    "count": 429,
-    "percent": "4.25%"
+    "count": 431,
+    "percent": "4.26%"
   },
   {
     "command": "b",
@@ -46,18 +46,18 @@
   },
   {
     "command": "c",
-    "count": 252,
-    "percent": "2.49%"
+    "count": 253,
+    "percent": "2.50%"
   },
   {
     "command": "npx",
-    "count": 198,
-    "percent": "1.96%"
+    "count": 199,
+    "percent": "1.97%"
   },
   {
     "command": "clear",
-    "count": 178,
-    "percent": "1.76%"
+    "count": 179,
+    "percent": "1.77%"
   },
   {
     "command": "pnpm",
@@ -66,8 +66,8 @@
   },
   {
     "command": "i",
-    "count": 165,
-    "percent": "1.63%"
+    "count": 168,
+    "percent": "1.66%"
   },
   {
     "command": "vim",
@@ -120,14 +120,9 @@
     "percent": "0.78%"
   },
   {
-    "command": "gc",
+    "command": "curl",
     "count": 72,
     "percent": "0.71%"
-  },
-  {
-    "command": "curl",
-    "count": 67,
-    "percent": "0.66%"
   },
   {
     "command": "sudo",
@@ -155,14 +150,14 @@
     "percent": "0.60%"
   },
   {
+    "command": "gc",
+    "count": 61,
+    "percent": "0.60%"
+  },
+  {
     "command": "nu",
     "count": 58,
     "percent": "0.57%"
-  },
-  {
-    "command": "ga",
-    "count": 55,
-    "percent": "0.54%"
   },
   {
     "command": "bp",
@@ -171,18 +166,23 @@
   },
   {
     "command": "l",
-    "count": 50,
+    "count": 51,
     "percent": "0.50%"
+  },
+  {
+    "command": "ga",
+    "count": 48,
+    "percent": "0.47%"
   },
   {
     "command": "brew",
     "count": 47,
-    "percent": "0.47%"
+    "percent": "0.46%"
   },
   {
     "command": "go",
-    "count": 42,
-    "percent": "0.42%"
+    "count": 44,
+    "percent": "0.44%"
   },
   {
     "command": "nio",
@@ -430,6 +430,11 @@
     "percent": "0.06%"
   },
   {
+    "command": "wails",
+    "count": 6,
+    "percent": "0.06%"
+  },
+  {
     "command": "bat",
     "count": 5,
     "percent": "0.05%"
@@ -550,6 +555,16 @@
     "percent": "0.03%"
   },
   {
+    "command": "/Users/yuyin/Scripts/login_tencent",
+    "count": 3,
+    "percent": "0.03%"
+  },
+  {
+    "command": "carbonyl",
+    "count": 3,
+    "percent": "0.03%"
+  },
+  {
     "command": "export",
     "count": 2,
     "percent": "0.02%"
@@ -566,11 +581,6 @@
   },
   {
     "command": "hostname",
-    "count": 2,
-    "percent": "0.02%"
-  },
-  {
-    "command": "a",
     "count": 2,
     "percent": "0.02%"
   },
@@ -650,12 +660,12 @@
     "percent": "0.02%"
   },
   {
-    "command": "c;",
+    "command": "sls",
     "count": 2,
     "percent": "0.02%"
   },
   {
-    "command": "/Users/yuyin/Scripts/login_tencent",
+    "command": "c;",
     "count": 2,
     "percent": "0.02%"
   },
@@ -796,6 +806,11 @@
   },
   {
     "command": "gaga",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "a",
     "count": 1,
     "percent": "0.01%"
   },
@@ -1125,11 +1140,6 @@
     "percent": "0.01%"
   },
   {
-    "command": "sls",
-    "count": 1,
-    "percent": "0.01%"
-  },
-  {
     "command": "CD",
     "count": 1,
     "percent": "0.01%"
@@ -1261,6 +1271,21 @@
   },
   {
     "command": "mysqld",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "/Users/yuyin/i/wails-demo/build/bin/wails-demo.app/Contents/MacOS/wails-demo;",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "/Users/yuyin/Downloads/carbonyl-0.0.2/carbonyl;",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "./carbonyl",
     "count": 1,
     "percent": "0.01%"
   }
