@@ -27,7 +27,7 @@ jobs:
           git diff --quiet gitmand.svg || echo "new_file_exist=true" >> $GITHUB_ENV
 
       - name: Commit file
-        if: ${{ env.action_state }} == 'true'
+        if: env.action_state == 'true'
         run: |
           git add gitmand.svg
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
