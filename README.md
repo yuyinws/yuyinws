@@ -31,8 +31,15 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 - [**v2erminal**](https://github.com/yuyinws/v2erminal) - Interactive terminal client for V2EX.  
 - [**comm1t**](https://github.com/yuyinws/comm1t) - Find Repo's First Commit.
 
+### ⭐️ Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+<details>
+  <summary>
+  More Info
+  </summary>
 <img src="https://raw.githubusercontent.com/yuyinws/yuyinws/master/gitmand.svg" />
-
 <img src="https://card.yuy1n.io/card/76561198340841543/tokyonight,en,badge,group" />
-
 <img src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/github-metrics.svg" />
+</details>
