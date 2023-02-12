@@ -24,10 +24,10 @@ jobs:
       - name: Check diff
         id: verify_diff
         run: |
-          git diff --quiet gitmand.svg || echo "::set-output name=new_file_exist::true"
+          git diff --quiet gitmand.svg || echo "new_file_exist=true" >> $GITHUB_ENV
 
       - name: Commit file
-        if: steps.verify_diff.outputs.new_file_exist == 'true'
+        if: ${{ env.action_state }} == 'true'
         run: |
           git add gitmand.svg
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
