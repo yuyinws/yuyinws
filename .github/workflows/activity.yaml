@@ -1,8 +1,8 @@
-name: Update README
+name: Recent Activity
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Update every 30 minutes
+    - cron: '0 * * * *' # Update every 30 minutes
   workflow_dispatch:
 jobs:
   build:
