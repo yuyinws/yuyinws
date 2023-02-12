@@ -2,9 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Update every 30 minutes
+    - cron: '*/5 * * * *' # Update every 30 minutes
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
 jobs:
   build:
     runs-on: ubuntu-latest
