@@ -37,9 +37,9 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 <!--RECENT_ACTIVITY:start-->
 1. Pushed 1 commit(s) to [yuyinws/v2ex-topic-tooltip](https://github.com/yuyinws/v2ex-topic-tooltip)<br>
 2. Pushed 1 commit(s) to [yuyinws/v2ex-topic-tooltip](https://github.com/yuyinws/v2ex-topic-tooltip)<br>
-3. Pushed 1 commit(s) to [yuyinws/v2ex-topic-tooltip](https://github.com/yuyinws/v2ex-topic-tooltip)<br>
-4. Created new repository [yuyinws/v2ex-topic-tooltip](https://github.com/yuyinws/v2ex-topic-tooltip)<br>
-5. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
+3. Pushed 1 commit(s) to [yuyinws/static](https://github.com/yuyinws/static)<br>
+4. Pushed 1 commit(s) to [yuyinws/v2ex-topic-tooltip](https://github.com/yuyinws/v2ex-topic-tooltip)<br>
+5. Pushed 1 commit(s) to [yuyinws/v2ex-topic-tooltip](https://github.com/yuyinws/v2ex-topic-tooltip)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
