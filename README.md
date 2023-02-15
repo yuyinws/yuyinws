@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [yuyinws/v2ex-topic-tooltip](https://github.com/yuyinws/v2ex-topic-tooltip)<br>
-2. Pushed 2 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
-3. Starred [natemoo-re/clack](https://github.com/natemoo-re/clack)<br>
-4. Starred [withastro/astro](https://github.com/withastro/astro)<br>
-5. Pushed 1 commit(s) to [yuyinws/v2ex-topic-tooltip](https://github.com/yuyinws/v2ex-topic-tooltip)<br>
+1. Forked [yuyinws/nuxt](https://github.com/yuyinws/nuxt) from [nuxt/nuxt](https://github.com/nuxt/nuxt)<br>
+2. Pushed 1 commit(s) to [yuyinws/v2ex-topic-tooltip](https://github.com/yuyinws/v2ex-topic-tooltip)<br>
+3. Pushed 2 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
+4. Starred [natemoo-re/clack](https://github.com/natemoo-re/clack)<br>
+5. Starred [withastro/astro](https://github.com/withastro/astro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
