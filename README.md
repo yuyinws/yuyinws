@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
-2. Pushed 1 commit(s) to [yuyinws/nuxt](https://github.com/yuyinws/nuxt)<br>
-3. Starred [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)<br>
-4. Opened PR [#19070](https://github.com/nuxt/nuxt/pull/19070) in [nuxt/nuxt](https://github.com/nuxt/nuxt)<br>
-5. Pushed 1 commit(s) to [yuyinws/nuxt](https://github.com/yuyinws/nuxt)<br>
+1. Starred [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)<br>
+2. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
+3. Pushed 1 commit(s) to [yuyinws/nuxt](https://github.com/yuyinws/nuxt)<br>
+4. Starred [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)<br>
+5. Opened PR [#19070](https://github.com/nuxt/nuxt/pull/19070) in [nuxt/nuxt](https://github.com/nuxt/nuxt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
