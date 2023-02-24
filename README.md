@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Starred [yuyinws/game-gpt](https://github.com/yuyinws/game-gpt)<br>
-2. Pushed 1 commit(s) to [yuyinws/static](https://github.com/yuyinws/static)<br>
-3. Pushed 1 commit(s) to [yuyinws/game-gpt](https://github.com/yuyinws/game-gpt)<br>
-4. Pushed 1 commit(s) to [yuyinws/static](https://github.com/yuyinws/static)<br>
-5. Pushed 1 commit(s) to [yuyinws/game-gpt](https://github.com/yuyinws/game-gpt)<br>
+1. Starred [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
+2. Starred [yuyinws/game-gpt](https://github.com/yuyinws/game-gpt)<br>
+3. Pushed 1 commit(s) to [yuyinws/static](https://github.com/yuyinws/static)<br>
+4. Pushed 1 commit(s) to [yuyinws/game-gpt](https://github.com/yuyinws/game-gpt)<br>
+5. Pushed 1 commit(s) to [yuyinws/static](https://github.com/yuyinws/static)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
