@@ -7,27 +7,27 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 ### ⚒️ I 'm working with: 
 
 <div style="display: flex; gap: 10px">
-  <img width="30" height="30" alt="JavaScript" src="./assets/js.svg" />
-    <img width="30" height="30" alt="TypeScript" src="./assets/ts.svg" />
-    <img width="30" height="30" alt="NodeJS" src="./assets/node.svg" /> 
+  <img width="30" height="30" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/js.svg" />
+    <img width="30" height="30" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/ts.svg" />
+    <img width="30" height="30" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/node.svg" /> 
     <img width="30" height="30" alt="VueJS" src="https://vuejs.org/logo.svg" />
-    <img width="30" height="30" alt="NuxtJS" src="./assets/nuxt.svg" />
+    <img width="30" height="30" alt="NuxtJS" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/nuxt.svg" />
     <img width="30" height="30" alt="Vite" src="https://vitejs.dev/logo.svg" /> 
     <img width="30" height="30" alt="Unocss" src="https://uno.antfu.me/favicon.svg" />
-    <img width="30" height="30" alt="Eslint" src="./assets/eslint.svg" />
-    <img width="30" height="30" alt="VScode" src="./assets/vscode.svg" /> 
-    <img width="30" height="30" alt="Git" src="./assets/git.svg" />
-    <img width="30" height="30" alt="Github" src="./assets/github.svg">
-    <img width="30" height="30" alt="Docker" src="./assets/docker.svg" />
-    <img width="30" height="30" alt="Vercel" src="./assets/vercel.svg" />
-    <img width="30" height="30" alt="Netlify" src="./assets/netlify.svg" />
+    <img width="30" height="30" alt="Eslint" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/eslint.svg" />
+    <img width="30" height="30" alt="VScode" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/vscode.svg" /> 
+    <img width="30" height="30" alt="Git" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/git.svg" />
+    <img width="30" height="30" alt="Github" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/github.svg">
+    <img width="30" height="30" alt="Docker" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/docker.svg" />
+    <img width="30" height="30" alt="Vercel" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/vercel.svg" />
+    <img width="30" height="30" alt="Netlify" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/netlify.svg" />
     <img width="30" height="30" alt="Figma" src="https://static.figma.com/app/icon/1/favicon.svg" />
 </div>
 
 ### ⚡️ I 'm current learning:
 <div style="display: flex; gap: 10px">
-  <img width="30" height="30" alt="Go" src="./assets/go.svg">
-  <img width="30" height="30" alt="Wails" src="./assets/wails.svg">
+  <img width="30" height="30" alt="Go" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/go.svg">
+  <img width="30" height="30" alt="Wails" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/wails.svg">
   <img width="30" height="30" alt="Astro" src="https://astro.build/favicon.svg" >
 </div>
 
