@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Starred [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)<br>
-2. Starred [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
-3. Starred [yuyinws/game-gpt](https://github.com/yuyinws/game-gpt)<br>
-4. Pushed 1 commit(s) to [yuyinws/static](https://github.com/yuyinws/static)<br>
-5. Pushed 1 commit(s) to [yuyinws/game-gpt](https://github.com/yuyinws/game-gpt)<br>
+1. Starred [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)<br>
+2. Starred [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)<br>
+3. Starred [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
+4. Starred [yuyinws/game-gpt](https://github.com/yuyinws/game-gpt)<br>
+5. Pushed 1 commit(s) to [yuyinws/static](https://github.com/yuyinws/static)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
