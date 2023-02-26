@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 5 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
-2. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
-3. Opened issue [#71](https://github.com/yuyinws/steam-card/issues/71) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-4. Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-5. Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)<br>
+1. Starred [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)<br>
+2. Starred [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)<br>
+3. Created new repository [yuyinws/ChatGPT-Web](https://github.com/yuyinws/ChatGPT-Web)<br>
+4. Pushed 5 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
+5. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
