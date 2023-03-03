@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 2 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
-2. Pushed 1 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
-3. Pushed 91 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
-4. Pushed 8 commit(s) to [yuyinws/ChatGPT-Web](https://github.com/yuyinws/ChatGPT-Web)<br>
-5. Merged PR [#1](https://github.com/yuyinws/ChatGPT-Web/pull/1) in [yuyinws/ChatGPT-Web](https://github.com/yuyinws/ChatGPT-Web)<br>
+1. Pushed 1 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
+2. Merged PR [#2](https://github.com/yuyinws/ChatGPT-Web/pull/2) in [yuyinws/ChatGPT-Web](https://github.com/yuyinws/ChatGPT-Web)<br>
+3. Pushed 7 commit(s) to [yuyinws/ChatGPT-Web](https://github.com/yuyinws/ChatGPT-Web)<br>
+4. Pushed 2 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
+5. Pushed 1 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
