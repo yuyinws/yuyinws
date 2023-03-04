@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Starred [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)<br>
-2. Opened issue [#72](https://github.com/yuyinws/steam-card/issues/72) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-3. Opened PR [#11799](https://github.com/element-plus/element-plus/pull/11799) in [element-plus/element-plus](https://github.com/element-plus/element-plus)<br>
-4. Pushed 1 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
-5. Pushed 1 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
+1. Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+2. Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+3. Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+4. Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+5. Opened PR [#73](https://github.com/yuyinws/steam-card/pull/73) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
