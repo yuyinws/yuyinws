@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 13 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-2. Merged PR [#76](https://github.com/yuyinws/steam-card/pull/76) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-3. Opened PR [#76](https://github.com/yuyinws/steam-card/pull/76) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-4. Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-5. Pushed 2 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+1. Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+2. Pushed 13 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+3. Merged PR [#76](https://github.com/yuyinws/steam-card/pull/76) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+4. Opened PR [#76](https://github.com/yuyinws/steam-card/pull/76) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+5. Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
