@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Created new repository [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
-2. Created new repository [yuyinws/chatgpt-demo](https://github.com/yuyinws/chatgpt-demo)<br>
-3. Starred [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)<br>
-4. Starred [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack)<br>
-5. Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+1. Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+2. Created new repository [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+3. Created new repository [yuyinws/chatgpt-demo](https://github.com/yuyinws/chatgpt-demo)<br>
+4. Starred [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)<br>
+5. Starred [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
