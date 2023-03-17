@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
-2. Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
-3. Pushed 49 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
-4. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
-5. Starred [brunosimon/folio-2019](https://github.com/brunosimon/folio-2019)<br>
+1. Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+2. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
+3. Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+4. Pushed 49 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
+5. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
