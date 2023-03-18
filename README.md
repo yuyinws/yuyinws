@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Starred [SchnapsterDog/nuxt-chatgpt](https://github.com/SchnapsterDog/nuxt-chatgpt)<br>
-2. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
-3. Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
-4. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
-5. Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+1. Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+2. Starred [SchnapsterDog/nuxt-chatgpt](https://github.com/SchnapsterDog/nuxt-chatgpt)<br>
+3. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
+4. Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+5. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
