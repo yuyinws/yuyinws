@@ -41,9 +41,9 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 <!--RECENT_ACTIVITY:start-->
 1. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
 2. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
-3. Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
-4. Starred [antvis/G6](https://github.com/antvis/G6)<br>
-5. Starred [antfu/vue-template-promise](https://github.com/antfu/vue-template-promise)<br>
+3. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
+4. Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+5. Starred [antvis/G6](https://github.com/antvis/G6)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
