@@ -40,10 +40,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
-2. Starred [alist-org/alist](https://github.com/alist-org/alist)<br>
-3. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
+2. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
+3. Starred [alist-org/alist](https://github.com/alist-org/alist)<br>
 4. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
-5. Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+5. Pushed 1 commit(s) to [yuyinws/yuyinws](https://github.com/yuyinws/yuyinws)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
