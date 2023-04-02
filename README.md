@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 29 commit(s) to [yuyinws/chatgpt-demo](https://github.com/yuyinws/chatgpt-demo)<br>
-2. ⭐️ Starred [alist-org/alist](https://github.com/alist-org/alist)<br>
-3. ⭐️ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+1. ⭐️ Starred [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)<br>
+2. 👨🏻‍💻 Created new repository [yuyinws/ChatGPT-Web](https://github.com/yuyinws/ChatGPT-Web)<br>
+3. 💪 Pushed 29 commit(s) to [yuyinws/chatgpt-demo](https://github.com/yuyinws/chatgpt-demo)<br>
+4. ⭐️ Starred [alist-org/alist](https://github.com/alist-org/alist)<br>
+5. ⭐️ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
