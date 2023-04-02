@@ -51,6 +51,8 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
   More Info
   </summary>
 <img src="https://raw.githubusercontent.com/yuyinws/yuyinws/master/gitmand.svg" />
-<img src="https://card.yuy1n.io/card/76561198340841543/tokyonight,en,badge,group" />
+<br />
+<img src="https://card.yuy1n.io/card/76561198340841543/dark,bg-game-1850570" />
+<br />
 <img src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/github-metrics.svg" />
 </details>
