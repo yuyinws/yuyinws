@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [yetone/openai-translator](https://github.com/yetone/openai-translator)<br>
-2. ⭐️ Starred [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)<br>
-3. 👨🏻‍💻 Created new repository [yuyinws/ChatGPT-Web](https://github.com/yuyinws/ChatGPT-Web)<br>
-4. 💪 Pushed 29 commit(s) to [yuyinws/chatgpt-demo](https://github.com/yuyinws/chatgpt-demo)<br>
-5. ⭐️ Starred [alist-org/alist](https://github.com/alist-org/alist)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/unocss](https://github.com/yuyinws/unocss)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/unocss](https://github.com/yuyinws/unocss)<br>
+3. Opened PR [#2436](https://github.com/unocss/unocss/pull/2436) in [unocss/unocss](https://github.com/unocss/unocss)<br>
+4. 🍴 Forked [yuyinws/unocss](https://github.com/yuyinws/unocss) from [unocss/unocss](https://github.com/unocss/unocss)<br>
+5. ⭐️ Starred [yetone/openai-translator](https://github.com/yetone/openai-translator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
