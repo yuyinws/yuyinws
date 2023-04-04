@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/unocss](https://github.com/yuyinws/unocss)<br>
+1. ⭐️ Starred [yue1123/ts-config-helper](https://github.com/yue1123/ts-config-helper)<br>
 2. 💪 Pushed 1 commit(s) to [yuyinws/unocss](https://github.com/yuyinws/unocss)<br>
-3. Opened PR [#2436](https://github.com/unocss/unocss/pull/2436) in [unocss/unocss](https://github.com/unocss/unocss)<br>
-4. 🍴 Forked [yuyinws/unocss](https://github.com/yuyinws/unocss) from [unocss/unocss](https://github.com/unocss/unocss)<br>
-5. ⭐️ Starred [yetone/openai-translator](https://github.com/yetone/openai-translator)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/unocss](https://github.com/yuyinws/unocss)<br>
+4. Opened PR [#2436](https://github.com/unocss/unocss/pull/2436) in [unocss/unocss](https://github.com/unocss/unocss)<br>
+5. 🍴 Forked [yuyinws/unocss](https://github.com/yuyinws/unocss) from [unocss/unocss](https://github.com/unocss/unocss)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
