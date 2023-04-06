@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened issue [#84](https://github.com/yuyinws/steam-card/issues/84) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-2. ⭐️ Starred [yue1123/ts-config-helper](https://github.com/yue1123/ts-config-helper)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/unocss](https://github.com/yuyinws/unocss)<br>
+1. ⭐️ Starred [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)<br>
+2. Opened issue [#84](https://github.com/yuyinws/steam-card/issues/84) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+3. ⭐️ Starred [yue1123/ts-config-helper](https://github.com/yue1123/ts-config-helper)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/unocss](https://github.com/yuyinws/unocss)<br>
-5. Opened PR [#2436](https://github.com/unocss/unocss/pull/2436) in [unocss/unocss](https://github.com/unocss/unocss)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/unocss](https://github.com/yuyinws/unocss)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
