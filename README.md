@@ -13,7 +13,8 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
     <img width="30" height="30" alt="VueJS" src="https://vuejs.org/logo.svg" />
     <img width="30" height="30" alt="NuxtJS" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/nuxt.svg" />
     <img width="30" height="30" alt="Vite" src="https://vitejs.dev/logo.svg" /> 
-    <img width="30" height="30" alt="Unocss" src="https://uno.antfu.me/favicon.svg" />
+    <img width="30" height="30" alt="Astro" src="https://astro.build/favicon.svg" >
+    <img width="30" height="30" alt="Unocss" src="https://unocss.dev/favicon.svg" />
     <img width="30" height="30" alt="Eslint" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/eslint.svg" />
     <img width="30" height="30" alt="VScode" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/vscode.svg" /> 
     <img width="30" height="30" alt="Git" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/git.svg" />
@@ -28,7 +29,6 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 <div style="display: flex; gap: 10px">
   <img width="30" height="30" alt="Go" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/go.svg">
   <img width="30" height="30" alt="Wails" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/wails.svg">
-  <img width="30" height="30" alt="Astro" src="https://astro.build/favicon.svg" >
 </div>
 
 ### 👨🏻‍💻 I 've built these awesome projects:  
