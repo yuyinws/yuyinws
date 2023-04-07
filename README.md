@@ -40,10 +40,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-5. ⭐️ Starred [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)<br>
+2. Merged PR [#86](https://github.com/yuyinws/steam-card/pull/86) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+3. Opened PR [#86](https://github.com/yuyinws/steam-card/pull/86) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+4. Closed PR [#85](https://github.com/yuyinws/steam-card/pull/85) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+5. Closed PR [#85](https://github.com/yuyinws/steam-card/pull/85) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
