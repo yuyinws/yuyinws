@@ -40,10 +40,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-2. ⭐️ Starred [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)<br>
-3. Opened issue [#84](https://github.com/yuyinws/steam-card/issues/84) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-4. ⭐️ Starred [yue1123/ts-config-helper](https://github.com/yue1123/ts-config-helper)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/unocss](https://github.com/yuyinws/unocss)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+5. ⭐️ Starred [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
