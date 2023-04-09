@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 2 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-2. Merged PR [#87](https://github.com/yuyinws/steam-card/pull/87) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-3. Opened PR [#87](https://github.com/yuyinws/steam-card/pull/87) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-5. ⭐️ Starred [antfu/case-police](https://github.com/antfu/case-police)<br>
+1. ⭐️ Starred [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)<br>
+2. 💪 Pushed 2 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+3. Merged PR [#87](https://github.com/yuyinws/steam-card/pull/87) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+4. Opened PR [#87](https://github.com/yuyinws/steam-card/pull/87) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
