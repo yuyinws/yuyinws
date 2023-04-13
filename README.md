@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [mathielo/dst-dedicated-server](https://github.com/mathielo/dst-dedicated-server)<br>
-2. ⭐️ Starred [Jamesits/docker-dst-server](https://github.com/Jamesits/docker-dst-server)<br>
-3. ⭐️ Starred [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)<br>
-4. 💪 Pushed 2 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-5. Merged PR [#87](https://github.com/yuyinws/steam-card/pull/87) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+1. ⭐️ Starred [antfu/vue-reuse-template](https://github.com/antfu/vue-reuse-template)<br>
+2. ⭐️ Starred [mathielo/dst-dedicated-server](https://github.com/mathielo/dst-dedicated-server)<br>
+3. ⭐️ Starred [Jamesits/docker-dst-server](https://github.com/Jamesits/docker-dst-server)<br>
+4. ⭐️ Starred [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)<br>
+5. 💪 Pushed 2 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
