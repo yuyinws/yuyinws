@@ -7,7 +7,7 @@ settings:
     timezone: "GMT+00:00"
     text: ""
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
-  ignored_repos: [yuyinws/yuyinws]
+  ignored_repos: [yuyinws/yuyinws, yuyinws/static]
 messages:
   push: "💪 Pushed {AMOUNT} commit(s) to {REPO}"
   comments: "Commented on {ID} in {REPO}"
