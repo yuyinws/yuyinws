@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/static](https://github.com/yuyinws/static)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/static](https://github.com/yuyinws/static)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/static](https://github.com/yuyinws/static)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/static](https://github.com/yuyinws/static)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/static](https://github.com/yuyinws/static)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+2. ⭐️ Starred [faker-js/faker](https://github.com/faker-js/faker)<br>
+3. ⭐️ Starred [vbenjs/vite-plugin-mock](https://github.com/vbenjs/vite-plugin-mock)<br>
+4. ⭐️ Starred [antfu/vue-reuse-template](https://github.com/antfu/vue-reuse-template)<br>
+5. ⭐️ Starred [mathielo/dst-dedicated-server](https://github.com/mathielo/dst-dedicated-server)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
