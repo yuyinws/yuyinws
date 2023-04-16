@@ -41,9 +41,9 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
 2. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
-3. ⭐️ Starred [faker-js/faker](https://github.com/faker-js/faker)<br>
-4. ⭐️ Starred [vbenjs/vite-plugin-mock](https://github.com/vbenjs/vite-plugin-mock)<br>
-5. ⭐️ Starred [antfu/vue-reuse-template](https://github.com/antfu/vue-reuse-template)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+4. ⭐️ Starred [faker-js/faker](https://github.com/faker-js/faker)<br>
+5. ⭐️ Starred [vbenjs/vite-plugin-mock](https://github.com/vbenjs/vite-plugin-mock)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
