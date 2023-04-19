@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/chatgpt-demo](https://github.com/yuyinws/chatgpt-demo) from [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)<br>
-2. 💪 Pushed 11 commit(s) to [yuyinws/chatgpt-demo](https://github.com/yuyinws/chatgpt-demo)<br>
-3. ⭐️ Starred [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+2. Merged PR [#89](https://github.com/yuyinws/steam-card/pull/89) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+3. Opened PR [#89](https://github.com/yuyinws/steam-card/pull/89) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+4. Closed PR [#88](https://github.com/yuyinws/steam-card/pull/88) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+5. Opened PR [#88](https://github.com/yuyinws/steam-card/pull/88) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
