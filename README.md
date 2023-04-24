@@ -39,9 +39,9 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [apache/echarts](https://github.com/apache/echarts)<br>
-2. ⭐️ Starred [Kong/swrv](https://github.com/Kong/swrv)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+1. ⭐️ Starred [pnpm/pnpm](https://github.com/pnpm/pnpm)<br>
+2. ⭐️ Starred [apache/echarts](https://github.com/apache/echarts)<br>
+3. ⭐️ Starred [Kong/swrv](https://github.com/Kong/swrv)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
 <!--RECENT_ACTIVITY:end-->
