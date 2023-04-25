@@ -50,7 +50,7 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
   <summary>
   More Info
   </summary>
-<img src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/master/gitmand.svg" />
+<img src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/gitmand.svg" />
 <br />
 <img src="https://card.yuy1n.io/card/76561198340841543/dark,bg-game-1850570" />
 <br />
