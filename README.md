@@ -14,11 +14,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
     <img width="30" height="30" alt="NuxtJS" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/nuxt.svg" />
     <img width="30" height="30" alt="Vite" src="https://vitejs.dev/logo.svg" /> 
     <img width="30" height="30" alt="Astro" src="https://astro.build/favicon.svg" >
-    <img width="30" height="30" alt="Unocss" src="https://unocss.dev/favicon.svg" />
-    <img width="30" height="30" alt="Eslint" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/eslint.svg" />
-    <img width="30" height="30" alt="VScode" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/vscode.svg" /> 
+    <img width="30" height="30" alt="UnoCSS" src="https://unocss.dev/favicon.svg" />
+    <img width="30" height="30" alt="ESLint" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/eslint.svg" />
+    <img width="30" height="30" alt="VS Code" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/vscode.svg" /> 
     <img width="30" height="30" alt="Git" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/git.svg" />
-    <img width="30" height="30" alt="Github" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/github.svg">
+    <img width="30" height="30" alt="GitHub" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/github.svg">
     <img width="30" height="30" alt="Docker" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/docker.svg" />
     <img width="30" height="30" alt="Vercel" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/vercel.svg" />
     <img width="30" height="30" alt="Netlify" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/netlify.svg" />
@@ -33,7 +33,7 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### 👨🏻‍💻 I 've built these awesome projects:  
 - [**Steam Card**](https://github.com/yuyinws/steam-card) - Generate Your Steam Profile Quickly.  
-- [**gitmand**](https://github.com/yuyinws/gitmand) - Display your most used command on Github/Gist.  
+- [**gitmand**](https://github.com/yuyinws/gitmand) - Display your most used command on GitHub/Gist.  
 - [**v2erminal**](https://github.com/yuyinws/v2erminal) - Interactive terminal client for V2EX.  
 - [**comm1t**](https://github.com/yuyinws/comm1t) - Find Repo's First Commit.
 

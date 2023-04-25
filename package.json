@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/yuyinws/yuyinws#readme",
   "devDependencies": {
+    "case-police": "^0.5.14",
     "gitmand": "^0.0.6"
   }
 }
