@@ -17,7 +17,7 @@
   {
     "command": "code",
     "count": 744,
-    "percent": "7.33%"
+    "percent": "7.32%"
   },
   {
     "command": "git",
@@ -31,8 +31,8 @@
   },
   {
     "command": "ni",
-    "count": 490,
-    "percent": "4.83%"
+    "count": 493,
+    "percent": "4.85%"
   },
   {
     "command": "rm",
@@ -51,8 +51,8 @@
   },
   {
     "command": "npx",
-    "count": 232,
-    "percent": "2.29%"
+    "count": 234,
+    "percent": "2.30%"
   },
   {
     "command": "i",
@@ -86,8 +86,8 @@
   },
   {
     "command": "",
-    "count": 113,
-    "percent": "1.11%"
+    "count": 114,
+    "percent": "1.12%"
   },
   {
     "command": "docker",
@@ -197,12 +197,12 @@
   {
     "command": "echo",
     "count": 33,
-    "percent": "0.33%"
+    "percent": "0.32%"
   },
   {
     "command": "clone",
     "count": 33,
-    "percent": "0.33%"
+    "percent": "0.32%"
   },
   {
     "command": "sftp",
