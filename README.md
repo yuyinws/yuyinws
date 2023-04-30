@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/star-action-test](https://github.com/yuyinws/star-action-test)<br>
-3. ⭐️ Starred [yuyinws/star-action-test](https://github.com/yuyinws/star-action-test)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/star-action-test](https://github.com/yuyinws/star-action-test)<br>
-5. ⭐️ Starred [pnpm/pnpm](https://github.com/pnpm/pnpm)<br>
+1. ⭐️ Starred [github/opensource.guide](https://github.com/github/opensource.guide)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/star-action-test](https://github.com/yuyinws/star-action-test)<br>
+4. ⭐️ Starred [yuyinws/star-action-test](https://github.com/yuyinws/star-action-test)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/star-action-test](https://github.com/yuyinws/star-action-test)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
