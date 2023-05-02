@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/anse](https://github.com/yuyinws/anse) from [anse-app/anse](https://github.com/anse-app/anse)<br>
-2. ⭐️ Starred [spf13/cobra](https://github.com/spf13/cobra)<br>
-3. ⭐️ Starred [github/opensource.guide](https://github.com/github/opensource.guide)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/star-action-test](https://github.com/yuyinws/star-action-test)<br>
+1. 🍴 Forked [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web) from [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)<br>
+2. 🍴 Forked [yuyinws/anse](https://github.com/yuyinws/anse) from [anse-app/anse](https://github.com/anse-app/anse)<br>
+3. ⭐️ Starred [spf13/cobra](https://github.com/spf13/cobra)<br>
+4. ⭐️ Starred [github/opensource.guide](https://github.com/github/opensource.guide)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
