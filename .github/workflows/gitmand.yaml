@@ -24,7 +24,12 @@ jobs:
       - name: Check diff
         id: verify_diff
         run: |
-          git diff --quiet gitmand.svg || echo "new_file_exist=true" >> $GITHUB_ENV
+          git diff --quiet gitmand.svg || echo "action_state=true" >> $GITHUB_ENV
+
+      - name: get diff
+        id: get_diff
+        run: |
+          echo ${{ env.action_state }}
 
       - name: Commit file
         if: env.action_state == 'true'
