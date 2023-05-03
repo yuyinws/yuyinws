@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web) from [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)<br>
-2. 🍴 Forked [yuyinws/anse](https://github.com/yuyinws/anse) from [anse-app/anse](https://github.com/anse-app/anse)<br>
-3. ⭐️ Starred [spf13/cobra](https://github.com/spf13/cobra)<br>
-4. ⭐️ Starred [github/opensource.guide](https://github.com/github/opensource.guide)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+1. Closed issue [#84](https://github.com/yuyinws/steam-card/issues/84) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+2. 💪 Pushed 2 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+3. Merged PR [#90](https://github.com/yuyinws/steam-card/pull/90) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+4. Opened PR [#90](https://github.com/yuyinws/steam-card/pull/90) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
