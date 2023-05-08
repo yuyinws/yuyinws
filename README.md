@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)<br>
-2. 💪 Pushed 14 commit(s) to [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/got](https://github.com/yuyinws/got)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-5. Closed issue [#84](https://github.com/yuyinws/steam-card/issues/84) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+1. 🍴 Forked [yuyinws/RSSHub](https://github.com/yuyinws/RSSHub) from [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)<br>
+2. ⭐️ Starred [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)<br>
+3. 💪 Pushed 14 commit(s) to [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/got](https://github.com/yuyinws/got)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
