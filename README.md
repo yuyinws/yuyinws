@@ -43,7 +43,7 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 2. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
 3. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
-5. 🍴 Forked [yuyinws/RSSHub](https://github.com/yuyinws/RSSHub) from [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
