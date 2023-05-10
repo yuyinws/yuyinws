@@ -40,10 +40,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
-2. 🍴 Forked [yuyinws/RSSHub](https://github.com/yuyinws/RSSHub) from [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)<br>
-3. ⭐️ Starred [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)<br>
-4. 💪 Pushed 14 commit(s) to [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/got](https://github.com/yuyinws/got)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+5. 🍴 Forked [yuyinws/RSSHub](https://github.com/yuyinws/RSSHub) from [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
