@@ -39,10 +39,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 54 commit(s) to [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+4. 💪 Pushed 54 commit(s) to [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/astro-blog](https://github.com/yuyinws/astro-blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
