@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+1. 👨🏻‍💻 Created new repository [yuyinws/vite-plugin-turbo-console-test](https://github.com/yuyinws/vite-plugin-turbo-console-test)<br>
 2. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
-3. ⭐️ Starred [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog)<br>
-4. ⭐️ Starred [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)<br>
-5. ⭐️ Starred [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+4. ⭐️ Starred [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog)<br>
+5. ⭐️ Starred [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
