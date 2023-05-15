@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Closed PR [#281](https://github.com/vuejs/create-vue/pull/281) in [vuejs/create-vue](https://github.com/vuejs/create-vue)<br>
-2. Opened PR [#281](https://github.com/vuejs/create-vue/pull/281) in [vuejs/create-vue](https://github.com/vuejs/create-vue)<br>
-3. 🍴 Forked [yuyinws/create-vue](https://github.com/yuyinws/create-vue) from [vuejs/create-vue](https://github.com/vuejs/create-vue)<br>
-4. 👨🏻‍💻 Created new repository [yuyinws/vite-plugin-turbo-console-test](https://github.com/yuyinws/vite-plugin-turbo-console-test)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+3. Closed PR [#281](https://github.com/vuejs/create-vue/pull/281) in [vuejs/create-vue](https://github.com/vuejs/create-vue)<br>
+4. Opened PR [#281](https://github.com/vuejs/create-vue/pull/281) in [vuejs/create-vue](https://github.com/vuejs/create-vue)<br>
+5. 🍴 Forked [yuyinws/create-vue](https://github.com/yuyinws/create-vue) from [vuejs/create-vue](https://github.com/vuejs/create-vue)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
