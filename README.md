@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket)<br>
-2. ⭐️ Starred [trpc/trpc](https://github.com/trpc/trpc)<br>
-3. Opened PR [#731](https://github.com/vitejs/awesome-vite/pull/731) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)<br>
-4. 🍴 Forked [yuyinws/awesome-vite](https://github.com/yuyinws/awesome-vite) from [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)<br>
-5. ⭐️ Starred [vue-vine/vue-vine](https://github.com/vue-vine/vue-vine)<br>
+1. ⭐️ Starred [Alfred-Skyblue/v-scale-screen](https://github.com/Alfred-Skyblue/v-scale-screen)<br>
+2. ⭐️ Starred [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket)<br>
+3. ⭐️ Starred [trpc/trpc](https://github.com/trpc/trpc)<br>
+4. Opened PR [#731](https://github.com/vitejs/awesome-vite/pull/731) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)<br>
+5. 🍴 Forked [yuyinws/awesome-vite](https://github.com/yuyinws/awesome-vite) from [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
