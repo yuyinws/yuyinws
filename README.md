@@ -1,5 +1,7 @@
 ## Hello there! 👋
 
+![readme](https://counter.yuy1n.io/counter/readme)
+
 [![wakatime](https://wakatime.com/badge/user/51143705-a99d-4e70-b101-fd9e1cb44e71.svg)](https://wakatime.com/@51143705-a99d-4e70-b101-fd9e1cb44e71)
 
 My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enjoy make some interesting things with coding.
