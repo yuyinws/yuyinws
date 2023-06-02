@@ -41,11 +41,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [logseq/logseq](https://github.com/logseq/logseq)<br>
-2. ⭐️ Starred [Alfred-Skyblue/v-scale-screen](https://github.com/Alfred-Skyblue/v-scale-screen)<br>
-3. ⭐️ Starred [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket)<br>
-4. ⭐️ Starred [trpc/trpc](https://github.com/trpc/trpc)<br>
-5. Opened PR [#731](https://github.com/vitejs/awesome-vite/pull/731) in [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)<br>
+1. ⭐️ Starred [zserge/awfice](https://github.com/zserge/awfice)<br>
+2. ⭐️ Starred [logseq/logseq](https://github.com/logseq/logseq)<br>
+3. ⭐️ Starred [Alfred-Skyblue/v-scale-screen](https://github.com/Alfred-Skyblue/v-scale-screen)<br>
+4. ⭐️ Starred [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket)<br>
+5. ⭐️ Starred [trpc/trpc](https://github.com/trpc/trpc)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
