@@ -41,11 +41,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [zserge/awfice](https://github.com/zserge/awfice)<br>
-2. ⭐️ Starred [logseq/logseq](https://github.com/logseq/logseq)<br>
-3. ⭐️ Starred [Alfred-Skyblue/v-scale-screen](https://github.com/Alfred-Skyblue/v-scale-screen)<br>
-4. ⭐️ Starred [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket)<br>
-5. ⭐️ Starred [trpc/trpc](https://github.com/trpc/trpc)<br>
+1. ⭐️ Starred [sxzz/unplugin-macros](https://github.com/sxzz/unplugin-macros)<br>
+2. 💪 Pushed 51 commit(s) to [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web)<br>
+3. ⭐️ Starred [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>
+4. ⭐️ Starred [zserge/awfice](https://github.com/zserge/awfice)<br>
+5. ⭐️ Starred [logseq/logseq](https://github.com/logseq/logseq)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
