@@ -42,11 +42,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [sxzz/unplugin-macros](https://github.com/sxzz/unplugin-macros)<br>
-2. 💪 Pushed 51 commit(s) to [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web)<br>
-3. ⭐️ Starred [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>
-4. ⭐️ Starred [zserge/awfice](https://github.com/zserge/awfice)<br>
-5. ⭐️ Starred [logseq/logseq](https://github.com/logseq/logseq)<br>
+1. ⭐️ Starred [ZekeSnider/NintendoSwitchRESTAPI](https://github.com/ZekeSnider/NintendoSwitchRESTAPI)<br>
+2. ⭐️ Starred [sxzz/unplugin-macros](https://github.com/sxzz/unplugin-macros)<br>
+3. 💪 Pushed 51 commit(s) to [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web)<br>
+4. ⭐️ Starred [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>
+5. ⭐️ Starred [zserge/awfice](https://github.com/zserge/awfice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
