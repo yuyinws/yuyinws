@@ -38,6 +38,7 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 - [**gitmand**](https://github.com/yuyinws/gitmand) - Display your most used command on GitHub/Gist.  
 - [**v2erminal**](https://github.com/yuyinws/v2erminal) - Interactive terminal client for V2EX.  
 - [**comm1t**](https://github.com/yuyinws/comm1t) - Find Repo's First Commit.
+- [**vite-plugin-turbo-console**](https://github.com/yuyinws/vite-plugin-turbo-console) - Enhance the readability of `console.log()`.
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
