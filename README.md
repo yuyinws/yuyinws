@@ -42,11 +42,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#13169](https://github.com/element-plus/element-plus/pull/13169) in [element-plus/element-plus](https://github.com/element-plus/element-plus)<br>
-2. Closed PR [#11799](https://github.com/element-plus/element-plus/pull/11799) in [element-plus/element-plus](https://github.com/element-plus/element-plus)<br>
-3. 💪 Pushed 181 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
-4. 💪 Pushed 136 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
-5. ⭐️ Starred [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
+1. ⭐️ Starred [nuxtrdev/nuxtr-vscode](https://github.com/nuxtrdev/nuxtr-vscode)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
+5. Opened PR [#13169](https://github.com/element-plus/element-plus/pull/13169) in [element-plus/element-plus](https://github.com/element-plus/element-plus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
