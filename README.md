@@ -42,11 +42,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
+1. ⭐️ Starred [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
 2. 💪 Pushed 1 commit(s) to [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
 3. 💪 Pushed 1 commit(s) to [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
-5. ⭐️ Starred [ZekeSnider/NintendoSwitchRESTAPI](https://github.com/ZekeSnider/NintendoSwitchRESTAPI)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
