@@ -42,11 +42,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
-2. ⭐️ Starred [nuxtrdev/nuxtr-vscode](https://github.com/nuxtrdev/nuxtr-vscode)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
+1. 👨🏻‍💻 Created new repository [yuyinws/anu-test](https://github.com/yuyinws/anu-test)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
+3. ⭐️ Starred [nuxtrdev/nuxtr-vscode](https://github.com/nuxtrdev/nuxtr-vscode)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
