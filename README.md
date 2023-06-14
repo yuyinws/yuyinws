@@ -42,11 +42,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👨🏻‍💻 Created new repository [yuyinws/anu-test](https://github.com/yuyinws/anu-test)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
-3. ⭐️ Starred [nuxtrdev/nuxtr-vscode](https://github.com/nuxtrdev/nuxtr-vscode)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
+1. 🍴 Forked [yuyinws/anu](https://github.com/yuyinws/anu) from [jd-solanki/anu](https://github.com/jd-solanki/anu)<br>
+2. Opened issue [#186](https://github.com/jd-solanki/anu/issues/186) in [jd-solanki/anu](https://github.com/jd-solanki/anu)<br>
+3. 👨🏻‍💻 Created new repository [yuyinws/anu-test](https://github.com/yuyinws/anu-test)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/element-plus](https://github.com/yuyinws/element-plus)<br>
+5. ⭐️ Starred [nuxtrdev/nuxtr-vscode](https://github.com/nuxtrdev/nuxtr-vscode)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
