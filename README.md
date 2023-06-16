@@ -42,11 +42,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Closed issue [#186](https://github.com/jd-solanki/anu/issues/186) in [jd-solanki/anu](https://github.com/jd-solanki/anu)<br>
-2. 💪 Pushed 2 commit(s) to [yuyinws/anu](https://github.com/yuyinws/anu)<br>
+1. ⭐️ Starred [vercel-labs/ai](https://github.com/vercel-labs/ai)<br>
+2. Closed issue [#186](https://github.com/jd-solanki/anu/issues/186) in [jd-solanki/anu](https://github.com/jd-solanki/anu)<br>
 3. 💪 Pushed 2 commit(s) to [yuyinws/anu](https://github.com/yuyinws/anu)<br>
-4. Opened PR [#187](https://github.com/jd-solanki/anu/pull/187) in [jd-solanki/anu](https://github.com/jd-solanki/anu)<br>
-5. 🍴 Forked [yuyinws/anu](https://github.com/yuyinws/anu) from [jd-solanki/anu](https://github.com/jd-solanki/anu)<br>
+4. 💪 Pushed 2 commit(s) to [yuyinws/anu](https://github.com/yuyinws/anu)<br>
+5. Opened PR [#187](https://github.com/jd-solanki/anu/pull/187) in [jd-solanki/anu](https://github.com/jd-solanki/anu)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
