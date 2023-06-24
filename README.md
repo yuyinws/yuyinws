@@ -44,7 +44,7 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Pushed 1 commit(s) to [yuyinws/v2ex-reaction](https://github.com/yuyinws/v2ex-reaction)<br>
 2. 💪 Pushed 1 commit(s) to [yuyinws/v2ex-reaction](https://github.com/yuyinws/v2ex-reaction)<br>
-3. 💪 Pushed 2 commit(s) to [yuyinws/v2ex-reaction](https://github.com/yuyinws/v2ex-reaction)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/v2ex-reaction](https://github.com/yuyinws/v2ex-reaction)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/v2ex-reaction](https://github.com/yuyinws/v2ex-reaction)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/v2ex-reaction](https://github.com/yuyinws/v2ex-reaction)<br>
 <!--RECENT_ACTIVITY:end-->
