@@ -40,8 +40,8 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/v2ex-reaction](https://github.com/yuyinws/v2ex-reaction)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/v2ex-reaction](https://github.com/yuyinws/v2ex-reaction)<br>
+1. 💪 Pushed 147 commit(s) to [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web)<br>
+2. 💪 Pushed 147 commit(s) to [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web)<br>
 3. 💪 Pushed 1 commit(s) to [yuyinws/v2ex-reaction](https://github.com/yuyinws/v2ex-reaction)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/v2ex-reaction](https://github.com/yuyinws/v2ex-reaction)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/v2ex-reaction](https://github.com/yuyinws/v2ex-reaction)<br>
