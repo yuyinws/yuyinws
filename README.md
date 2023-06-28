@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [exelban/stats](https://github.com/exelban/stats)<br>
-2. ⭐️ Starred [coolpace/V2EX_Polish](https://github.com/coolpace/V2EX_Polish)<br>
-3. ⭐️ Starred [gqty-dev/gqty](https://github.com/gqty-dev/gqty)<br>
-4. 💪 Pushed 147 commit(s) to [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web)<br>
-5. 💪 Pushed 147 commit(s) to [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web)<br>
+1. 💪 Pushed 3 commit(s) to [yuyinws/anu](https://github.com/yuyinws/anu)<br>
+2. 💪 Pushed 3 commit(s) to [yuyinws/anu](https://github.com/yuyinws/anu)<br>
+3. ⭐️ Starred [exelban/stats](https://github.com/exelban/stats)<br>
+4. ⭐️ Starred [coolpace/V2EX_Polish](https://github.com/coolpace/V2EX_Polish)<br>
+5. ⭐️ Starred [gqty-dev/gqty](https://github.com/gqty-dev/gqty)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
