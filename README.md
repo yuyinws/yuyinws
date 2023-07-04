@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
-2. 🍴 Forked [yuyinws/unocss](https://github.com/yuyinws/unocss) from [unocss/unocss](https://github.com/unocss/unocss)<br>
-3. 💪 Pushed 3 commit(s) to [yuyinws/anu](https://github.com/yuyinws/anu)<br>
+1. ⭐️ Starred [picocss/pico](https://github.com/picocss/pico)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
+3. 🍴 Forked [yuyinws/unocss](https://github.com/yuyinws/unocss) from [unocss/unocss](https://github.com/unocss/unocss)<br>
 4. 💪 Pushed 3 commit(s) to [yuyinws/anu](https://github.com/yuyinws/anu)<br>
-5. ⭐️ Starred [exelban/stats](https://github.com/exelban/stats)<br>
+5. 💪 Pushed 3 commit(s) to [yuyinws/anu](https://github.com/yuyinws/anu)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
