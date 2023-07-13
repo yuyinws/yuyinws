@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [octref/polacode](https://github.com/octref/polacode)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/awesome-vite](https://github.com/yuyinws/awesome-vite)<br>
-3. ⭐️ Starred [bobotouo/knowledgeMap_API](https://github.com/bobotouo/knowledgeMap_API)<br>
-4. 💪 Pushed 38 commit(s) to [yuyinws/awesome-vite](https://github.com/yuyinws/awesome-vite)<br>
-5. 💪 Pushed 37 commit(s) to [yuyinws/awesome-vite](https://github.com/yuyinws/awesome-vite)<br>
+1. ⭐️ Starred [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git)<br>
+2. ⭐️ Starred [octref/polacode](https://github.com/octref/polacode)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/awesome-vite](https://github.com/yuyinws/awesome-vite)<br>
+4. ⭐️ Starred [bobotouo/knowledgeMap_API](https://github.com/bobotouo/knowledgeMap_API)<br>
+5. 💪 Pushed 38 commit(s) to [yuyinws/awesome-vite](https://github.com/yuyinws/awesome-vite)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
