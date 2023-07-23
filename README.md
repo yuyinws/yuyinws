@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [yjl9903/vite-plugin-info](https://github.com/yjl9903/vite-plugin-info)<br>
-2. ⭐️ Starred [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue)<br>
-3. ⭐️ Starred [privatenumber/pkg-size.dev](https://github.com/privatenumber/pkg-size.dev)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
-5. ⭐️ Starred [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
+2. ⭐️ Starred [yjl9903/vite-plugin-info](https://github.com/yjl9903/vite-plugin-info)<br>
+3. ⭐️ Starred [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue)<br>
+4. ⭐️ Starred [privatenumber/pkg-size.dev](https://github.com/privatenumber/pkg-size.dev)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
