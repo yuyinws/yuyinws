@@ -39,9 +39,9 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)<br>
-2. ⭐️ Starred [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
+1. ⭐️ Starred [vueuse/motion](https://github.com/vueuse/motion)<br>
+2. ⭐️ Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)<br>
+3. ⭐️ Starred [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
 <!--RECENT_ACTIVITY:end-->
