@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/router](https://github.com/yuyinws/router) from [vuejs/router](https://github.com/vuejs/router)<br>
-2. ⭐️ Starred [Im-Beast/deno_tui](https://github.com/Im-Beast/deno_tui)<br>
-3. ⭐️ Starred [ztz2/api-helper](https://github.com/ztz2/api-helper)<br>
-4. ⭐️ Starred [vueuse/motion](https://github.com/vueuse/motion)<br>
-5. ⭐️ Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)<br>
+1. 👨🏻‍💻 Created new repository [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
+2. 🍴 Forked [yuyinws/router](https://github.com/yuyinws/router) from [vuejs/router](https://github.com/vuejs/router)<br>
+3. ⭐️ Starred [Im-Beast/deno_tui](https://github.com/Im-Beast/deno_tui)<br>
+4. ⭐️ Starred [ztz2/api-helper](https://github.com/ztz2/api-helper)<br>
+5. ⭐️ Starred [vueuse/motion](https://github.com/vueuse/motion)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
