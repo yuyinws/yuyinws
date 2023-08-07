@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 2 commit(s) to [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
-2. 👨🏻‍💻 Created new repository [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
-3. 🍴 Forked [yuyinws/router](https://github.com/yuyinws/router) from [vuejs/router](https://github.com/vuejs/router)<br>
-4. ⭐️ Starred [Im-Beast/deno_tui](https://github.com/Im-Beast/deno_tui)<br>
-5. ⭐️ Starred [ztz2/api-helper](https://github.com/ztz2/api-helper)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
+5. 💪 Pushed 2 commit(s) to [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
