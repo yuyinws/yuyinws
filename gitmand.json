@@ -1,287 +1,307 @@
 [
   {
     "command": "cd",
-    "count": 1055,
-    "percent": "10.38%"
+    "count": 1218,
+    "percent": "11.81%"
   },
   {
     "command": "ls",
-    "count": 1052,
-    "percent": "10.35%"
+    "count": 911,
+    "percent": "8.83%"
   },
   {
     "command": "d",
-    "count": 1039,
-    "percent": "10.23%"
+    "count": 838,
+    "percent": "8.12%"
   },
   {
     "command": "git",
-    "count": 741,
-    "percent": "7.29%"
-  },
-  {
-    "command": "code",
-    "count": 735,
-    "percent": "7.23%"
-  },
-  {
-    "command": "w",
-    "count": 510,
-    "percent": "5.02%"
+    "count": 713,
+    "percent": "6.91%"
   },
   {
     "command": "ni",
-    "count": 500,
-    "percent": "4.92%"
+    "count": 634,
+    "percent": "6.15%"
   },
   {
-    "command": "rm",
-    "count": 273,
-    "percent": "2.69%"
+    "command": "code",
+    "count": 522,
+    "percent": "5.06%"
+  },
+  {
+    "command": "w",
+    "count": 386,
+    "percent": "3.74%"
   },
   {
     "command": "c",
-    "count": 263,
-    "percent": "2.59%"
+    "count": 368,
+    "percent": "3.57%"
   },
   {
-    "command": "b",
-    "count": 249,
-    "percent": "2.45%"
-  },
-  {
-    "command": "npx",
-    "count": 214,
-    "percent": "2.11%"
+    "command": "rm",
+    "count": 308,
+    "percent": "2.99%"
   },
   {
     "command": "i",
-    "count": 195,
-    "percent": "1.92%"
+    "count": 248,
+    "percent": "2.40%"
   },
   {
-    "command": "pnpm",
-    "count": 169,
-    "percent": "1.66%"
-  },
-  {
-    "command": "cl",
-    "count": 141,
-    "percent": "1.39%"
-  },
-  {
-    "command": "clear",
-    "count": 138,
-    "percent": "1.36%"
-  },
-  {
-    "command": "vim",
-    "count": 129,
-    "percent": "1.27%"
+    "command": "npx",
+    "count": 199,
+    "percent": "1.93%"
   },
   {
     "command": "",
-    "count": 120,
-    "percent": "1.18%"
+    "count": 197,
+    "percent": "1.91%"
   },
   {
-    "command": "node",
-    "count": 117,
-    "percent": "1.15%"
+    "command": "nr",
+    "count": 197,
+    "percent": "1.91%"
+  },
+  {
+    "command": "b",
+    "count": 182,
+    "percent": "1.76%"
+  },
+  {
+    "command": "clear",
+    "count": 149,
+    "percent": "1.44%"
   },
   {
     "command": "docker",
-    "count": 108,
-    "percent": "1.06%"
+    "count": 148,
+    "percent": "1.43%"
   },
   {
-    "command": "npm",
-    "count": 98,
-    "percent": "0.96%"
-  },
-  {
-    "command": "nun",
-    "count": 95,
-    "percent": "0.94%"
-  },
-  {
-    "command": "t",
-    "count": 94,
-    "percent": "0.93%"
+    "command": "pnpm",
+    "count": 137,
+    "percent": "1.33%"
   },
   {
     "command": "cat",
-    "count": 86,
-    "percent": "0.85%"
-  },
-  {
-    "command": "p",
-    "count": 80,
-    "percent": "0.79%"
-  },
-  {
-    "command": "gh",
-    "count": 77,
-    "percent": "0.76%"
+    "count": 125,
+    "percent": "1.21%"
   },
   {
     "command": "f",
-    "count": 75,
-    "percent": "0.74%"
+    "count": 125,
+    "percent": "1.21%"
   },
   {
-    "command": "curl",
-    "count": 74,
-    "percent": "0.73%"
+    "command": "nun",
+    "count": 121,
+    "percent": "1.17%"
   },
   {
-    "command": "sudo",
-    "count": 69,
-    "percent": "0.68%"
+    "command": "gh",
+    "count": 113,
+    "percent": "1.10%"
   },
   {
     "command": "go",
-    "count": 69,
-    "percent": "0.68%"
+    "count": 108,
+    "percent": "1.05%"
   },
   {
-    "command": "brew",
-    "count": 61,
-    "percent": "0.60%"
+    "command": "vim",
+    "count": 99,
+    "percent": "0.96%"
   },
   {
-    "command": "ping",
-    "count": 60,
-    "percent": "0.59%"
+    "command": "t",
+    "count": 98,
+    "percent": "0.95%"
   },
   {
-    "command": "ssh",
-    "count": 58,
-    "percent": "0.57%"
+    "command": "npm",
+    "count": 87,
+    "percent": "0.84%"
   },
   {
     "command": "nu",
-    "count": 54,
-    "percent": "0.53%"
+    "count": 84,
+    "percent": "0.81%"
   },
   {
-    "command": "bp",
-    "count": 54,
-    "percent": "0.53%"
+    "command": "node",
+    "count": 73,
+    "percent": "0.71%"
   },
   {
-    "command": "fnm",
-    "count": 48,
-    "percent": "0.47%"
+    "command": "sudo",
+    "count": 71,
+    "percent": "0.69%"
   },
   {
-    "command": "l",
-    "count": 46,
-    "percent": "0.45%"
+    "command": "brew",
+    "count": 63,
+    "percent": "0.61%"
   },
   {
-    "command": "nio",
-    "count": 42,
-    "percent": "0.41%"
+    "command": "curl",
+    "count": 62,
+    "percent": "0.60%"
+  },
+  {
+    "command": "ssh",
+    "count": 56,
+    "percent": "0.54%"
+  },
+  {
+    "command": "ping",
+    "count": 53,
+    "percent": "0.51%"
   },
   {
     "command": "mkdir",
-    "count": 41,
-    "percent": "0.40%"
+    "count": 52,
+    "percent": "0.50%"
+  },
+  {
+    "command": "nio",
+    "count": 52,
+    "percent": "0.50%"
+  },
+  {
+    "command": "cl",
+    "count": 49,
+    "percent": "0.47%"
+  },
+  {
+    "command": "wget",
+    "count": 45,
+    "percent": "0.44%"
   },
   {
     "command": "mv",
-    "count": 36,
-    "percent": "0.35%"
+    "count": 44,
+    "percent": "0.43%"
   },
   {
-    "command": "echo",
-    "count": 33,
-    "percent": "0.32%"
+    "command": "pwd",
+    "count": 44,
+    "percent": "0.43%"
   },
   {
-    "command": "clone",
-    "count": 33,
-    "percent": "0.32%"
-  },
-  {
-    "command": "vercel",
-    "count": 31,
-    "percent": "0.31%"
-  },
-  {
-    "command": "sftp",
-    "count": 31,
-    "percent": "0.31%"
-  },
-  {
-    "command": "ll",
-    "count": 29,
-    "percent": "0.29%"
-  },
-  {
-    "command": "n",
-    "count": 28,
-    "percent": "0.28%"
-  },
-  {
-    "command": "taze",
-    "count": 28,
-    "percent": "0.28%"
+    "command": "zip",
+    "count": 44,
+    "percent": "0.43%"
   },
   {
     "command": "o",
-    "count": 26,
-    "percent": "0.26%"
+    "count": 43,
+    "percent": "0.42%"
   },
   {
-    "command": "v2ex",
-    "count": 26,
+    "command": "echo",
+    "count": 38,
+    "percent": "0.37%"
+  },
+  {
+    "command": "fnm",
+    "count": 38,
+    "percent": "0.37%"
+  },
+  {
+    "command": "ll",
+    "count": 34,
+    "percent": "0.33%"
+  },
+  {
+    "command": "l",
+    "count": 31,
+    "percent": "0.30%"
+  },
+  {
+    "command": "touch",
+    "count": 29,
+    "percent": "0.28%"
+  },
+  {
+    "command": "sftp",
+    "count": 29,
+    "percent": "0.28%"
+  },
+  {
+    "command": "clone",
+    "count": 27,
     "percent": "0.26%"
   },
   {
     "command": "whereis",
-    "count": 24,
+    "count": 25,
     "percent": "0.24%"
-  },
-  {
-    "command": ":",
-    "count": 24,
-    "percent": "0.24%"
-  },
-  {
-    "command": "yarn",
-    "count": 24,
-    "percent": "0.24%"
-  },
-  {
-    "command": "touch",
-    "count": 22,
-    "percent": "0.22%"
-  },
-  {
-    "command": "/Users/yuyin/Scripts/login_tencent",
-    "count": 22,
-    "percent": "0.22%"
-  },
-  {
-    "command": "unproxy",
-    "count": 21,
-    "percent": "0.21%"
-  },
-  {
-    "command": "pwd",
-    "count": 21,
-    "percent": "0.21%"
   },
   {
     "command": "history",
-    "count": 18,
+    "count": 24,
+    "percent": "0.23%"
+  },
+  {
+    "command": "taze",
+    "count": 24,
+    "percent": "0.23%"
+  },
+  {
+    "command": "/Users/yuyin/Scripts/login_tencent",
+    "count": 23,
+    "percent": "0.22%"
+  },
+  {
+    "command": "wails",
+    "count": 23,
+    "percent": "0.22%"
+  },
+  {
+    "command": "./build.sh",
+    "count": 23,
+    "percent": "0.22%"
+  },
+  {
+    "command": "vercel",
+    "count": 21,
+    "percent": "0.20%"
+  },
+  {
+    "command": "p",
+    "count": 21,
+    "percent": "0.20%"
+  },
+  {
+    "command": "got",
+    "count": 21,
+    "percent": "0.20%"
+  },
+  {
+    "command": "n",
+    "count": 20,
+    "percent": "0.19%"
+  },
+  {
+    "command": "chmod",
+    "count": 19,
     "percent": "0.18%"
   },
   {
-    "command": "proxy",
-    "count": 17,
+    "command": "nginx",
+    "count": 19,
+    "percent": "0.18%"
+  },
+  {
+    "command": ":",
+    "count": 18,
+    "percent": "0.17%"
+  },
+  {
+    "command": "./got",
+    "count": 18,
     "percent": "0.17%"
   },
   {
@@ -290,12 +310,7 @@
     "percent": "0.16%"
   },
   {
-    "command": "qnm",
-    "count": 15,
-    "percent": "0.15%"
-  },
-  {
-    "command": "vd",
+    "command": "which",
     "count": 15,
     "percent": "0.15%"
   },
@@ -305,12 +320,7 @@
     "percent": "0.15%"
   },
   {
-    "command": "zip",
-    "count": 15,
-    "percent": "0.15%"
-  },
-  {
-    "command": "nr",
+    "command": "yarn",
     "count": 14,
     "percent": "0.14%"
   },
@@ -321,13 +331,38 @@
   },
   {
     "command": "degit",
-    "count": 13,
-    "percent": "0.13%"
+    "count": 12,
+    "percent": "0.12%"
   },
   {
-    "command": "chmod",
-    "count": 13,
-    "percent": "0.13%"
+    "command": "unproxy",
+    "count": 12,
+    "percent": "0.12%"
+  },
+  {
+    "command": "cvue",
+    "count": 12,
+    "percent": "0.12%"
+  },
+  {
+    "command": "\\",
+    "count": 11,
+    "percent": "0.11%"
+  },
+  {
+    "command": "open",
+    "count": 11,
+    "percent": "0.11%"
+  },
+  {
+    "command": "proxy",
+    "count": 10,
+    "percent": "0.10%"
+  },
+  {
+    "command": "fig",
+    "count": 10,
+    "percent": "0.10%"
   },
   {
     "command": "folderify",
@@ -335,32 +370,12 @@
     "percent": "0.09%"
   },
   {
-    "command": "ga",
+    "command": "netlify",
     "count": 9,
     "percent": "0.09%"
   },
   {
-    "command": "python3",
-    "count": 9,
-    "percent": "0.09%"
-  },
-  {
-    "command": "fig",
-    "count": 9,
-    "percent": "0.09%"
-  },
-  {
-    "command": "./got",
-    "count": 9,
-    "percent": "0.09%"
-  },
-  {
-    "command": "which",
-    "count": 8,
-    "percent": "0.08%"
-  },
-  {
-    "command": "java",
+    "command": "vue",
     "count": 8,
     "percent": "0.08%"
   },
@@ -370,12 +385,22 @@
     "percent": "0.08%"
   },
   {
-    "command": "s",
+    "command": "ip",
+    "count": 8,
+    "percent": "0.08%"
+  },
+  {
+    "command": "ca",
+    "count": 8,
+    "percent": "0.08%"
+  },
+  {
+    "command": "qnm",
     "count": 7,
     "percent": "0.07%"
   },
   {
-    "command": "pip3",
+    "command": "python3",
     "count": 7,
     "percent": "0.07%"
   },
@@ -385,9 +410,14 @@
     "percent": "0.07%"
   },
   {
-    "command": "gpg",
-    "count": 6,
-    "percent": "0.06%"
+    "command": "cleaer",
+    "count": 7,
+    "percent": "0.07%"
+  },
+  {
+    "command": "vsce",
+    "count": 7,
+    "percent": "0.07%"
   },
   {
     "command": "bun",
@@ -395,7 +425,7 @@
     "percent": "0.06%"
   },
   {
-    "command": "open",
+    "command": "pip3",
     "count": 6,
     "percent": "0.06%"
   },
@@ -405,22 +435,7 @@
     "percent": "0.06%"
   },
   {
-    "command": "vue",
-    "count": 6,
-    "percent": "0.06%"
-  },
-  {
-    "command": "corepack",
-    "count": 6,
-    "percent": "0.06%"
-  },
-  {
     "command": "./frpc",
-    "count": 6,
-    "percent": "0.06%"
-  },
-  {
-    "command": "wails",
     "count": 6,
     "percent": "0.06%"
   },
@@ -430,37 +445,37 @@
     "percent": "0.06%"
   },
   {
+    "command": "python",
+    "count": 6,
+    "percent": "0.06%"
+  },
+  {
     "command": "export",
     "count": 5,
     "percent": "0.05%"
   },
   {
-    "command": "xcode-select",
+    "command": "gpg",
     "count": 5,
     "percent": "0.05%"
   },
   {
-    "command": "ks",
+    "command": "bash",
     "count": 5,
     "percent": "0.05%"
   },
   {
-    "command": "gc",
+    "command": "cp",
     "count": 5,
     "percent": "0.05%"
   },
   {
-    "command": "celar",
+    "command": "vi",
     "count": 5,
     "percent": "0.05%"
   },
   {
-    "command": "sl",
-    "count": 5,
-    "percent": "0.05%"
-  },
-  {
-    "command": "ip",
+    "command": "java",
     "count": 5,
     "percent": "0.05%"
   },
@@ -475,9 +490,24 @@
     "percent": "0.05%"
   },
   {
-    "command": "got",
+    "command": "npmr",
     "count": 5,
     "percent": "0.05%"
+  },
+  {
+    "command": "./outfile.cjs",
+    "count": 5,
+    "percent": "0.05%"
+  },
+  {
+    "command": "yo",
+    "count": 5,
+    "percent": "0.05%"
+  },
+  {
+    "command": "rn",
+    "count": 4,
+    "percent": "0.04%"
   },
   {
     "command": "bat",
@@ -490,32 +520,22 @@
     "percent": "0.04%"
   },
   {
+    "command": "kill",
+    "count": 4,
+    "percent": "0.04%"
+  },
+  {
     "command": "exa",
     "count": 4,
     "percent": "0.04%"
   },
   {
-    "command": "\\",
+    "command": "v",
     "count": 4,
     "percent": "0.04%"
   },
   {
-    "command": "killall",
-    "count": 4,
-    "percent": "0.04%"
-  },
-  {
-    "command": "cleaer",
-    "count": 4,
-    "percent": "0.04%"
-  },
-  {
-    "command": "dd",
-    "count": 4,
-    "percent": "0.04%"
-  },
-  {
-    "command": "netlify",
+    "command": "lks",
     "count": 4,
     "percent": "0.04%"
   },
@@ -530,32 +550,42 @@
     "percent": "0.04%"
   },
   {
+    "command": "ks",
+    "count": 4,
+    "percent": "0.04%"
+  },
+  {
     "command": "mysql",
     "count": 4,
     "percent": "0.04%"
   },
   {
-    "command": "wget",
-    "count": 3,
-    "percent": "0.03%"
+    "command": "EOF",
+    "count": 4,
+    "percent": "0.04%"
+  },
+  {
+    "command": "OUTPUT=netlify",
+    "count": 4,
+    "percent": "0.04%"
+  },
+  {
+    "command": "rand=$(head",
+    "count": 4,
+    "percent": "0.04%"
+  },
+  {
+    "command": "code-insiders",
+    "count": 4,
+    "percent": "0.04%"
+  },
+  {
+    "command": "\"/Applications/wechatwebdevtools.app/Contents/Frameworks/nwjs",
+    "count": 4,
+    "percent": "0.04%"
   },
   {
     "command": "picgo",
-    "count": 3,
-    "percent": "0.03%"
-  },
-  {
-    "command": "kill",
-    "count": 3,
-    "percent": "0.03%"
-  },
-  {
-    "command": "cp",
-    "count": 3,
-    "percent": "0.03%"
-  },
-  {
-    "command": "gitmand",
     "count": 3,
     "percent": "0.03%"
   },
@@ -590,27 +620,7 @@
     "percent": "0.03%"
   },
   {
-    "command": "unproyx",
-    "count": 3,
-    "percent": "0.03%"
-  },
-  {
-    "command": "vnpm",
-    "count": 3,
-    "percent": "0.03%"
-  },
-  {
-    "command": "STEAM_KEY=5B23D7ECE73049D23EEB3B58C57BC242",
-    "count": 3,
-    "percent": "0.03%"
-  },
-  {
-    "command": "unzip",
-    "count": 3,
-    "percent": "0.03%"
-  },
-  {
-    "command": "/Users/yuyin/Downloads/jadx-1.4.5/bin/jadx-gui;",
+    "command": "killall",
     "count": 3,
     "percent": "0.03%"
   },
@@ -625,12 +635,27 @@
     "percent": "0.03%"
   },
   {
-    "command": "carbonyl",
+    "command": "whoami",
     "count": 3,
     "percent": "0.03%"
   },
   {
-    "command": "nginx",
+    "command": "$",
+    "count": 3,
+    "percent": "0.03%"
+  },
+  {
+    "command": "/usr",
+    "count": 3,
+    "percent": "0.03%"
+  },
+  {
+    "command": ";s",
+    "count": 3,
+    "percent": "0.03%"
+  },
+  {
+    "command": "carbonyl",
     "count": 3,
     "percent": "0.03%"
   },
@@ -645,7 +670,7 @@
     "percent": "0.03%"
   },
   {
-    "command": "ca",
+    "command": "systemctl",
     "count": 3,
     "percent": "0.03%"
   },
@@ -655,9 +680,24 @@
     "percent": "0.03%"
   },
   {
-    "command": "rn",
-    "count": 2,
-    "percent": "0.02%"
+    "command": "chsh",
+    "count": 3,
+    "percent": "0.03%"
+  },
+  {
+    "command": "Line",
+    "count": 3,
+    "percent": "0.03%"
+  },
+  {
+    "command": "./webui.sh",
+    "count": 3,
+    "percent": "0.03%"
+  },
+  {
+    "command": "./scripts/pre-build-site/pre-build-site.sh",
+    "count": 3,
+    "percent": "0.03%"
   },
   {
     "command": "source",
@@ -666,11 +706,6 @@
   },
   {
     "command": "nvim",
-    "count": 2,
-    "percent": "0.02%"
-  },
-  {
-    "command": "bash",
     "count": 2,
     "percent": "0.02%"
   },
@@ -700,12 +735,17 @@
     "percent": "0.02%"
   },
   {
-    "command": "xcrun",
+    "command": "gitmand",
     "count": 2,
     "percent": "0.02%"
   },
   {
-    "command": "vi",
+    "command": "xcode-select",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
+    "command": "xcrun",
     "count": 2,
     "percent": "0.02%"
   },
@@ -715,37 +755,42 @@
     "percent": "0.02%"
   },
   {
-    "command": "gp",
-    "count": 2,
-    "percent": "0.02%"
-  },
-  {
-    "command": "..",
-    "count": 2,
-    "percent": "0.02%"
-  },
-  {
     "command": "gpgconf",
     "count": 2,
     "percent": "0.02%"
   },
   {
-    "command": "sls",
+    "command": "v2ex",
     "count": 2,
     "percent": "0.02%"
   },
   {
-    "command": ";s",
+    "command": "unzip",
     "count": 2,
     "percent": "0.02%"
   },
   {
-    "command": "lks",
+    "command": "corepack",
     "count": 2,
     "percent": "0.02%"
   },
   {
-    "command": "whoami",
+    "command": "vnpm",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
+    "command": "pip",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
+    "command": "kls",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
+    "command": "dd",
     "count": 2,
     "percent": "0.02%"
   },
@@ -770,16 +815,6 @@
     "percent": "0.02%"
   },
   {
-    "command": "$",
-    "count": 2,
-    "percent": "0.02%"
-  },
-  {
-    "command": "/usr",
-    "count": 2,
-    "percent": "0.02%"
-  },
-  {
     "command": "si",
     "count": 2,
     "percent": "0.02%"
@@ -795,6 +830,11 @@
     "percent": "0.02%"
   },
   {
+    "command": "STEAM_KEY=5B23D7ECE73049D23EEB3B58C57BC242",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
     "command": "lyc575757/steam-card",
     "count": 2,
     "percent": "0.02%"
@@ -805,7 +845,72 @@
     "percent": "0.02%"
   },
   {
+    "command": "bp",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
     "command": "nix",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
+    "command": "cleard",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
+    "command": "ps",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
+    "command": "server",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
+    "command": "}\\",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
+    "command": "tbr",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
+    "command": "pwd()",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
+    "command": "rename",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
+    "command": "{\\",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
+    "command": "}'",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
+    "command": "NODE_ENV=production",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
+    "command": "nlx",
+    "count": 2,
+    "percent": "0.02%"
+  },
+  {
+    "command": "胯��僭��。。",
     "count": 2,
     "percent": "0.02%"
   },
@@ -1020,16 +1125,6 @@
     "percent": "0.01%"
   },
   {
-    "command": "胯��僭��。。",
-    "count": 1,
-    "percent": "0.01%"
-  },
-  {
-    "command": "D",
-    "count": 1,
-    "percent": "0.01%"
-  },
-  {
     "command": "0;60;12M0;60;12md",
     "count": 1,
     "percent": "0.01%"
@@ -1080,12 +1175,22 @@
     "percent": "0.01%"
   },
   {
+    "command": "vd",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
     "command": "log",
     "count": 1,
     "percent": "0.01%"
   },
   {
-    "command": "\t\t\tt",
+    "command": "..",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "gc",
     "count": 1,
     "percent": "0.01%"
   },
@@ -1100,12 +1205,7 @@
     "percent": "0.01%"
   },
   {
-    "command": "oi",
-    "count": 1,
-    "percent": "0.01%"
-  },
-  {
-    "command": "python",
+    "command": "unproyx",
     "count": 1,
     "percent": "0.01%"
   },
@@ -1195,7 +1295,17 @@
     "percent": "0.01%"
   },
   {
+    "command": "celar",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
     "command": "NI",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "ga",
     "count": 1,
     "percent": "0.01%"
   },
@@ -1235,6 +1345,11 @@
     "percent": "0.01%"
   },
   {
+    "command": "/Users/yuyin/Downloads/jadx-1.4.5/bin/jadx-gui;",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
     "command": "/Users/yuyin/Downloads/jd-gui-osx-1.6.6/JD-GUI.app/Contents/MacOS/universalJavaApplicationStub.sh;",
     "count": 1,
     "percent": "0.01%"
@@ -1265,27 +1380,12 @@
     "percent": "0.01%"
   },
   {
-    "command": "v",
-    "count": 1,
-    "percent": "0.01%"
-  },
-  {
     "command": "0;53;10M32;53;10M0;53;10mcl",
     "count": 1,
     "percent": "0.01%"
   },
   {
     "command": "google",
-    "count": 1,
-    "percent": "0.01%"
-  },
-  {
-    "command": "pip",
-    "count": 1,
-    "percent": "0.01%"
-  },
-  {
-    "command": "kls",
     "count": 1,
     "percent": "0.01%"
   },
@@ -1375,6 +1475,11 @@
     "percent": "0.01%"
   },
   {
+    "command": "sls",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
     "command": "./carbonyl",
     "count": 1,
     "percent": "0.01%"
@@ -1396,6 +1501,16 @@
   },
   {
     "command": "lazygit",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "s",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "gp",
     "count": 1,
     "percent": "0.01%"
   },
@@ -1445,17 +1560,7 @@
     "percent": "0.01%"
   },
   {
-    "command": "systemctl",
-    "count": 1,
-    "percent": "0.01%"
-  },
-  {
     "command": "./go-test",
-    "count": 1,
-    "percent": "0.01%"
-  },
-  {
-    "command": "cleard",
     "count": 1,
     "percent": "0.01%"
   },
@@ -1481,6 +1586,226 @@
   },
   {
     "command": "greet",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "q",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "it",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "fn",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "hhhhd",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "/Users/yuyin/i/snippets/build/bin/snippets.app/Contents/MacOS/snippets;",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "rew",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "/usr/bin",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "/Users/yuyin/Scripts/login_tencent;",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "~/Scripts/login_tencent",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "cle",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "id",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "su",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "ld",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "APP_ENV=test",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "tail",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "111\\",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "/Users/yuyin/Downloads/clash-speedtest_Darwin_arm64/clash-speedtest;",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "./clash-speedtest_Darwin_arm64/clash-speedtest",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "pd",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "D",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "pw",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "scd",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "cleae",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "astro@latest",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "MY_TEST=\"1111\"",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "DOCKER_BUILDKIT=",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "DOCKER_BUILDKIT=0",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "(head",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "head",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "c;ear",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "sl",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "clar",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "cls",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "leaer",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "cc",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "nui",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "oi",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "cart",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "clash",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "in",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "APP_BASE=/sf/",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "fw",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "tsx",
+    "count": 1,
+    "percent": "0.01%"
+  },
+  {
+    "command": "⃨��",
     "count": 1,
     "percent": "0.01%"
   }
