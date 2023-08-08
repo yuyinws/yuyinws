@@ -39,9 +39,9 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [tengbao/vanta](https://github.com/tengbao/vanta)<br>
-2. ⭐️ Starred [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
+1. 💪 Pushed 2 commit(s) to [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
+2. ⭐️ Starred [tengbao/vanta](https://github.com/tengbao/vanta)<br>
+3. ⭐️ Starred [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
 <!--RECENT_ACTIVITY:end-->
