@@ -39,9 +39,9 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>
-2. ⭐️ Starred [mefengl/userscript-pkg-size-1s](https://github.com/mefengl/userscript-pkg-size-1s)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
+1. ⭐️ Starred [jakearchibald/idb](https://github.com/jakearchibald/idb)<br>
+2. ⭐️ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>
+3. ⭐️ Starred [mefengl/userscript-pkg-size-1s](https://github.com/mefengl/userscript-pkg-size-1s)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
 <!--RECENT_ACTIVITY:end-->
