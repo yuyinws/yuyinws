@@ -27,7 +27,7 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⚡️ I 'm current learning:
 <div style="display: flex; gap: 10px">
-  <img width="30" height="30" alt="Go" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/gql.svg">
+  <img width="30" height="30" alt="Go" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/nextjs.svg">
 </div>
 
 ### 👨🏻‍💻 I 've built these awesome projects:  
