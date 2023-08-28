@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 2 commit(s) to [yuyinws/stargazers](https://github.com/yuyinws/stargazers)<br>
-2. ⭐️ Starred [mastodon/mastodon](https://github.com/mastodon/mastodon)<br>
-3. ⭐️ Starred [pmndrs/zustand](https://github.com/pmndrs/zustand)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/vscode-array-index](https://github.com/yuyinws/vscode-array-index)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/stargazers](https://github.com/yuyinws/stargazers)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/stargazers](https://github.com/yuyinws/stargazers)<br>
+3. 💪 Pushed 2 commit(s) to [yuyinws/stargazers](https://github.com/yuyinws/stargazers)<br>
+4. ⭐️ Starred [mastodon/mastodon](https://github.com/mastodon/mastodon)<br>
+5. ⭐️ Starred [pmndrs/zustand](https://github.com/pmndrs/zustand)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
