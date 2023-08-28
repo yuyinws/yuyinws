@@ -39,7 +39,7 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/stargazers](https://github.com/yuyinws/stargazers)<br>
+1. ⭐️ Starred [yuyinws/stargazers](https://github.com/yuyinws/stargazers)<br>
 2. 💪 Pushed 1 commit(s) to [yuyinws/stargazers](https://github.com/yuyinws/stargazers)<br>
 3. 💪 Pushed 1 commit(s) to [yuyinws/stargazers](https://github.com/yuyinws/stargazers)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/stargazers](https://github.com/yuyinws/stargazers)<br>
