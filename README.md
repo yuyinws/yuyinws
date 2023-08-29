@@ -41,9 +41,9 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Pushed 1 commit(s) to [yuyinws/stargazers](https://github.com/yuyinws/stargazers)<br>
 2. 💪 Pushed 1 commit(s) to [yuyinws/stargazers](https://github.com/yuyinws/stargazers)<br>
-3. ⭐️ Starred [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/stargazers](https://github.com/yuyinws/stargazers)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/stargazers](https://github.com/yuyinws/stargazers)<br>
-5. ⭐️ Starred [svitejs/vite-plugin-qrcode](https://github.com/svitejs/vite-plugin-qrcode)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/stargazers](https://github.com/yuyinws/stargazers)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
