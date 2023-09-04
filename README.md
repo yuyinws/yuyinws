@@ -39,10 +39,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 3 commit(s) to [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
-2. Merged PR [#2](https://github.com/yuyinws/comm1t/pull/2) in [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
-3. Opened PR [#2](https://github.com/yuyinws/comm1t/pull/2) in [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
+2. Merged PR [#4](https://github.com/yuyinws/comm1t/pull/4) in [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
+3. Opened PR [#4](https://github.com/yuyinws/comm1t/pull/4) in [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
+4. 💪 Pushed 2 commit(s) to [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
 <!--RECENT_ACTIVITY:end-->
 
