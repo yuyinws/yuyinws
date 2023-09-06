@@ -39,11 +39,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
-2. Opened PR [#22](https://github.com/unplugin/unplugin-starter/pull/22) in [unplugin/unplugin-starter](https://github.com/unplugin/unplugin-starter)<br>
-3. 🍴 Forked [yuyinws/unplugin-starter](https://github.com/yuyinws/unplugin-starter) from [unplugin/unplugin-starter](https://github.com/unplugin/unplugin-starter)<br>
-4. Opened issue [#3](https://github.com/yuyinws/vite-plugin-turbo-console/issues/3) in [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+1. 💪 Pushed 3 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+3. Opened PR [#22](https://github.com/unplugin/unplugin-starter/pull/22) in [unplugin/unplugin-starter](https://github.com/unplugin/unplugin-starter)<br>
+4. 🍴 Forked [yuyinws/unplugin-starter](https://github.com/yuyinws/unplugin-starter) from [unplugin/unplugin-starter](https://github.com/unplugin/unplugin-starter)<br>
+5. Opened issue [#3](https://github.com/yuyinws/vite-plugin-turbo-console/issues/3) in [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
