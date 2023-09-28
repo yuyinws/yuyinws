@@ -12,6 +12,7 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
     <img width="30" height="30" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/node.svg" /> 
     <img width="30" height="30" alt="VueJS" src="https://vuejs.org/logo.svg" />
     <img width="30" height="30" alt="NuxtJS" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/nuxt.svg" />
+    <img width="30" height="30" alt="Nextjs" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/nextjs.svg">
     <img width="30" height="30" alt="Vite" src="https://vitejs.dev/logo.svg" /> 
     <img width="30" height="30" alt="Astro" src="https://astro.build/favicon.svg" >
     <img width="30" height="30" alt="UnoCSS" src="https://unocss.dev/favicon.svg" />
@@ -27,7 +28,7 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⚡️ I 'm current learning:
 <div style="display: flex; gap: 10px">
-  <img width="30" height="30" alt="Go" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/nextjs.svg">
+    <img width="30" height="30" alt="Swift" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/swift.svg" />
 </div>
 
 ### 👨🏻‍💻 I 've built these awesome projects:  
