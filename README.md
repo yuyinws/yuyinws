@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [Pondorasti/emojis](https://github.com/Pondorasti/emojis)<br>
-2. ⭐️ Starred [henripar/scrollbar](https://github.com/henripar/scrollbar)<br>
-3. ⭐️ Starred [chengdepolice/clue](https://github.com/chengdepolice/clue)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-5. Merged PR [#99](https://github.com/yuyinws/steam-card/pull/99) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+1. ⭐️ Starred [surveyjs/survey-library](https://github.com/surveyjs/survey-library)<br>
+2. ⭐️ Starred [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator)<br>
+3. ⭐️ Starred [Pondorasti/emojis](https://github.com/Pondorasti/emojis)<br>
+4. ⭐️ Starred [henripar/scrollbar](https://github.com/henripar/scrollbar)<br>
+5. ⭐️ Starred [chengdepolice/clue](https://github.com/chengdepolice/clue)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
