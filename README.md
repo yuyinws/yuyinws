@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/inke](https://github.com/yuyinws/inke) from [yesmore/inke](https://github.com/yesmore/inke)<br>
-2. ⭐️ Starred [yesmore/inke](https://github.com/yesmore/inke)<br>
-3. ⭐️ Starred [surveyjs/survey-library](https://github.com/surveyjs/survey-library)<br>
-4. ⭐️ Starred [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator)<br>
-5. ⭐️ Starred [Pondorasti/emojis](https://github.com/Pondorasti/emojis)<br>
+1. ⭐️ Starred [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)<br>
+2. 🍴 Forked [yuyinws/inke](https://github.com/yuyinws/inke) from [yesmore/inke](https://github.com/yesmore/inke)<br>
+3. ⭐️ Starred [yesmore/inke](https://github.com/yesmore/inke)<br>
+4. ⭐️ Starred [surveyjs/survey-library](https://github.com/surveyjs/survey-library)<br>
+5. ⭐️ Starred [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
