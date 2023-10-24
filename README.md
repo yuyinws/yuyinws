@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [tal7aouy/vscode-icons](https://github.com/tal7aouy/vscode-icons)<br>
-2. ⭐️ Starred [unjs/destr](https://github.com/unjs/destr)<br>
-3. ⭐️ Starred [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)<br>
-4. 🍴 Forked [yuyinws/inke](https://github.com/yuyinws/inke) from [yesmore/inke](https://github.com/yesmore/inke)<br>
-5. ⭐️ Starred [yesmore/inke](https://github.com/yesmore/inke)<br>
+1. ⭐️ Starred [Homebrew/brew](https://github.com/Homebrew/brew)<br>
+2. ⭐️ Starred [tal7aouy/vscode-icons](https://github.com/tal7aouy/vscode-icons)<br>
+3. ⭐️ Starred [unjs/destr](https://github.com/unjs/destr)<br>
+4. ⭐️ Starred [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)<br>
+5. 🍴 Forked [yuyinws/inke](https://github.com/yuyinws/inke) from [yesmore/inke](https://github.com/yesmore/inke)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
