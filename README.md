@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [rustq/3body-lang](https://github.com/rustq/3body-lang)<br>
-2. ⭐️ Starred [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner)<br>
-3. ⭐️ Starred [radix-vue/shadcn-vue](https://github.com/radix-vue/shadcn-vue)<br>
-4. ⭐️ Starred [Homebrew/brew](https://github.com/Homebrew/brew)<br>
-5. ⭐️ Starred [tal7aouy/vscode-icons](https://github.com/tal7aouy/vscode-icons)<br>
+1. ⭐️ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)<br>
+2. ⭐️ Starred [rustq/3body-lang](https://github.com/rustq/3body-lang)<br>
+3. ⭐️ Starred [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner)<br>
+4. ⭐️ Starred [radix-vue/shadcn-vue](https://github.com/radix-vue/shadcn-vue)<br>
+5. ⭐️ Starred [Homebrew/brew](https://github.com/Homebrew/brew)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
