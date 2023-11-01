@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 4 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
-3. 💪 Pushed 2 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
-4. 💪 Pushed 2 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
-5. ⭐️ Starred [yyx990803/launch-editor](https://github.com/yyx990803/launch-editor)<br>
+1. 💪 Pushed 2 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+2. 💪 Pushed 2 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+3. 👨🏻‍💻 Created new repository [yuyinws/stackblitz-demo](https://github.com/yuyinws/stackblitz-demo)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
