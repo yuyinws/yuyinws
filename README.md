@@ -40,10 +40,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)<br>
-2. 👨🏻‍💻 Created new repository [yuyinws/launch-editor-test](https://github.com/yuyinws/launch-editor-test)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+1. Opened PR [#513](https://github.com/antfu/vitesse/pull/513) in [antfu/vitesse](https://github.com/antfu/vitesse)<br>
+2. 🍴 Forked [yuyinws/vitesse](https://github.com/yuyinws/vitesse) from [antfu/vitesse](https://github.com/antfu/vitesse)<br>
+3. ⭐️ Starred [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)<br>
+4. 👨🏻‍💻 Created new repository [yuyinws/launch-editor-test](https://github.com/yuyinws/launch-editor-test)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
