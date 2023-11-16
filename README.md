@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened issue [#2](https://github.com/LHRUN/bubble/issues/2) in [LHRUN/bubble](https://github.com/LHRUN/bubble)<br>
-2. ⭐️ Starred [LHRUN/bubble](https://github.com/LHRUN/bubble)<br>
-3. Opened PR [#513](https://github.com/antfu/vitesse/pull/513) in [antfu/vitesse](https://github.com/antfu/vitesse)<br>
-4. 🍴 Forked [yuyinws/vitesse](https://github.com/yuyinws/vitesse) from [antfu/vitesse](https://github.com/antfu/vitesse)<br>
-5. ⭐️ Starred [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+3. Opened issue [#2](https://github.com/LHRUN/bubble/issues/2) in [LHRUN/bubble](https://github.com/LHRUN/bubble)<br>
+4. ⭐️ Starred [LHRUN/bubble](https://github.com/LHRUN/bubble)<br>
+5. Opened PR [#513](https://github.com/antfu/vitesse/pull/513) in [antfu/vitesse](https://github.com/antfu/vitesse)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
