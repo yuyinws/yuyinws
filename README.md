@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+1. ⭐️ Starred [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace)<br>
 2. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
-3. Opened issue [#2](https://github.com/LHRUN/bubble/issues/2) in [LHRUN/bubble](https://github.com/LHRUN/bubble)<br>
-4. ⭐️ Starred [LHRUN/bubble](https://github.com/LHRUN/bubble)<br>
-5. Opened PR [#513](https://github.com/antfu/vitesse/pull/513) in [antfu/vitesse](https://github.com/antfu/vitesse)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+4. Opened issue [#2](https://github.com/LHRUN/bubble/issues/2) in [LHRUN/bubble](https://github.com/LHRUN/bubble)<br>
+5. ⭐️ Starred [LHRUN/bubble](https://github.com/LHRUN/bubble)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
