@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+1. Closed issue [#11](https://github.com/yuyinws/vite-plugin-turbo-console/issues/11) in [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/stackblitz-demo](https://github.com/yuyinws/stackblitz-demo)<br>
 3. 💪 Pushed 1 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
-4. Opened issue [#2](https://github.com/LHRUN/bubble/issues/2) in [LHRUN/bubble](https://github.com/LHRUN/bubble)<br>
-5. ⭐️ Starred [LHRUN/bubble](https://github.com/LHRUN/bubble)<br>
+4. Merged PR [#12](https://github.com/yuyinws/vite-plugin-turbo-console/pull/12) in [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
+5. 💪 Pushed 5 commit(s) to [yuyinws/vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
