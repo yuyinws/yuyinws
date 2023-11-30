@@ -41,10 +41,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-2. 💪 Pushed 2 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-3. ⭐️ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
-4. ⭐️ Starred [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/launch-editor-test](https://github.com/yuyinws/launch-editor-test)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+3. 💪 Pushed 2 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+4. ⭐️ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
+5. ⭐️ Starred [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
