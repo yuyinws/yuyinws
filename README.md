@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [KeJunMao/vscode-markdown-alert](https://github.com/KeJunMao/vscode-markdown-alert)<br>
-2. ⭐️ Starred [sxzz/ast-kit](https://github.com/sxzz/ast-kit)<br>
-3. ⭐️ Starred [unjs/pathe](https://github.com/unjs/pathe)<br>
-4. Closed issue [#8](https://github.com/yuyinws/unplugin-turbo-console/issues/8) in [yuyinws/unplugin-turbo-console](https://github.com/yuyinws/unplugin-turbo-console)<br>
-5. Closed issue [#9](https://github.com/yuyinws/unplugin-turbo-console/issues/9) in [yuyinws/unplugin-turbo-console](https://github.com/yuyinws/unplugin-turbo-console)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/stackblitz-demo](https://github.com/yuyinws/stackblitz-demo)<br>
+2. Opened issue [#6](https://github.com/unplugin/.github/issues/6) in [unplugin/.github](https://github.com/unplugin/.github)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-turbo-console](https://github.com/yuyinws/unplugin-turbo-console)<br>
+4. ⭐️ Starred [KeJunMao/vscode-markdown-alert](https://github.com/KeJunMao/vscode-markdown-alert)<br>
+5. ⭐️ Starred [sxzz/ast-kit](https://github.com/sxzz/ast-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
