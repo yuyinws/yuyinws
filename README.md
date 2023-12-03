@@ -28,7 +28,7 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⚡️ I 'm current learning:
 <div style="display: flex; gap: 10px">
-    <img width="30" height="30" alt="Swift" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/swift.svg" />
+    <!-- <img width="30" height="30" alt="Swift" src="https://cdn.jsdelivr.net/gh/yuyinws/yuyinws/assets/swift.svg" /> -->
 </div>
 
 ### 👨🏻‍💻 I 've built these awesome projects:  
@@ -36,7 +36,7 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 - [**gitmand**](https://github.com/yuyinws/gitmand) - Display your most used command on GitHub/Gist.  
 - [**v2erminal**](https://github.com/yuyinws/v2erminal) - Interactive terminal client for V2EX.  
 - [**comm1t**](https://github.com/yuyinws/comm1t) - Find Repo's First Commit.
-- [**vite-plugin-turbo-console**](https://github.com/yuyinws/vite-plugin-turbo-console) - Enhance the readability of `console.log()`.
+- [**unplugin-turbo-console**](https://github.com/unplugin/unplugin-turbo-console) - Improve the Developer Experience of console.log().
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
