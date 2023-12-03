@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-turbo-console](https://github.com/yuyinws/unplugin-turbo-console)<br>
 2. ⭐️ Starred [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo)<br>
-3. ⭐️ Starred [githubnext/monaspace](https://github.com/githubnext/monaspace)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/stackblitz-demo](https://github.com/yuyinws/stackblitz-demo)<br>
-5. Opened issue [#6](https://github.com/unplugin/.github/issues/6) in [unplugin/.github](https://github.com/unplugin/.github)<br>
+3. ⭐️ Starred [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo)<br>
+4. ⭐️ Starred [githubnext/monaspace](https://github.com/githubnext/monaspace)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/stackblitz-demo](https://github.com/yuyinws/stackblitz-demo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
