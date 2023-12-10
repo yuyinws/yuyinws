@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [linexjlin/GPTs](https://github.com/linexjlin/GPTs)<br>
-2. ⭐️ Starred [nuxt-themes/typography](https://github.com/nuxt-themes/typography)<br>
-3. ⭐️ Starred [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine)<br>
-4. ⭐️ Starred [nuxt/content](https://github.com/nuxt/content)<br>
-5. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/nuxt-blog](https://github.com/yuyinws/nuxt-blog)<br>
+2. ⭐️ Starred [linexjlin/GPTs](https://github.com/linexjlin/GPTs)<br>
+3. ⭐️ Starred [nuxt-themes/typography](https://github.com/nuxt-themes/typography)<br>
+4. ⭐️ Starred [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine)<br>
+5. ⭐️ Starred [nuxt/content](https://github.com/nuxt/content)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
