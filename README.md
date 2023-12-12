@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/vitepress](https://github.com/yuyinws/vitepress) from [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
-2. ⭐️ Starred [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
-3. ⭐️ Starred [pheralb/svgl](https://github.com/pheralb/svgl)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/nuxt-blog](https://github.com/yuyinws/nuxt-blog)<br>
+1. Opened PR [#3321](https://github.com/vuejs/vitepress/pull/3321) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
+3. 🍴 Forked [yuyinws/vitepress](https://github.com/yuyinws/vitepress) from [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+4. ⭐️ Starred [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+5. ⭐️ Starred [pheralb/svgl](https://github.com/pheralb/svgl)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
