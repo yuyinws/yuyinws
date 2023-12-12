@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👨🏻‍💻 Created new repository [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
-2. Opened issue [#8](https://github.com/unplugin/.github/issues/8) in [unplugin/.github](https://github.com/unplugin/.github)<br>
-3. Opened PR [#3321](https://github.com/vuejs/vitepress/pull/3321) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
-5. 🍴 Forked [yuyinws/vitepress](https://github.com/yuyinws/vitepress) from [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+1. Closed issue [#8](https://github.com/unplugin/.github/issues/8) in [unplugin/.github](https://github.com/unplugin/.github)<br>
+2. 👨🏻‍💻 Created new repository [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
+3. Opened issue [#8](https://github.com/unplugin/.github/issues/8) in [unplugin/.github](https://github.com/unplugin/.github)<br>
+4. Opened PR [#3321](https://github.com/vuejs/vitepress/pull/3321) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
