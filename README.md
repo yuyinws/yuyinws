@@ -40,9 +40,9 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/vitest](https://github.com/yuyinws/vitest) from [vitest-dev/vitest](https://github.com/vitest-dev/vitest)<br>
-2. 💪 Pushed 3 commit(s) to [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
+2. 🍴 Forked [yuyinws/vitest](https://github.com/yuyinws/vitest) from [vitest-dev/vitest](https://github.com/vitest-dev/vitest)<br>
+3. 💪 Pushed 3 commit(s) to [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
 <!--RECENT_ACTIVITY:end-->
