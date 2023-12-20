@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [unjs/citty](https://github.com/unjs/citty)<br>
-2. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
-3. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
-4. ⭐️ Starred [fisand/unocss-preset-shadcn](https://github.com/fisand/unocss-preset-shadcn)<br>
-5. 💪 Pushed 2 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
+1. ⭐️ Starred [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette)<br>
+2. 💪 Pushed 4 commit(s) to [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
+3. Merged PR [#1](https://github.com/yuyinws/switch-card/pull/1) in [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
+4. ⭐️ Starred [unjs/citty](https://github.com/unjs/citty)<br>
+5. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
