@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
+1. ⭐️ Starred [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so)<br>
 2. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
-3. ⭐️ Starred [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette)<br>
-4. 💪 Pushed 4 commit(s) to [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
-5. Merged PR [#1](https://github.com/yuyinws/switch-card/pull/1) in [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
+3. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
+4. ⭐️ Starred [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette)<br>
+5. 💪 Pushed 4 commit(s) to [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
