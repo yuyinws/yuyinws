@@ -40,10 +40,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 108 commit(s) to [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web)<br>
-2. ⭐️ Starred [honojs/hono](https://github.com/honojs/hono)<br>
-3. ⭐️ Starred [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so)<br>
-4. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
+1. 💪 Pushed 2 commit(s) to [yuyinws/switch-card](https://github.com/yuyinws/switch-card)<br>
+2. 💪 Pushed 108 commit(s) to [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web)<br>
+3. ⭐️ Starred [honojs/hono](https://github.com/honojs/hono)<br>
+4. ⭐️ Starred [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so)<br>
 5. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
