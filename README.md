@@ -40,10 +40,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#3677](https://github.com/vueuse/vueuse/pull/3677) in [vueuse/vueuse](https://github.com/vueuse/vueuse)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/vueuse](https://github.com/yuyinws/vueuse)<br>
-3. 🍴 Forked [yuyinws/vueuse](https://github.com/yuyinws/vueuse) from [vueuse/vueuse](https://github.com/vueuse/vueuse)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/gitrees](https://github.com/yuyinws/gitrees)<br>
+1. ⭐️ Starred [antfu/icones](https://github.com/antfu/icones)<br>
+2. Opened PR [#3677](https://github.com/vueuse/vueuse/pull/3677) in [vueuse/vueuse](https://github.com/vueuse/vueuse)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/vueuse](https://github.com/yuyinws/vueuse)<br>
+4. 🍴 Forked [yuyinws/vueuse](https://github.com/yuyinws/vueuse) from [vueuse/vueuse](https://github.com/vueuse/vueuse)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/gitrees](https://github.com/yuyinws/gitrees)<br>
 <!--RECENT_ACTIVITY:end-->
 
