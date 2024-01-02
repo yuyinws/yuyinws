@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
+1. ⭐️ Starred [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus)<br>
 2. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
-3. 💪 Pushed 2 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
-4. ⭐️ Starred [vuejs/devtools-next](https://github.com/vuejs/devtools-next)<br>
-5. ⭐️ Starred [zernonia/vue0](https://github.com/zernonia/vue0)<br>
+3. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
+4. 💪 Pushed 2 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
+5. ⭐️ Starred [vuejs/devtools-next](https://github.com/vuejs/devtools-next)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
