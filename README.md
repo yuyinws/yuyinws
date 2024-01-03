@@ -40,10 +40,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Closed issue [#100](https://github.com/yuyinws/steam-card/issues/100) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
-3. ⭐️ Starred [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus)<br>
-4. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
+1. Closed issue [#1](https://github.com/unplugin/docs/issues/1) in [unplugin/docs](https://github.com/unplugin/docs)<br>
+2. Closed issue [#100](https://github.com/yuyinws/steam-card/issues/100) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
+4. ⭐️ Starred [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus)<br>
 5. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
