@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
+1. 💪 Pushed 2 commit(s) to [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
 2. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
-3. 🍴 Forked [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs) from [unplugin/docs](https://github.com/unplugin/docs)<br>
-4. Closed issue [#1](https://github.com/unplugin/docs/issues/1) in [unplugin/docs](https://github.com/unplugin/docs)<br>
-5. Closed issue [#100](https://github.com/yuyinws/steam-card/issues/100) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
+4. 🍴 Forked [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs) from [unplugin/docs](https://github.com/unplugin/docs)<br>
+5. Closed issue [#1](https://github.com/unplugin/docs/issues/1) in [unplugin/docs](https://github.com/unplugin/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
