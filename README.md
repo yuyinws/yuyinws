@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [unplugin/docs](https://github.com/unplugin/docs)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
 2. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
-4. 💪 Pushed 2 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
-5. ⭐️ Starred [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)<br>
+3. Merged PR [#4](https://github.com/unplugin/docs/pull/4) in [unplugin/docs](https://github.com/unplugin/docs)<br>
+4. ⭐️ Starred [unplugin/docs](https://github.com/unplugin/docs)<br>
+5. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
