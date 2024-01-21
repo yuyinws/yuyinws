@@ -42,8 +42,8 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Pushed 1 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
 2. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
-3. Merged PR [#4](https://github.com/unplugin/docs/pull/4) in [unplugin/docs](https://github.com/unplugin/docs)<br>
-4. ⭐️ Starred [unplugin/docs](https://github.com/unplugin/docs)<br>
+3. Merged PR [#5](https://github.com/unplugin/docs/pull/5) in [unplugin/docs](https://github.com/unplugin/docs)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
 5. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
