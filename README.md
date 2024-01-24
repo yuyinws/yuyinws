@@ -40,10 +40,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/gitrees](https://github.com/yuyinws/gitrees)<br>
+1. ⭐️ Starred [VideoTogether/VideoTogether](https://github.com/VideoTogether/VideoTogether)<br>
+2. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/gitrees](https://github.com/yuyinws/gitrees)<br>
 <!--RECENT_ACTIVITY:end-->
 
