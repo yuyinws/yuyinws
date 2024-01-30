@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/unplugin-vue-components](https://github.com/yuyinws/unplugin-vue-components) from [unplugin/unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components)<br>
-2. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. ⭐️ Starred [oku-ui/motion](https://github.com/oku-ui/motion)<br>
+2. 🍴 Forked [yuyinws/unplugin-vue-components](https://github.com/yuyinws/unplugin-vue-components) from [unplugin/unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components)<br>
 3. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-4. Merged PR [#17](https://github.com/unplugin/unplugin-turbo-console/pull/17) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-5. Opened PR [#17](https://github.com/unplugin/unplugin-turbo-console/pull/17) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+4. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+5. Merged PR [#17](https://github.com/unplugin/unplugin-turbo-console/pull/17) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
