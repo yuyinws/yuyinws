@@ -41,10 +41,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-3. 👨🏻‍💻 Created new repository [yuyinws/steam-card34](https://github.com/yuyinws/steam-card34)<br>
-4. ⭐️ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
-5. ⭐️ Starred [oku-ui/motion](https://github.com/oku-ui/motion)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+4. 👨🏻‍💻 Created new repository [yuyinws/steam-card34](https://github.com/yuyinws/steam-card34)<br>
+5. ⭐️ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
