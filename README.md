@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
-2. ⭐️ Starred [oku-ui/motion](https://github.com/oku-ui/motion)<br>
-3. 🍴 Forked [yuyinws/unplugin-vue-components](https://github.com/yuyinws/unplugin-vue-components) from [unplugin/unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components)<br>
-4. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-5. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+2. 👨🏻‍💻 Created new repository [yuyinws/steam-card34](https://github.com/yuyinws/steam-card34)<br>
+3. ⭐️ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
+4. ⭐️ Starred [oku-ui/motion](https://github.com/oku-ui/motion)<br>
+5. 🍴 Forked [yuyinws/unplugin-vue-components](https://github.com/yuyinws/unplugin-vue-components) from [unplugin/unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
