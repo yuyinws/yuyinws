@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
-3. ⭐️ Starred [remix-run/remix](https://github.com/remix-run/remix)<br>
-4. ⭐️ Starred [honojs/node-server](https://github.com/honojs/node-server)<br>
-5. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. ⭐️ Starred [shikijs/shiki](https://github.com/shikijs/shiki)<br>
+2. ⭐️ Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
+4. ⭐️ Starred [remix-run/remix](https://github.com/remix-run/remix)<br>
+5. ⭐️ Starred [honojs/node-server](https://github.com/honojs/node-server)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
