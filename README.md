@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Closed issue [#19](https://github.com/unplugin/unplugin-turbo-console/issues/19) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-2. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. ⭐️ Starred [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js)<br>
+2. Closed issue [#19](https://github.com/unplugin/unplugin-turbo-console/issues/19) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 3. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-4. Merged PR [#20](https://github.com/unplugin/unplugin-turbo-console/pull/20) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-5. Opened PR [#20](https://github.com/unplugin/unplugin-turbo-console/pull/20) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+4. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+5. Merged PR [#20](https://github.com/unplugin/unplugin-turbo-console/pull/20) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
