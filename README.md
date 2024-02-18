@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)<br>
-2. 💪 Pushed 52 commit(s) to [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web)<br>
-3. ⭐️ Starred [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js)<br>
-4. Closed issue [#19](https://github.com/unplugin/unplugin-turbo-console/issues/19) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-5. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. 🍴 Forked [yuyinws/devtools-next](https://github.com/yuyinws/devtools-next) from [vuejs/devtools-next](https://github.com/vuejs/devtools-next)<br>
+2. ⭐️ Starred [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)<br>
+3. 💪 Pushed 52 commit(s) to [yuyinws/ChatGPT-Next-Web](https://github.com/yuyinws/ChatGPT-Next-Web)<br>
+4. ⭐️ Starred [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js)<br>
+5. Closed issue [#19](https://github.com/unplugin/unplugin-turbo-console/issues/19) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
