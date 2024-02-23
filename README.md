@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [NMTuan/timeNow](https://github.com/NMTuan/timeNow)<br>
-2. ⭐️ Starred [meetqy/aspoem](https://github.com/meetqy/aspoem)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
-4. 💪 Pushed 2 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
-5. ⭐️ Starred [yuyinws/docs](https://github.com/yuyinws/docs)<br>
+1. ⭐️ Starred [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
+3. ⭐️ Starred [NMTuan/timeNow](https://github.com/NMTuan/timeNow)<br>
+4. ⭐️ Starred [meetqy/aspoem](https://github.com/meetqy/aspoem)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
