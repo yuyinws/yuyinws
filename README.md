@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
-3. ⭐️ Starred [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
-4. ⭐️ Starred [unplugin/docs](https://github.com/unplugin/docs)<br>
-5. 💪 Pushed 6 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
+1. ⭐️ Starred [LuciNyan/pixel-profile](https://github.com/LuciNyan/pixel-profile)<br>
+2. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
+4. ⭐️ Starred [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
+5. ⭐️ Starred [unplugin/docs](https://github.com/unplugin/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
