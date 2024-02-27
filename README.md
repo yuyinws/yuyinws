@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [LuciNyan/pixel-profile](https://github.com/LuciNyan/pixel-profile)<br>
-2. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
-4. ⭐️ Starred [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
-5. ⭐️ Starred [unplugin/docs](https://github.com/unplugin/docs)<br>
+1. Opened issue [#5](https://github.com/yuyinws/comm1t/issues/5) in [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
+2. Opened issue [#101](https://github.com/yuyinws/steam-card/issues/101) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+3. ⭐️ Starred [LuciNyan/pixel-profile](https://github.com/LuciNyan/pixel-profile)<br>
+4. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
