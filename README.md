@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [jsr-io/jsr](https://github.com/jsr-io/jsr)<br>
-2. ⭐️ Starred [nuxt-hub/core](https://github.com/nuxt-hub/core)<br>
-3. Opened issue [#5](https://github.com/yuyinws/comm1t/issues/5) in [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
-4. Opened issue [#101](https://github.com/yuyinws/steam-card/issues/101) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-5. ⭐️ Starred [LuciNyan/pixel-profile](https://github.com/LuciNyan/pixel-profile)<br>
+1. ⭐️ Starred [ollama/ollama](https://github.com/ollama/ollama)<br>
+2. ⭐️ Starred [jsr-io/jsr](https://github.com/jsr-io/jsr)<br>
+3. ⭐️ Starred [nuxt-hub/core](https://github.com/nuxt-hub/core)<br>
+4. Opened issue [#5](https://github.com/yuyinws/comm1t/issues/5) in [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
+5. Opened issue [#101](https://github.com/yuyinws/steam-card/issues/101) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
