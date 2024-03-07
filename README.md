@@ -41,10 +41,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Pushed 1 commit(s) to [WestonSeyler/unplugin](https://github.com/WestonSeyler/unplugin)<br>
-2. 💪 Pushed 1 commit(s) to [WestonSeyler/unplugin](https://github.com/WestonSeyler/unplugin)<br>
-3. 💪 Pushed 2 commit(s) to [WestonSeyler/unplugin](https://github.com/WestonSeyler/unplugin)<br>
-4. ⭐️ Starred [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-docs](https://github.com/yuyinws/unplugin-docs)<br>
+2. 💪 Pushed 7 commit(s) to [WestonSeyler/unplugin](https://github.com/WestonSeyler/unplugin)<br>
+3. Opened PR [#369](https://github.com/unjs/unplugin/pull/369) in [unjs/unplugin](https://github.com/unjs/unplugin)<br>
+4. 💪 Pushed 1 commit(s) to [WestonSeyler/unplugin](https://github.com/WestonSeyler/unplugin)<br>
+5. 💪 Pushed 1 commit(s) to [WestonSeyler/unplugin](https://github.com/WestonSeyler/unplugin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
