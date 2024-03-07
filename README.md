@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-2. ⭐️ Starred [natemoo-re/satori-html](https://github.com/natemoo-re/satori-html)<br>
-3. 💪 Pushed 1 commit(s) to [WestonSeyler/unplugin](https://github.com/WestonSeyler/unplugin)<br>
-4. 💪 Pushed 7 commit(s) to [WestonSeyler/unplugin](https://github.com/WestonSeyler/unplugin)<br>
-5. Opened PR [#369](https://github.com/unjs/unplugin/pull/369) in [unjs/unplugin](https://github.com/unjs/unplugin)<br>
+1. ⭐️ Starred [nuxt/fonts](https://github.com/nuxt/fonts)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+5. ⭐️ Starred [natemoo-re/satori-html](https://github.com/natemoo-re/satori-html)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
