@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened issue [#103](https://github.com/yuyinws/steam-card/issues/103) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-2. Opened issue [#102](https://github.com/yuyinws/steam-card/issues/102) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-3. 💪 Pushed 1 commit(s) to [WestonSeyler/unplugin](https://github.com/WestonSeyler/unplugin)<br>
-4. 💪 Pushed 3 commit(s) to [WestonSeyler/unplugin](https://github.com/WestonSeyler/unplugin)<br>
-5. ⭐️ Starred [nuxt/fonts](https://github.com/nuxt/fonts)<br>
+1. 💪 Pushed 2 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+2. Closed issue [#22](https://github.com/unplugin/unplugin-turbo-console/issues/22) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+3. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+4. Opened issue [#103](https://github.com/yuyinws/steam-card/issues/103) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+5. Opened issue [#102](https://github.com/yuyinws/steam-card/issues/102) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
