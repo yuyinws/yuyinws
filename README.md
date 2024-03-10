@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Closed issue [#7](https://github.com/unplugin/docs/issues/7) in [unplugin/docs](https://github.com/unplugin/docs)<br>
-2. 💪 Pushed 7 commit(s) to [WestonSeyler/unplugin](https://github.com/WestonSeyler/unplugin)<br>
-3. ⭐️ Starred [rolldown-rs/rolldown](https://github.com/rolldown-rs/rolldown)<br>
-4. 💪 Pushed 2 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-5. Closed issue [#22](https://github.com/unplugin/unplugin-turbo-console/issues/22) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. ⭐️ Starred [usebruno/bruno](https://github.com/usebruno/bruno)<br>
+2. Closed issue [#7](https://github.com/unplugin/docs/issues/7) in [unplugin/docs](https://github.com/unplugin/docs)<br>
+3. 💪 Pushed 7 commit(s) to [WestonSeyler/unplugin](https://github.com/WestonSeyler/unplugin)<br>
+4. ⭐️ Starred [rolldown-rs/rolldown](https://github.com/rolldown-rs/rolldown)<br>
+5. 💪 Pushed 2 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
