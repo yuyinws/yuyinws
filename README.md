@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-2. ⭐️ Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)<br>
-3. ⭐️ Starred [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab)<br>
-4. Opened PR [#371](https://github.com/unjs/unplugin/pull/371) in [unjs/unplugin](https://github.com/unjs/unplugin)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/unplugin](https://github.com/yuyinws/unplugin)<br>
+1. Closed issue [#105](https://github.com/yuyinws/steam-card/issues/105) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+3. ⭐️ Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)<br>
+4. ⭐️ Starred [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab)<br>
+5. Opened PR [#371](https://github.com/unjs/unplugin/pull/371) in [unjs/unplugin](https://github.com/unjs/unplugin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
