@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab)<br>
-2. Opened PR [#371](https://github.com/unjs/unplugin/pull/371) in [unjs/unplugin](https://github.com/unjs/unplugin)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/unplugin](https://github.com/yuyinws/unplugin)<br>
-4. 🍴 Forked [yuyinws/unplugin](https://github.com/yuyinws/unplugin) from [unjs/unplugin](https://github.com/unjs/unplugin)<br>
-5. 💪 Pushed 1 commit(s) to [unplugin/docs](https://github.com/unplugin/docs)<br>
+1. ⭐️ Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)<br>
+2. ⭐️ Starred [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab)<br>
+3. Opened PR [#371](https://github.com/unjs/unplugin/pull/371) in [unjs/unplugin](https://github.com/unjs/unplugin)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/unplugin](https://github.com/yuyinws/unplugin)<br>
+5. 🍴 Forked [yuyinws/unplugin](https://github.com/yuyinws/unplugin) from [unjs/unplugin](https://github.com/unjs/unplugin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
