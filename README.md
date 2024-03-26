@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-2. ⭐️ Starred [prisma/prisma](https://github.com/prisma/prisma)<br>
-3. ⭐️ Starred [una-ui/una-ui](https://github.com/una-ui/una-ui)<br>
-4. Closed issue [#23](https://github.com/unplugin/unplugin-turbo-console/issues/23) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-5. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. Closed issue [#25](https://github.com/unplugin/unplugin-turbo-console/issues/25) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+2. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+3. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+4. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
