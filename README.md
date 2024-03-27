@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/unplugin](https://github.com/yuyinws/unplugin) from [unjs/unplugin](https://github.com/unjs/unplugin)<br>
-2. 💪 Pushed 4 commit(s) to [yuyinws/unplugin](https://github.com/yuyinws/unplugin)<br>
-3. Closed issue [#25](https://github.com/unplugin/unplugin-turbo-console/issues/25) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-4. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-5. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. Opened PR [#1](https://github.com/sanomicsai/eslint-config/pull/1) in [sanomicsai/eslint-config](https://github.com/sanomicsai/eslint-config)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/sanomics-eslint-config](https://github.com/yuyinws/sanomics-eslint-config)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/sanomics-eslint-config](https://github.com/yuyinws/sanomics-eslint-config)<br>
+4. 🍴 Forked [yuyinws/sanomics-eslint-config](https://github.com/yuyinws/sanomics-eslint-config) from [sanomicsai/eslint-config](https://github.com/sanomicsai/eslint-config)<br>
+5. ⭐️ Starred [sanomicsai/eslint-config](https://github.com/sanomicsai/eslint-config)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
