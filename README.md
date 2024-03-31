@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [xuzuodong/personal-website](https://github.com/xuzuodong/personal-website)<br>
-2. Opened PR [#2](https://github.com/sanomicsai/eslint-config/pull/2) in [sanomicsai/eslint-config](https://github.com/sanomicsai/eslint-config)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/sanomics-eslint-config](https://github.com/yuyinws/sanomics-eslint-config)<br>
-4. 💪 Pushed 6 commit(s) to [yuyinws/sanomics-eslint-config](https://github.com/yuyinws/sanomics-eslint-config)<br>
-5. Opened PR [#1](https://github.com/sanomicsai/eslint-config/pull/1) in [sanomicsai/eslint-config](https://github.com/sanomicsai/eslint-config)<br>
+1. ⭐️ Starred [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)<br>
+2. ⭐️ Starred [xuzuodong/personal-website](https://github.com/xuzuodong/personal-website)<br>
+3. Opened PR [#2](https://github.com/sanomicsai/eslint-config/pull/2) in [sanomicsai/eslint-config](https://github.com/sanomicsai/eslint-config)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/sanomics-eslint-config](https://github.com/yuyinws/sanomics-eslint-config)<br>
+5. 💪 Pushed 6 commit(s) to [yuyinws/sanomics-eslint-config](https://github.com/yuyinws/sanomics-eslint-config)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
