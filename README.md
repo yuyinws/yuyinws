@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/unplugin](https://github.com/yuyinws/unplugin)<br>
-2. Opened PR [#378](https://github.com/unjs/unplugin/pull/378) in [unjs/unplugin](https://github.com/unjs/unplugin)<br>
-3. 💪 Pushed 3 commit(s) to [yuyinws/unplugin](https://github.com/yuyinws/unplugin)<br>
-4. 💪 Pushed 5 commit(s) to [yuyinws/unplugin](https://github.com/yuyinws/unplugin)<br>
-5. ⭐️ Starred [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)<br>
+1. ⭐️ Starred [shuding/photos](https://github.com/shuding/photos)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/unplugin](https://github.com/yuyinws/unplugin)<br>
+3. Opened PR [#378](https://github.com/unjs/unplugin/pull/378) in [unjs/unplugin](https://github.com/unjs/unplugin)<br>
+4. 💪 Pushed 3 commit(s) to [yuyinws/unplugin](https://github.com/yuyinws/unplugin)<br>
+5. 💪 Pushed 5 commit(s) to [yuyinws/unplugin](https://github.com/yuyinws/unplugin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
