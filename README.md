@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#3](https://github.com/sanomicsai/eslint-config/pull/3) in [sanomicsai/eslint-config](https://github.com/sanomicsai/eslint-config)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/sanomics-eslint-config](https://github.com/yuyinws/sanomics-eslint-config)<br>
-3. 💪 Pushed 2 commit(s) to [yuyinws/sanomics-eslint-config](https://github.com/yuyinws/sanomics-eslint-config)<br>
-4. ⭐️ Starred [shuding/photos](https://github.com/shuding/photos)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/unplugin](https://github.com/yuyinws/unplugin)<br>
+1. Opened PR [#79](https://github.com/openimsdk/open-im-sdk-web-wasm/pull/79) in [openimsdk/open-im-sdk-web-wasm](https://github.com/openimsdk/open-im-sdk-web-wasm)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/open-im-sdk-web-wasm](https://github.com/yuyinws/open-im-sdk-web-wasm)<br>
+3. 🍴 Forked [yuyinws/open-im-sdk-web-wasm](https://github.com/yuyinws/open-im-sdk-web-wasm) from [openimsdk/open-im-sdk-web-wasm](https://github.com/openimsdk/open-im-sdk-web-wasm)<br>
+4. Opened PR [#3](https://github.com/sanomicsai/eslint-config/pull/3) in [sanomicsai/eslint-config](https://github.com/sanomicsai/eslint-config)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/sanomics-eslint-config](https://github.com/yuyinws/sanomics-eslint-config)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
