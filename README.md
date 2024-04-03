@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [shuding/photos](https://github.com/shuding/photos)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/unplugin](https://github.com/yuyinws/unplugin)<br>
-3. Opened PR [#378](https://github.com/unjs/unplugin/pull/378) in [unjs/unplugin](https://github.com/unjs/unplugin)<br>
-4. 💪 Pushed 3 commit(s) to [yuyinws/unplugin](https://github.com/yuyinws/unplugin)<br>
-5. 💪 Pushed 5 commit(s) to [yuyinws/unplugin](https://github.com/yuyinws/unplugin)<br>
+1. Opened PR [#3](https://github.com/sanomicsai/eslint-config/pull/3) in [sanomicsai/eslint-config](https://github.com/sanomicsai/eslint-config)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/sanomics-eslint-config](https://github.com/yuyinws/sanomics-eslint-config)<br>
+3. 💪 Pushed 2 commit(s) to [yuyinws/sanomics-eslint-config](https://github.com/yuyinws/sanomics-eslint-config)<br>
+4. ⭐️ Starred [shuding/photos](https://github.com/shuding/photos)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/unplugin](https://github.com/yuyinws/unplugin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
