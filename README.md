@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened issue [#26](https://github.com/unplugin/unplugin-turbo-console/issues/26) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-2. Opened PR [#79](https://github.com/openimsdk/open-im-sdk-web-wasm/pull/79) in [openimsdk/open-im-sdk-web-wasm](https://github.com/openimsdk/open-im-sdk-web-wasm)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/open-im-sdk-web-wasm](https://github.com/yuyinws/open-im-sdk-web-wasm)<br>
-4. 🍴 Forked [yuyinws/open-im-sdk-web-wasm](https://github.com/yuyinws/open-im-sdk-web-wasm) from [openimsdk/open-im-sdk-web-wasm](https://github.com/openimsdk/open-im-sdk-web-wasm)<br>
-5. Opened PR [#3](https://github.com/sanomicsai/eslint-config/pull/3) in [sanomicsai/eslint-config](https://github.com/sanomicsai/eslint-config)<br>
+1. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+2. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+3. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+4. 💪 Pushed 3 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+5. Closed issue [#26](https://github.com/unplugin/unplugin-turbo-console/issues/26) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
