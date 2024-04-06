@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/config-inspector](https://github.com/yuyinws/config-inspector) from [eslint/config-inspector](https://github.com/eslint/config-inspector)<br>
-2. ⭐️ Starred [eslint/config-inspector](https://github.com/eslint/config-inspector)<br>
-3. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-4. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-5. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/config-inspector](https://github.com/yuyinws/config-inspector)<br>
+2. Opened PR [#30](https://github.com/eslint/config-inspector/pull/30) in [eslint/config-inspector](https://github.com/eslint/config-inspector)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/config-inspector](https://github.com/yuyinws/config-inspector)<br>
+4. 🍴 Forked [yuyinws/config-inspector](https://github.com/yuyinws/config-inspector) from [eslint/config-inspector](https://github.com/eslint/config-inspector)<br>
+5. ⭐️ Starred [eslint/config-inspector](https://github.com/eslint/config-inspector)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
