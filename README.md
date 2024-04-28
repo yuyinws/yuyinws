@@ -41,10 +41,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Pushed 1 commit(s) to [yuyinws/nuxt-module-intellisense](https://github.com/yuyinws/nuxt-module-intellisense)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/starter-vscode](https://github.com/yuyinws/starter-vscode)<br>
-3. Opened PR [#11](https://github.com/antfu/starter-vscode/pull/11) in [antfu/starter-vscode](https://github.com/antfu/starter-vscode)<br>
-4. 💪 Pushed 2 commit(s) to [yuyinws/starter-vscode](https://github.com/yuyinws/starter-vscode)<br>
-5. 💪 Pushed 2 commit(s) to [yuyinws/gitrees](https://github.com/yuyinws/gitrees)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/nuxt-module-intellisense](https://github.com/yuyinws/nuxt-module-intellisense)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/starter-vscode](https://github.com/yuyinws/starter-vscode)<br>
+4. Opened PR [#11](https://github.com/antfu/starter-vscode/pull/11) in [antfu/starter-vscode](https://github.com/antfu/starter-vscode)<br>
+5. 💪 Pushed 2 commit(s) to [yuyinws/starter-vscode](https://github.com/yuyinws/starter-vscode)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
