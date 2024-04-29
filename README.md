@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [reslear/tailwind-scrollbar-hide](https://github.com/reslear/tailwind-scrollbar-hide)<br>
-2. ⭐️ Starred [yuyinws/nuxt-module-intellisense](https://github.com/yuyinws/nuxt-module-intellisense)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/nuxt-module-intellisense](https://github.com/yuyinws/nuxt-module-intellisense)<br>
+1. 💪 Pushed 4 commit(s) to [yuyinws/nuxt-module-intellisense](https://github.com/yuyinws/nuxt-module-intellisense)<br>
+2. ⭐️ Starred [reslear/tailwind-scrollbar-hide](https://github.com/reslear/tailwind-scrollbar-hide)<br>
+3. ⭐️ Starred [yuyinws/nuxt-module-intellisense](https://github.com/yuyinws/nuxt-module-intellisense)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/nuxt-module-intellisense](https://github.com/yuyinws/nuxt-module-intellisense)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/starter-vscode](https://github.com/yuyinws/starter-vscode)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/nuxt-module-intellisense](https://github.com/yuyinws/nuxt-module-intellisense)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
