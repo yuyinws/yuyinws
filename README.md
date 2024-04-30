@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/lobe-chat](https://github.com/yuyinws/lobe-chat) from [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)<br>
-2. ⭐️ Starred [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)<br>
-3. 💪 Pushed 4 commit(s) to [yuyinws/nuxt-module-intellisense](https://github.com/yuyinws/nuxt-module-intellisense)<br>
-4. ⭐️ Starred [reslear/tailwind-scrollbar-hide](https://github.com/reslear/tailwind-scrollbar-hide)<br>
-5. ⭐️ Starred [yuyinws/nuxt-module-intellisense](https://github.com/yuyinws/nuxt-module-intellisense)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/starter-vscode](https://github.com/yuyinws/starter-vscode)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/starter-vscode](https://github.com/yuyinws/starter-vscode)<br>
+3. 🍴 Forked [yuyinws/lobe-chat](https://github.com/yuyinws/lobe-chat) from [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)<br>
+4. ⭐️ Starred [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)<br>
+5. 💪 Pushed 4 commit(s) to [yuyinws/nuxt-module-intellisense](https://github.com/yuyinws/nuxt-module-intellisense)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
