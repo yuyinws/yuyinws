@@ -41,10 +41,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/starter-vscode](https://github.com/yuyinws/starter-vscode)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/starter-vscode](https://github.com/yuyinws/starter-vscode)<br>
-4. 🍴 Forked [yuyinws/lobe-chat](https://github.com/yuyinws/lobe-chat) from [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)<br>
-5. ⭐️ Starred [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
