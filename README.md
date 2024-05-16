@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👨🏻‍💻 Created new repository [yuyinws/nuxt-module-cli-shortcuts](https://github.com/yuyinws/nuxt-module-cli-shortcuts)<br>
-2. 👨🏻‍💻 Created new repository [yuyinws/nuxt-module-starter](https://github.com/yuyinws/nuxt-module-starter)<br>
+1. 💪 Pushed 3 commit(s) to [yuyinws/nuxt-module-cli-shortcuts](https://github.com/yuyinws/nuxt-module-cli-shortcuts)<br>
+2. Released [v0.0.1](https://github.com/yuyinws/nuxt-module-cli-shortcuts/releases/tag/v0.0.1) in [yuyinws/nuxt-module-cli-shortcuts](https://github.com/yuyinws/nuxt-module-cli-shortcuts)<br>
 3. 👨🏻‍💻 Created new repository [yuyinws/nuxt-module-cli-shortcuts](https://github.com/yuyinws/nuxt-module-cli-shortcuts)<br>
-4. 💪 Pushed 2 commit(s) to [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
-5. 💪 Pushed 2 commit(s) to [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
+4. 👨🏻‍💻 Created new repository [yuyinws/nuxt-module-starter](https://github.com/yuyinws/nuxt-module-starter)<br>
+5. 👨🏻‍💻 Created new repository [yuyinws/nuxt-module-cli-shortcuts](https://github.com/yuyinws/nuxt-module-cli-shortcuts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
