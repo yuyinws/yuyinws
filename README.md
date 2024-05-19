@@ -40,10 +40,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
-3. 💪 Pushed 12 commit(s) to [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
+1. Closed issue [#5](https://github.com/yuyinws/init-commit/issues/5) in [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/comm1t](https://github.com/yuyinws/comm1t)<br>
 <!--RECENT_ACTIVITY:end-->
 
