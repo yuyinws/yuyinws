@@ -40,10 +40,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👨🏻‍💻 Created new repository [tem-plate/nuxt](https://github.com/tem-plate/nuxt)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
-4. ⭐️ Starred [danielroe/firstcommit.is](https://github.com/danielroe/firstcommit.is)<br>
+1. 👨🏻‍💻 Created new repository [tem-plate/nuxt-pgsql](https://github.com/tem-plate/nuxt-pgsql)<br>
+2. Closed PR [#11](https://github.com/antfu/starter-vscode/pull/11) in [antfu/starter-vscode](https://github.com/antfu/starter-vscode)<br>
+3. 👨🏻‍💻 Created new repository [tem-plate/nuxt](https://github.com/tem-plate/nuxt)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
 <!--RECENT_ACTIVITY:end-->
 
