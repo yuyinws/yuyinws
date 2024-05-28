@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [tem-plate/unplugin](https://github.com/tem-plate/unplugin)<br>
-2. 💪 Pushed 1 commit(s) to [tem-plate/unplugin](https://github.com/tem-plate/unplugin)<br>
-3. 👨🏻‍💻 Created new repository [tem-plate/unplugin](https://github.com/tem-plate/unplugin)<br>
-4. Opened PR [#64](https://github.com/sxzz/ast-explorer/pull/64) in [sxzz/ast-explorer](https://github.com/sxzz/ast-explorer)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/ast-explorer](https://github.com/yuyinws/ast-explorer)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
+2. Merged PR [#6](https://github.com/yuyinws/init-commit/pull/6) in [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
+3. 💪 Pushed 1 commit(s) to [tem-plate/unplugin](https://github.com/tem-plate/unplugin)<br>
+4. 💪 Pushed 1 commit(s) to [tem-plate/unplugin](https://github.com/tem-plate/unplugin)<br>
+5. 👨🏻‍💻 Created new repository [tem-plate/unplugin](https://github.com/tem-plate/unplugin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
