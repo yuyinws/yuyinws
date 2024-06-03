@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [wobsoriano/trpc-nuxt](https://github.com/wobsoriano/trpc-nuxt)<br>
-2. ⭐️ Starred [langgenius/dify](https://github.com/langgenius/dify)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
+1. ⭐️ Starred [liriliri/chii](https://github.com/liriliri/chii)<br>
+2. ⭐️ Starred [wobsoriano/trpc-nuxt](https://github.com/wobsoriano/trpc-nuxt)<br>
+3. ⭐️ Starred [langgenius/dify](https://github.com/langgenius/dify)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
-5. Merged PR [#6](https://github.com/yuyinws/init-commit/pull/6) in [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
