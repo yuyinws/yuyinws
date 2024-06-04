@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/nuxt-module-chrome-devtools](https://github.com/yuyinws/nuxt-module-chrome-devtools)<br>
-2. ⭐️ Starred [liriliri/chii](https://github.com/liriliri/chii)<br>
-3. ⭐️ Starred [wobsoriano/trpc-nuxt](https://github.com/wobsoriano/trpc-nuxt)<br>
-4. ⭐️ Starred [langgenius/dify](https://github.com/langgenius/dify)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
+1. 💪 Pushed 3 commit(s) to [yuyinws/nuxt-module-chrome-devtools](https://github.com/yuyinws/nuxt-module-chrome-devtools)<br>
+2. Released [v0.0.5](https://github.com/yuyinws/nuxt-module-chrome-devtools/releases/tag/v0.0.5) in [yuyinws/nuxt-module-chrome-devtools](https://github.com/yuyinws/nuxt-module-chrome-devtools)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/nuxt-module-chrome-devtools](https://github.com/yuyinws/nuxt-module-chrome-devtools)<br>
+4. ⭐️ Starred [liriliri/chii](https://github.com/liriliri/chii)<br>
+5. ⭐️ Starred [wobsoriano/trpc-nuxt](https://github.com/wobsoriano/trpc-nuxt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
