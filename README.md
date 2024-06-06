@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/vue-macros](https://github.com/yuyinws/vue-macros) from [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros)<br>
-2. 💪 Pushed 3 commit(s) to [yuyinws/nuxt-module-chrome-devtools](https://github.com/yuyinws/nuxt-module-chrome-devtools)<br>
-3. Released [v0.0.5](https://github.com/yuyinws/nuxt-module-chrome-devtools/releases/tag/v0.0.5) in [yuyinws/nuxt-module-chrome-devtools](https://github.com/yuyinws/nuxt-module-chrome-devtools)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/nuxt-module-chrome-devtools](https://github.com/yuyinws/nuxt-module-chrome-devtools)<br>
-5. ⭐️ Starred [liriliri/chii](https://github.com/liriliri/chii)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/vue-macros](https://github.com/yuyinws/vue-macros)<br>
+2. Opened PR [#699](https://github.com/vue-macros/vue-macros/pull/699) in [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros)<br>
+3. 💪 Pushed 2 commit(s) to [yuyinws/vue-macros](https://github.com/yuyinws/vue-macros)<br>
+4. 🍴 Forked [yuyinws/vue-macros](https://github.com/yuyinws/vue-macros) from [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros)<br>
+5. 💪 Pushed 3 commit(s) to [yuyinws/nuxt-module-chrome-devtools](https://github.com/yuyinws/nuxt-module-chrome-devtools)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
