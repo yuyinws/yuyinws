@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [pomber/stargazer](https://github.com/pomber/stargazer)<br>
-2. 🍴 Forked [yuyinws/ast-explorer](https://github.com/yuyinws/ast-explorer) from [sxzz/ast-explorer](https://github.com/sxzz/ast-explorer)<br>
-3. ⭐️ Starred [hrynko/vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed)<br>
-4. ⭐️ Starred [Atinux/instadraw](https://github.com/Atinux/instadraw)<br>
-5. 🍴 Forked [yuyinws/repl](https://github.com/yuyinws/repl) from [vuejs/repl](https://github.com/vuejs/repl)<br>
+1. 💪 Pushed 2 commit(s) to [tem-plate/nuxt](https://github.com/tem-plate/nuxt)<br>
+2. Merged PR [#1](https://github.com/tem-plate/nuxt/pull/1) in [tem-plate/nuxt](https://github.com/tem-plate/nuxt)<br>
+3. ⭐️ Starred [pomber/stargazer](https://github.com/pomber/stargazer)<br>
+4. 🍴 Forked [yuyinws/ast-explorer](https://github.com/yuyinws/ast-explorer) from [sxzz/ast-explorer](https://github.com/sxzz/ast-explorer)<br>
+5. ⭐️ Starred [hrynko/vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
