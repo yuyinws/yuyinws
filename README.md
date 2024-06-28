@@ -40,10 +40,10 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [dillionverma/portfolio](https://github.com/dillionverma/portfolio)<br>
-2. Closed issue [#38](https://github.com/unplugin/unplugin-turbo-console/issues/38) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-3. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-4. Closed issue [#37](https://github.com/unplugin/unplugin-turbo-console/issues/37) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. 💪 Pushed 2 commit(s) to [tem-plate/nuxt](https://github.com/tem-plate/nuxt)<br>
+2. Merged PR [#11](https://github.com/tem-plate/nuxt/pull/11) in [tem-plate/nuxt](https://github.com/tem-plate/nuxt)<br>
+3. ⭐️ Starred [dillionverma/portfolio](https://github.com/dillionverma/portfolio)<br>
+4. Closed issue [#38](https://github.com/unplugin/unplugin-turbo-console/issues/38) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 5. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
