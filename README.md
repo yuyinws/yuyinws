@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 2 commit(s) to [tem-plate/nuxt](https://github.com/tem-plate/nuxt)<br>
-2. Merged PR [#11](https://github.com/tem-plate/nuxt/pull/11) in [tem-plate/nuxt](https://github.com/tem-plate/nuxt)<br>
-3. ⭐️ Starred [dillionverma/portfolio](https://github.com/dillionverma/portfolio)<br>
-4. Closed issue [#38](https://github.com/unplugin/unplugin-turbo-console/issues/38) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-5. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. Closed PR [#10](https://github.com/tem-plate/nuxt/pull/10) in [tem-plate/nuxt](https://github.com/tem-plate/nuxt)<br>
+2. Closed PR [#9](https://github.com/tem-plate/nuxt/pull/9) in [tem-plate/nuxt](https://github.com/tem-plate/nuxt)<br>
+3. Closed PR [#8](https://github.com/tem-plate/nuxt/pull/8) in [tem-plate/nuxt](https://github.com/tem-plate/nuxt)<br>
+4. Closed PR [#7](https://github.com/tem-plate/nuxt/pull/7) in [tem-plate/nuxt](https://github.com/tem-plate/nuxt)<br>
+5. Closed PR [#6](https://github.com/tem-plate/nuxt/pull/6) in [tem-plate/nuxt](https://github.com/tem-plate/nuxt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
