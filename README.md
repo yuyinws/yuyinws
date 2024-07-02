@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [antfu/yak-shaving-map](https://github.com/antfu/yak-shaving-map)<br>
-2. ⭐️ Starred [starship/starship](https://github.com/starship/starship)<br>
-3. ⭐️ Starred [danielroe/unplugin-purge-polyfills](https://github.com/danielroe/unplugin-purge-polyfills)<br>
-4. Closed PR [#10](https://github.com/tem-plate/nuxt/pull/10) in [tem-plate/nuxt](https://github.com/tem-plate/nuxt)<br>
-5. Closed PR [#9](https://github.com/tem-plate/nuxt/pull/9) in [tem-plate/nuxt](https://github.com/tem-plate/nuxt)<br>
+1. 🍴 Forked [yuyinws/lobe-chat](https://github.com/yuyinws/lobe-chat) from [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)<br>
+2. ⭐️ Starred [antfu/yak-shaving-map](https://github.com/antfu/yak-shaving-map)<br>
+3. ⭐️ Starred [starship/starship](https://github.com/starship/starship)<br>
+4. ⭐️ Starred [danielroe/unplugin-purge-polyfills](https://github.com/danielroe/unplugin-purge-polyfills)<br>
+5. Closed PR [#10](https://github.com/tem-plate/nuxt/pull/10) in [tem-plate/nuxt](https://github.com/tem-plate/nuxt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
