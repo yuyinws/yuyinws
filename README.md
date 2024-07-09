@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [patak-dev/vite-plugin-terminal](https://github.com/patak-dev/vite-plugin-terminal)<br>
-2. 🍴 Forked [yuyinws/lobe-chat](https://github.com/yuyinws/lobe-chat) from [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)<br>
-3. ⭐️ Starred [antfu/yak-shaving-map](https://github.com/antfu/yak-shaving-map)<br>
-4. ⭐️ Starred [starship/starship](https://github.com/starship/starship)<br>
-5. ⭐️ Starred [danielroe/unplugin-purge-polyfills](https://github.com/danielroe/unplugin-purge-polyfills)<br>
+1. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+2. ⭐️ Starred [patak-dev/vite-plugin-terminal](https://github.com/patak-dev/vite-plugin-terminal)<br>
+3. 🍴 Forked [yuyinws/lobe-chat](https://github.com/yuyinws/lobe-chat) from [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)<br>
+4. ⭐️ Starred [antfu/yak-shaving-map](https://github.com/antfu/yak-shaving-map)<br>
+5. ⭐️ Starred [starship/starship](https://github.com/starship/starship)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
