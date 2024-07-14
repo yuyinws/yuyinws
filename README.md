@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/devtools-next](https://github.com/yuyinws/devtools-next)<br>
-2. 🍴 Forked [yuyinws/devtools-next](https://github.com/yuyinws/devtools-next) from [vuejs/devtools-next](https://github.com/vuejs/devtools-next)<br>
-3. 💪 Pushed 6 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-4. Closed issue [#36](https://github.com/unplugin/unplugin-turbo-console/issues/36) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-5. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. Opened PR [#523](https://github.com/vuejs/devtools-next/pull/523) in [vuejs/devtools-next](https://github.com/vuejs/devtools-next)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/devtools-next](https://github.com/yuyinws/devtools-next)<br>
+3. 🍴 Forked [yuyinws/devtools-next](https://github.com/yuyinws/devtools-next) from [vuejs/devtools-next](https://github.com/vuejs/devtools-next)<br>
+4. 💪 Pushed 6 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+5. Closed issue [#36](https://github.com/unplugin/unplugin-turbo-console/issues/36) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
