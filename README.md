@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 5 commit(s) to [yuyinws/unplugin-turbo-console](https://github.com/yuyinws/unplugin-turbo-console)<br>
-2. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-3. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-4. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-5. 👨🏻‍💻 Created new repository [yuyinws/vue3-cli-demo](https://github.com/yuyinws/vue3-cli-demo)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-turbo-console](https://github.com/yuyinws/unplugin-turbo-console)<br>
+2. Closed PR [#109](https://github.com/yuyinws/steam-card/pull/109) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+3. Opened PR [#109](https://github.com/yuyinws/steam-card/pull/109) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/devtools-next](https://github.com/yuyinws/devtools-next)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
