@@ -43,8 +43,8 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 1. 💪 Pushed 1 commit(s) to [yuyinws/colorful-console](https://github.com/yuyinws/colorful-console)<br>
 2. 💪 Pushed 1 commit(s) to [yuyinws/colorful-console](https://github.com/yuyinws/colorful-console)<br>
 3. 💪 Pushed 1 commit(s) to [yuyinws/colorful-console](https://github.com/yuyinws/colorful-console)<br>
-4. 💪 Pushed 2 commit(s) to [yuyinws/colorful-console](https://github.com/yuyinws/colorful-console)<br>
-5. 🍴 Forked [yuyinws/nuxtr-vscode](https://github.com/yuyinws/nuxtr-vscode) from [nuxtrdev/nuxtr-vscode](https://github.com/nuxtrdev/nuxtr-vscode)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/colorful-console](https://github.com/yuyinws/colorful-console)<br>
+5. 💪 Pushed 2 commit(s) to [yuyinws/colorful-console](https://github.com/yuyinws/colorful-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
