@@ -44,7 +44,7 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 2. 💪 Pushed 1 commit(s) to [yuyinws/colorful-console](https://github.com/yuyinws/colorful-console)<br>
 3. 💪 Pushed 1 commit(s) to [yuyinws/colorful-console](https://github.com/yuyinws/colorful-console)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/colorful-console](https://github.com/yuyinws/colorful-console)<br>
-5. 💪 Pushed 2 commit(s) to [yuyinws/colorful-console](https://github.com/yuyinws/colorful-console)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/colorful-console](https://github.com/yuyinws/colorful-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
