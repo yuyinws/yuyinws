@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)<br>
-2. ⭐️ Starred [magicuidesign/magicui](https://github.com/magicuidesign/magicui)<br>
-3. ⭐️ Starred [stackblitz/tutorialkit](https://github.com/stackblitz/tutorialkit)<br>
-4. 💪 Pushed 4 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-5. Merged PR [#44](https://github.com/unplugin/unplugin-turbo-console/pull/44) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. ⭐️ Starred [RSSNext/follow](https://github.com/RSSNext/follow)<br>
+2. ⭐️ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)<br>
+3. ⭐️ Starred [magicuidesign/magicui](https://github.com/magicuidesign/magicui)<br>
+4. ⭐️ Starred [stackblitz/tutorialkit](https://github.com/stackblitz/tutorialkit)<br>
+5. 💪 Pushed 4 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
