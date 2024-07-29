@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#45](https://github.com/unplugin/unplugin-turbo-console/pull/45) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-2. ⭐️ Starred [RSSNext/follow](https://github.com/RSSNext/follow)<br>
-3. ⭐️ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)<br>
-4. ⭐️ Starred [magicuidesign/magicui](https://github.com/magicuidesign/magicui)<br>
-5. ⭐️ Starred [stackblitz/tutorialkit](https://github.com/stackblitz/tutorialkit)<br>
+1. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+2. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+3. Opened PR [#45](https://github.com/unplugin/unplugin-turbo-console/pull/45) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+4. ⭐️ Starred [RSSNext/follow](https://github.com/RSSNext/follow)<br>
+5. ⭐️ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
