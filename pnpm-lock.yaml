@@ -1,30 +1,40 @@
-lockfileVersion: 5.4
+lockfileVersion: '9.0'
 
-specifiers:
-  case-police: ^0.5.14
-  gitmand: ^0.0.6
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
 
-devDependencies:
-  case-police: registry.npmmirror.com/case-police/0.5.14
-  gitmand: 0.0.6
+importers:
+
+  .:
+    devDependencies:
+      case-police:
+        specifier: ^0.5.14
+        version: 0.5.14
+      gitmand:
+        specifier: ^0.0.6
+        version: 0.0.6
 
 packages:
 
-  /gitmand/0.0.6:
+  case-police@0.5.14:
+    resolution: {integrity: sha512-+m4+xJJlqkA6nVYATw+Y2/STB58H5EI9eTUYdMB+okP34wuHe6xrZYVosiZanS5qrYQwVW2/9znT5VRFis5D8w==}
+    hasBin: true
+
+  gitmand@0.0.6:
     resolution: {integrity: sha512-F+1FcfC87qoxv22DdZcQjaar7mCseNy1sL1MQd8ZDvcwxLZz7GZ39W2PzMqQssUCND8a1oaX0OC4PdXqWLIqmw==}
     hasBin: true
-    dependencies:
-      shell-history: 2.0.0
-    dev: true
 
-  /shell-history/2.0.0:
+  shell-history@2.0.0:
     resolution: {integrity: sha512-gk7ORkNTLZHmxD6K6vcyijxmYwlI2vVr8clvgKFqazHQKMI9wBXrze4u4af0PQ1uY86XB6JT8WKcmiVGW93KUQ==}
     engines: {node: '>=12'}
-    dev: true
 
-  registry.npmmirror.com/case-police/0.5.14:
-    resolution: {integrity: sha512-+m4+xJJlqkA6nVYATw+Y2/STB58H5EI9eTUYdMB+okP34wuHe6xrZYVosiZanS5qrYQwVW2/9znT5VRFis5D8w==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/case-police/-/case-police-0.5.14.tgz}
-    name: case-police
-    version: 0.5.14
-    hasBin: true
-    dev: true
+snapshots:
+
+  case-police@0.5.14: {}
+
+  gitmand@0.0.6:
+    dependencies:
+      shell-history: 2.0.0
+
+  shell-history@2.0.0: {}
