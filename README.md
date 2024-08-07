@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Became collaborator on [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
+2. Became collaborator on [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
 3. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
-4. ⭐️ Starred [ritz078/transform](https://github.com/ritz078/transform)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
+5. ⭐️ Starred [ritz078/transform](https://github.com/ritz078/transform)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
