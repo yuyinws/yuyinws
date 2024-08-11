@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 2 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-2. ⭐️ Starred [AREA44/astro-multiverse](https://github.com/AREA44/astro-multiverse)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-4. 🍴 Forked [yuyinws/icones](https://github.com/yuyinws/icones) from [antfu-collective/icones](https://github.com/antfu-collective/icones)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
+1. ⭐️ Starred [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)<br>
+2. 💪 Pushed 2 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+3. ⭐️ Starred [AREA44/astro-multiverse](https://github.com/AREA44/astro-multiverse)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+5. 🍴 Forked [yuyinws/icones](https://github.com/yuyinws/icones) from [antfu-collective/icones](https://github.com/antfu-collective/icones)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
