@@ -40,11 +40,11 @@ My name is [**yuyin**](https://yuy1n.io), a Frontend developer from China. I enj
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Closed PR [#771](https://github.com/vue-macros/vue-macros/pull/771) in [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros)<br>
-2. Opened PR [#771](https://github.com/vue-macros/vue-macros/pull/771) in [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros)<br>
-3. 🍴 Forked [yuyinws/vue-macros](https://github.com/yuyinws/vue-macros) from [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros)<br>
-4. ⭐️ Starred [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+1. ⭐️ Starred [supabase-community/postgres-new](https://github.com/supabase-community/postgres-new)<br>
+2. Closed PR [#771](https://github.com/vue-macros/vue-macros/pull/771) in [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros)<br>
+3. Opened PR [#771](https://github.com/vue-macros/vue-macros/pull/771) in [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros)<br>
+4. 🍴 Forked [yuyinws/vue-macros](https://github.com/yuyinws/vue-macros) from [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros)<br>
+5. ⭐️ Starred [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
