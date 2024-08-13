@@ -1,7 +1,3 @@
-## Hello there! 👋
-
-I'm [**Leo**](https://yuy1n.io), a Software Developer.enjoy make some interesting things with coding.
-
 <p align="center">
   <samp>
     <a href="https://yuy1n.io">me</a> .
