@@ -4,11 +4,12 @@
     <a href="https://yuy1n.io/blog">blog</a> .
     <a href="https://yuy1n.io/projects">projects</a> .
     <a href="https://twitter.com/yuyinws">tweets</a> .
-    <a href="https://afdian.com/a/yuyinws">sponsor me</a>
   </samp>
 </p>
 
+### 💖 Sponsor 赞助
 
+[爱发电](https://afdian.com/a/yuyinws)
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
