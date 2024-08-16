@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 2 commit(s) to [yuyinws/unplugin-turbo-console](https://github.com/yuyinws/unplugin-turbo-console)<br>
-2. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-3. ⭐️ Starred [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid)<br>
-4. ⭐️ Starred [supabase-community/postgres-new](https://github.com/supabase-community/postgres-new)<br>
-5. Closed PR [#771](https://github.com/vue-macros/vue-macros/pull/771) in [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros)<br>
+1. 🍴 Forked [yuyinws/vscode-array-index-inlay](https://github.com/yuyinws/vscode-array-index-inlay) from [antfu/vscode-array-index-inlay](https://github.com/antfu/vscode-array-index-inlay)<br>
+2. 💪 Pushed 2 commit(s) to [yuyinws/unplugin-turbo-console](https://github.com/yuyinws/unplugin-turbo-console)<br>
+3. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+4. ⭐️ Starred [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid)<br>
+5. ⭐️ Starred [supabase-community/postgres-new](https://github.com/supabase-community/postgres-new)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
