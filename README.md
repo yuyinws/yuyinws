@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 10 commit(s) to [yuyinws/vscode-array-index-inlay](https://github.com/yuyinws/vscode-array-index-inlay)<br>
-2. Merged PR [#4](https://github.com/antfu/vscode-array-index-inlay/pull/4) in [antfu/vscode-array-index-inlay](https://github.com/antfu/vscode-array-index-inlay)<br>
-3. 💪 Pushed 1 commit(s) to [antfu/vscode-array-index-inlay](https://github.com/antfu/vscode-array-index-inlay)<br>
-4. 💪 Pushed 2 commit(s) to [yuyinws/rolldown](https://github.com/yuyinws/rolldown)<br>
-5. Opened PR [#4077](https://github.com/unocss/unocss/pull/4077) in [unocss/unocss](https://github.com/unocss/unocss)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
+2. Opened PR [#4147](https://github.com/vuejs/vitepress/pull/4147) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+3. 🍴 Forked [yuyinws/vitepress](https://github.com/yuyinws/vitepress) from [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+4. Opened PR [#8](https://github.com/antfu/vscode-array-index-inlay/pull/8) in [antfu/vscode-array-index-inlay](https://github.com/antfu/vscode-array-index-inlay)<br>
+5. Opened PR [#7](https://github.com/antfu/vscode-array-index-inlay/pull/7) in [antfu/vscode-array-index-inlay](https://github.com/antfu/vscode-array-index-inlay)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
