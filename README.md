@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
-2. Opened PR [#4147](https://github.com/vuejs/vitepress/pull/4147) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
-3. 🍴 Forked [yuyinws/vitepress](https://github.com/yuyinws/vitepress) from [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
-4. Opened PR [#8](https://github.com/antfu/vscode-array-index-inlay/pull/8) in [antfu/vscode-array-index-inlay](https://github.com/antfu/vscode-array-index-inlay)<br>
-5. Opened PR [#7](https://github.com/antfu/vscode-array-index-inlay/pull/7) in [antfu/vscode-array-index-inlay](https://github.com/antfu/vscode-array-index-inlay)<br>
+1. Closed PR [#4147](https://github.com/vuejs/vitepress/pull/4147) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
+3. Opened PR [#4147](https://github.com/vuejs/vitepress/pull/4147) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+4. 🍴 Forked [yuyinws/vitepress](https://github.com/yuyinws/vitepress) from [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+5. Opened PR [#8](https://github.com/antfu/vscode-array-index-inlay/pull/8) in [antfu/vscode-array-index-inlay](https://github.com/antfu/vscode-array-index-inlay)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
