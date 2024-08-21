@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests)<br>
-2. 🍴 Forked [yuyinws/my-pull-requests](https://github.com/yuyinws/my-pull-requests) from [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-turbo-console](https://github.com/yuyinws/unplugin-turbo-console)<br>
-5. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. ⭐️ Starred [antfu/vscode-pnpm-catalog-lens](https://github.com/antfu/vscode-pnpm-catalog-lens)<br>
+2. ⭐️ Starred [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests)<br>
+3. 🍴 Forked [yuyinws/my-pull-requests](https://github.com/yuyinws/my-pull-requests) from [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-turbo-console](https://github.com/yuyinws/unplugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
