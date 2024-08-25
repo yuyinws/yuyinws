@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 9 commit(s) to [yuyinws/unocss](https://github.com/yuyinws/unocss)<br>
-2. Merged PR [#2](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/2) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-4. ⭐️ Starred [antfu/vscode-pnpm-catalog-lens](https://github.com/antfu/vscode-pnpm-catalog-lens)<br>
-5. ⭐️ Starred [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/unocss](https://github.com/yuyinws/unocss)<br>
+2. 💪 Pushed 2 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+3. 💪 Pushed 2 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+4. Opened PR [#4099](https://github.com/unocss/unocss/pull/4099) in [unocss/unocss](https://github.com/unocss/unocss)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/unocss](https://github.com/yuyinws/unocss)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
