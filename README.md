@@ -3,7 +3,7 @@
     <a href="https://yuy1n.io">me</a> .
     <a href="https://yuy1n.io/blog">blog</a> .
     <a href="https://yuy1n.io/projects">projects</a> .
-    <a href="https://twitter.com/yuyinws">tweets</a> .
+    <a href="https://twitter.com/yuyinws">tweets</a>
   </samp>
 </p>
 
