@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/unplugin](https://github.com/yuyinws/unplugin) from [unjs/unplugin](https://github.com/unjs/unplugin)<br>
-2. 💪 Pushed 65 commit(s) to [yuyinws/rolldown](https://github.com/yuyinws/rolldown)<br>
-3. ⭐️ Starred [HoloArchivists/twspace-dl](https://github.com/HoloArchivists/twspace-dl)<br>
-4. Merged PR [#4](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/4) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+1. Opened PR [#407](https://github.com/unjs/unplugin/pull/407) in [unjs/unplugin](https://github.com/unjs/unplugin)<br>
+2. Closed PR [#406](https://github.com/unjs/unplugin/pull/406) in [unjs/unplugin](https://github.com/unjs/unplugin)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/unplugin](https://github.com/yuyinws/unplugin)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/unplugin](https://github.com/yuyinws/unplugin)<br>
+5. Opened PR [#406](https://github.com/unjs/unplugin/pull/406) in [unjs/unplugin](https://github.com/unjs/unplugin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
