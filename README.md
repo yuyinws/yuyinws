@@ -13,10 +13,10 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/pinia-plugin-persistedstate](https://github.com/yuyinws/pinia-plugin-persistedstate) from [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)<br>
-2. Closed issue [#103](https://github.com/yuyinws/steam-card/issues/103) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-turbo-console](https://github.com/yuyinws/unplugin-turbo-console)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+1. Opened PR [#329](https://github.com/prazdevs/pinia-plugin-persistedstate/pull/329) in [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)<br>
+2. 🍴 Forked [yuyinws/pinia-plugin-persistedstate](https://github.com/yuyinws/pinia-plugin-persistedstate) from [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)<br>
+3. Closed issue [#103](https://github.com/yuyinws/steam-card/issues/103) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-turbo-console](https://github.com/yuyinws/unplugin-turbo-console)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
