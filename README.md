@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/pinia-plugin-persistedstate](https://github.com/yuyinws/pinia-plugin-persistedstate)<br>
-2. Opened PR [#329](https://github.com/prazdevs/pinia-plugin-persistedstate/pull/329) in [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)<br>
-3. 🍴 Forked [yuyinws/pinia-plugin-persistedstate](https://github.com/yuyinws/pinia-plugin-persistedstate) from [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)<br>
-4. Closed issue [#103](https://github.com/yuyinws/steam-card/issues/103) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-turbo-console](https://github.com/yuyinws/unplugin-turbo-console)<br>
+1. ⭐️ Starred [volarjs/volar.js](https://github.com/volarjs/volar.js)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/pinia-plugin-persistedstate](https://github.com/yuyinws/pinia-plugin-persistedstate)<br>
+3. Opened PR [#329](https://github.com/prazdevs/pinia-plugin-persistedstate/pull/329) in [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)<br>
+4. 🍴 Forked [yuyinws/pinia-plugin-persistedstate](https://github.com/yuyinws/pinia-plugin-persistedstate) from [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)<br>
+5. Closed issue [#103](https://github.com/yuyinws/steam-card/issues/103) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
