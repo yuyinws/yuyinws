@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/vite](https://github.com/yuyinws/vite)<br>
-2. Opened PR [#816](https://github.com/vue-macros/vue-macros/pull/816) in [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros)<br>
-3. 💪 Pushed 76 commit(s) to [yuyinws/vue-macros](https://github.com/yuyinws/vue-macros)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-5. 💪 Pushed 2 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+1. 💪 Pushed 2 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/vite](https://github.com/yuyinws/vite)<br>
+3. Opened PR [#816](https://github.com/vue-macros/vue-macros/pull/816) in [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros)<br>
+4. 💪 Pushed 76 commit(s) to [yuyinws/vue-macros](https://github.com/yuyinws/vue-macros)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
