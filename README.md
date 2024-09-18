@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#18132](https://github.com/vitejs/vite/pull/18132) in [vitejs/vite](https://github.com/vitejs/vite)<br>
-2. 💪 Pushed 9 commit(s) to [yuyinws/vite](https://github.com/yuyinws/vite)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/vite](https://github.com/yuyinws/vite)<br>
-4. 💪 Pushed 7 commit(s) to [yuyinws/vite](https://github.com/yuyinws/vite)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+1. ⭐️ Starred [uni-helper/vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app)<br>
+2. Opened PR [#18132](https://github.com/vitejs/vite/pull/18132) in [vitejs/vite](https://github.com/vitejs/vite)<br>
+3. 💪 Pushed 9 commit(s) to [yuyinws/vite](https://github.com/yuyinws/vite)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/vite](https://github.com/yuyinws/vite)<br>
+5. 💪 Pushed 7 commit(s) to [yuyinws/vite](https://github.com/yuyinws/vite)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
