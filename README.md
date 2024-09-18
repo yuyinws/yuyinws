@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/unocss](https://github.com/yuyinws/unocss)<br>
-2. Opened PR [#4139](https://github.com/unocss/unocss/pull/4139) in [unocss/unocss](https://github.com/unocss/unocss)<br>
-3. 💪 Pushed 5 commit(s) to [yuyinws/unocss](https://github.com/yuyinws/unocss)<br>
-4. 💪 Pushed 5 commit(s) to [yuyinws/pinia-plugin-persistedstate](https://github.com/yuyinws/pinia-plugin-persistedstate)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+3. Merged PR [#8](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/8) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+4. 💪 Pushed 1 commit(s) to [prazdevs/vitepress-plugin-group-icons](https://github.com/prazdevs/vitepress-plugin-group-icons)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/unocss](https://github.com/yuyinws/unocss)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
