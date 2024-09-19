@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. ⭐️ Starred [atinux/npm-chart](https://github.com/atinux/npm-chart)<br>
 2. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-3. Merged PR [#47](https://github.com/unplugin/unplugin-turbo-console/pull/47) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-4. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-5. 💪 Pushed 1 commit(s) to [jspn-creative/unplugin-turbo-console](https://github.com/jspn-creative/unplugin-turbo-console)<br>
+3. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+4. Merged PR [#47](https://github.com/unplugin/unplugin-turbo-console/pull/47) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+5. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
