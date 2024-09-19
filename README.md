@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [yuyinws/nuxt-module-intellisense](https://github.com/yuyinws/nuxt-module-intellisense)<br>
-2. ⭐️ Starred [uni-helper/vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app)<br>
-3. Opened PR [#18132](https://github.com/vitejs/vite/pull/18132) in [vitejs/vite](https://github.com/vitejs/vite)<br>
-4. 💪 Pushed 9 commit(s) to [yuyinws/vite](https://github.com/yuyinws/vite)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/vite](https://github.com/yuyinws/vite)<br>
+1. 💪 Pushed 1 commit(s) to [jspn-creative/unplugin-turbo-console](https://github.com/jspn-creative/unplugin-turbo-console)<br>
+2. ⭐️ Starred [yuyinws/nuxt-module-intellisense](https://github.com/yuyinws/nuxt-module-intellisense)<br>
+3. ⭐️ Starred [uni-helper/vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app)<br>
+4. Opened PR [#18132](https://github.com/vitejs/vite/pull/18132) in [vitejs/vite](https://github.com/vitejs/vite)<br>
+5. 💪 Pushed 9 commit(s) to [yuyinws/vite](https://github.com/yuyinws/vite)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
