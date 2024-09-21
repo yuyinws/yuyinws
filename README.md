@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/vant](https://github.com/yuyinws/vant) from [youzan/vant](https://github.com/youzan/vant)<br>
-2. ⭐️ Starred [atinux/npm-chart](https://github.com/atinux/npm-chart)<br>
-3. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. Opened PR [#13127](https://github.com/youzan/vant/pull/13127) in [youzan/vant](https://github.com/youzan/vant)<br>
+2. 🍴 Forked [yuyinws/vant](https://github.com/yuyinws/vant) from [youzan/vant](https://github.com/youzan/vant)<br>
+3. ⭐️ Starred [atinux/npm-chart](https://github.com/atinux/npm-chart)<br>
 4. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-5. Merged PR [#47](https://github.com/unplugin/unplugin-turbo-console/pull/47) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+5. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
