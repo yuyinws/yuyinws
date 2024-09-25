@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-2. 💪 Pushed 4 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/vant](https://github.com/yuyinws/vant)<br>
-4. ⭐️ Starred [visjs/vis-network](https://github.com/visjs/vis-network)<br>
-5. 💪 Pushed 7 commit(s) to [yuyinws/vant](https://github.com/yuyinws/vant)<br>
+1. ⭐️ Starred [cjinhuo/text-search-engine](https://github.com/cjinhuo/text-search-engine)<br>
+2. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+3. 💪 Pushed 4 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/vant](https://github.com/yuyinws/vant)<br>
+5. ⭐️ Starred [visjs/vis-network](https://github.com/visjs/vis-network)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
