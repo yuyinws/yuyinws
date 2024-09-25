@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [visjs/vis-network](https://github.com/visjs/vis-network)<br>
-2. 💪 Pushed 7 commit(s) to [yuyinws/vant](https://github.com/yuyinws/vant)<br>
-3. 💪 Pushed 6 commit(s) to [yuyinws/vant](https://github.com/yuyinws/vant)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/vant](https://github.com/yuyinws/vant)<br>
-5. Opened PR [#13127](https://github.com/youzan/vant/pull/13127) in [youzan/vant](https://github.com/youzan/vant)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/vant](https://github.com/yuyinws/vant)<br>
+2. ⭐️ Starred [visjs/vis-network](https://github.com/visjs/vis-network)<br>
+3. 💪 Pushed 7 commit(s) to [yuyinws/vant](https://github.com/yuyinws/vant)<br>
+4. 💪 Pushed 6 commit(s) to [yuyinws/vant](https://github.com/yuyinws/vant)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/vant](https://github.com/yuyinws/vant)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
