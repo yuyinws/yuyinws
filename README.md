@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#2353](https://github.com/rolldown/rolldown/pull/2353) in [rolldown/rolldown](https://github.com/rolldown/rolldown)<br>
-2. 💪 Pushed 176 commit(s) to [yuyinws/rolldown](https://github.com/yuyinws/rolldown)<br>
-3. ⭐️ Starred [cjinhuo/text-search-engine](https://github.com/cjinhuo/text-search-engine)<br>
-4. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-5. 💪 Pushed 4 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. ⭐️ Starred [szimek/signature_pad](https://github.com/szimek/signature_pad)<br>
+2. Opened PR [#2353](https://github.com/rolldown/rolldown/pull/2353) in [rolldown/rolldown](https://github.com/rolldown/rolldown)<br>
+3. 💪 Pushed 176 commit(s) to [yuyinws/rolldown](https://github.com/yuyinws/rolldown)<br>
+4. ⭐️ Starred [cjinhuo/text-search-engine](https://github.com/cjinhuo/text-search-engine)<br>
+5. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
