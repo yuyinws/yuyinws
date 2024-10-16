@@ -13,10 +13,10 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/oxc-project.github.io](https://github.com/yuyinws/oxc-project.github.io)<br>
-2. Opened PR [#226](https://github.com/oxc-project/oxc-project.github.io/pull/226) in [oxc-project/oxc-project.github.io](https://github.com/oxc-project/oxc-project.github.io)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/oxc-project.github.io](https://github.com/yuyinws/oxc-project.github.io)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+1. 🍴 Forked [yuyinws/Follow](undefined) from [RSSNext/Follow](https://github.com/RSSNext/Follow)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/oxc-project.github.io](https://github.com/yuyinws/oxc-project.github.io)<br>
+3. Opened PR [#226](https://github.com/oxc-project/oxc-project.github.io/pull/226) in [oxc-project/oxc-project.github.io](https://github.com/oxc-project/oxc-project.github.io)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/oxc-project.github.io](https://github.com/yuyinws/oxc-project.github.io)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
