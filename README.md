@@ -13,10 +13,10 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/dify](undefined) from [langgenius/dify](https://github.com/langgenius/dify)<br>
-2. 🍴 Forked [yuyinws/Follow](undefined) from [RSSNext/Follow](https://github.com/RSSNext/Follow)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/oxc-project.github.io](https://github.com/yuyinws/oxc-project.github.io)<br>
-4. Opened PR [#226](https://github.com/oxc-project/oxc-project.github.io/pull/226) in [oxc-project/oxc-project.github.io](https://github.com/oxc-project/oxc-project.github.io)<br>
+1. Opened PR [#9401](https://github.com/langgenius/dify/pull/9401) in [langgenius/dify](https://github.com/langgenius/dify)<br>
+2. Opened issue [#9400](https://github.com/langgenius/dify/issues/9400) in [langgenius/dify](https://github.com/langgenius/dify)<br>
+3. 🍴 Forked [yuyinws/dify](undefined) from [langgenius/dify](https://github.com/langgenius/dify)<br>
+4. 🍴 Forked [yuyinws/Follow](undefined) from [RSSNext/Follow](https://github.com/RSSNext/Follow)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/oxc-project.github.io](https://github.com/yuyinws/oxc-project.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
