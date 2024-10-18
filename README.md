@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [wey-gu/nebulagraph-ai](https://github.com/wey-gu/nebulagraph-ai)<br>
-2. Opened PR [#9401](https://github.com/langgenius/dify/pull/9401) in [langgenius/dify](https://github.com/langgenius/dify)<br>
-3. Opened issue [#9400](https://github.com/langgenius/dify/issues/9400) in [langgenius/dify](https://github.com/langgenius/dify)<br>
-4. 🍴 Forked [yuyinws/dify](undefined) from [langgenius/dify](https://github.com/langgenius/dify)<br>
-5. 🍴 Forked [yuyinws/Follow](undefined) from [RSSNext/Follow](https://github.com/RSSNext/Follow)<br>
+1. Opened PR [#523](https://github.com/posva/unplugin-vue-router/pull/523) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
+3. 🍴 Forked [yuyinws/unplugin-vue-router](undefined) from [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)<br>
+4. ⭐️ Starred [wey-gu/nebulagraph-ai](https://github.com/wey-gu/nebulagraph-ai)<br>
+5. Opened PR [#9401](https://github.com/langgenius/dify/pull/9401) in [langgenius/dify](https://github.com/langgenius/dify)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
