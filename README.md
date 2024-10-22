@@ -14,10 +14,10 @@
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
-2. 💪 Pushed 3 commit(s) to [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
-3. 💪 Pushed 2 commit(s) to [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
-4. ⭐️ Starred [hyoban/follow-app](https://github.com/hyoban/follow-app)<br>
-5. ⭐️ Starred [d3/d3](https://github.com/d3/d3)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
+3. 💪 Pushed 3 commit(s) to [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
+4. 💪 Pushed 2 commit(s) to [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
+5. ⭐️ Starred [hyoban/follow-app](https://github.com/hyoban/follow-app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
