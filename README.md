@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
+1. ⭐️ Starred [Idered/chalk.ist](https://github.com/Idered/chalk.ist)<br>
 2. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
-3. 💪 Pushed 3 commit(s) to [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
-4. 💪 Pushed 2 commit(s) to [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
-5. ⭐️ Starred [hyoban/follow-app](https://github.com/hyoban/follow-app)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
+4. 💪 Pushed 3 commit(s) to [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
+5. 💪 Pushed 2 commit(s) to [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
