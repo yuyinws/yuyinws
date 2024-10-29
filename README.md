@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Closed issue [#1](https://github.com/yuyinws/pkg-graph.info/issues/1) in [yuyinws/pkg-graph.info](https://github.com/yuyinws/pkg-graph.info)<br>
-2. ⭐️ Starred [Idered/chalk.ist](https://github.com/Idered/chalk.ist)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
-5. 💪 Pushed 3 commit(s) to [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
+1. 💪 Pushed 6 commit(s) to [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
+2. 💪 Pushed 5 commit(s) to [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
+3. Closed issue [#1](https://github.com/yuyinws/pkg-graph.info/issues/1) in [yuyinws/pkg-graph.info](https://github.com/yuyinws/pkg-graph.info)<br>
+4. ⭐️ Starred [Idered/chalk.ist](https://github.com/Idered/chalk.ist)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/yuy1n.io](https://github.com/yuyinws/yuy1n.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
