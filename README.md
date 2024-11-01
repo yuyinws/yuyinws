@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/oxc-playground](undefined) from [oxc-project/playground](https://github.com/oxc-project/playground)<br>
-2. Opened issue [#48](https://github.com/unplugin/unplugin-turbo-console/issues/48) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-3. 💪 Pushed 6 commit(s) to [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
-4. 💪 Pushed 5 commit(s) to [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
-5. Closed issue [#1](https://github.com/yuyinws/pkg-graph.info/issues/1) in [yuyinws/pkg-graph.info](https://github.com/yuyinws/pkg-graph.info)<br>
+1. ⭐️ Starred [oxc-project/playground](https://github.com/oxc-project/playground)<br>
+2. Opened PR [#45](https://github.com/oxc-project/playground/pull/45) in [oxc-project/playground](https://github.com/oxc-project/playground)<br>
+3. 🍴 Forked [yuyinws/oxc-playground](undefined) from [oxc-project/playground](https://github.com/oxc-project/playground)<br>
+4. Opened issue [#48](https://github.com/unplugin/unplugin-turbo-console/issues/48) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+5. 💪 Pushed 6 commit(s) to [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
