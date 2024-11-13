@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
-2. ⭐️ Starred [oxc-project/playground](https://github.com/oxc-project/playground)<br>
-3. Opened PR [#45](https://github.com/oxc-project/playground/pull/45) in [oxc-project/playground](https://github.com/oxc-project/playground)<br>
-4. 🍴 Forked [yuyinws/oxc-playground](undefined) from [oxc-project/playground](https://github.com/oxc-project/playground)<br>
-5. Opened issue [#48](https://github.com/unplugin/unplugin-turbo-console/issues/48) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. ⭐️ Starred [Wxh16144/glitch-art](https://github.com/Wxh16144/glitch-art)<br>
+2. ⭐️ Starred [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
+3. ⭐️ Starred [oxc-project/playground](https://github.com/oxc-project/playground)<br>
+4. Opened PR [#45](https://github.com/oxc-project/playground/pull/45) in [oxc-project/playground](https://github.com/oxc-project/playground)<br>
+5. 🍴 Forked [yuyinws/oxc-playground](undefined) from [oxc-project/playground](https://github.com/oxc-project/playground)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
