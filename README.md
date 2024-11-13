@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [Wxh16144/glitch-art](https://github.com/Wxh16144/glitch-art)<br>
-2. ⭐️ Starred [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
-3. ⭐️ Starred [oxc-project/playground](https://github.com/oxc-project/playground)<br>
-4. Opened PR [#45](https://github.com/oxc-project/playground/pull/45) in [oxc-project/playground](https://github.com/oxc-project/playground)<br>
-5. 🍴 Forked [yuyinws/oxc-playground](undefined) from [oxc-project/playground](https://github.com/oxc-project/playground)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/oxc-playground](https://github.com/yuyinws/oxc-playground)<br>
+2. ⭐️ Starred [Wxh16144/glitch-art](https://github.com/Wxh16144/glitch-art)<br>
+3. ⭐️ Starred [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
+4. ⭐️ Starred [oxc-project/playground](https://github.com/oxc-project/playground)<br>
+5. Opened PR [#45](https://github.com/oxc-project/playground/pull/45) in [oxc-project/playground](https://github.com/oxc-project/playground)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
