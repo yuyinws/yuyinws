@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [letstri/vaxee](https://github.com/letstri/vaxee)<br>
-2. ⭐️ Starred [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/oxc-playground](https://github.com/yuyinws/oxc-playground)<br>
-4. ⭐️ Starred [Wxh16144/glitch-art](https://github.com/Wxh16144/glitch-art)<br>
-5. ⭐️ Starred [yuyinws/unplugin-vue-router](https://github.com/yuyinws/unplugin-vue-router)<br>
+1. ⭐️ Starred [amir20/dozzle](https://github.com/amir20/dozzle)<br>
+2. ⭐️ Starred [letstri/vaxee](https://github.com/letstri/vaxee)<br>
+3. ⭐️ Starred [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/oxc-playground](https://github.com/yuyinws/oxc-playground)<br>
+5. ⭐️ Starred [Wxh16144/glitch-art](https://github.com/Wxh16144/glitch-art)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
