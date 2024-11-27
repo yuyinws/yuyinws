@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [unovue/vaul-vue](https://github.com/unovue/vaul-vue)<br>
-2. ⭐️ Starred [amir20/dozzle](https://github.com/amir20/dozzle)<br>
-3. ⭐️ Starred [letstri/vaxee](https://github.com/letstri/vaxee)<br>
-4. ⭐️ Starred [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/oxc-playground](https://github.com/yuyinws/oxc-playground)<br>
+1. ⭐️ Starred [nonzzz/vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer)<br>
+2. ⭐️ Starred [unovue/vaul-vue](https://github.com/unovue/vaul-vue)<br>
+3. ⭐️ Starred [amir20/dozzle](https://github.com/amir20/dozzle)<br>
+4. ⭐️ Starred [letstri/vaxee](https://github.com/letstri/vaxee)<br>
+5. ⭐️ Starred [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
