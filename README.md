@@ -13,9 +13,9 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/refined-github-file-nesting](https://github.com/yuyinws/refined-github-file-nesting)<br>
+1. ⭐️ Starred [yuyinws/refined-github-file-nesting](https://github.com/yuyinws/refined-github-file-nesting)<br>
 2. 💪 Pushed 1 commit(s) to [yuyinws/refined-github-file-nesting](https://github.com/yuyinws/refined-github-file-nesting)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/refined-github-file-nesting](https://github.com/yuyinws/refined-github-file-nesting)<br>
+3. 💪 Pushed 2 commit(s) to [yuyinws/refined-github-file-nesting](https://github.com/yuyinws/refined-github-file-nesting)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/refined-github-file-nesting](https://github.com/yuyinws/refined-github-file-nesting)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/refined-github-file-nesting](https://github.com/yuyinws/refined-github-file-nesting)<br>
 <!--RECENT_ACTIVITY:end-->
