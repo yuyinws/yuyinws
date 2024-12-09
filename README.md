@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Closed issue [#1](https://github.com/yuyinws/refined-github-file-nesting/issues/1) in [yuyinws/refined-github-file-nesting](https://github.com/yuyinws/refined-github-file-nesting)<br>
-2. 💪 Pushed 2 commit(s) to [yuyinws/refined-github-file-nesting](https://github.com/yuyinws/refined-github-file-nesting)<br>
-3. ⭐️ Starred [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)<br>
-4. ⭐️ Starred [yuyinws/refined-github-file-nesting](https://github.com/yuyinws/refined-github-file-nesting)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/refined-github-file-nesting](https://github.com/yuyinws/refined-github-file-nesting)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/init-commit](https://github.com/yuyinws/init-commit)<br>
+2. Closed issue [#1](https://github.com/yuyinws/refined-github-file-nesting/issues/1) in [yuyinws/refined-github-file-nesting](https://github.com/yuyinws/refined-github-file-nesting)<br>
+3. 💪 Pushed 2 commit(s) to [yuyinws/refined-github-file-nesting](https://github.com/yuyinws/refined-github-file-nesting)<br>
+4. ⭐️ Starred [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config)<br>
+5. ⭐️ Starred [yuyinws/refined-github-file-nesting](https://github.com/yuyinws/refined-github-file-nesting)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
