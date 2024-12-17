@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [Tresjs/tres](https://github.com/Tresjs/tres)<br>
-2. Opened PR [#882](https://github.com/Tresjs/tres/pull/882) in [Tresjs/tres](https://github.com/Tresjs/tres)<br>
-3. 🍴 Forked [yuyinws/tres](https://github.com/yuyinws/tres) from [Tresjs/tres](https://github.com/Tresjs/tres)<br>
-4. ⭐️ Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)<br>
-5. 💪 Pushed 12 commit(s) to [yuyinws/unplugin-turbo-console](https://github.com/yuyinws/unplugin-turbo-console)<br>
+1. 💪 Pushed 86 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+3. ⭐️ Starred [Tresjs/tres](https://github.com/Tresjs/tres)<br>
+4. Opened PR [#882](https://github.com/Tresjs/tres/pull/882) in [Tresjs/tres](https://github.com/Tresjs/tres)<br>
+5. 🍴 Forked [yuyinws/tres](https://github.com/yuyinws/tres) from [Tresjs/tres](https://github.com/Tresjs/tres)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
