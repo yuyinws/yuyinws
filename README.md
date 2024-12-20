@@ -13,10 +13,10 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
+2. Opened PR [#4437](https://github.com/vuejs/vitepress/pull/4437) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
 3. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-4. 💪 Pushed 86 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
