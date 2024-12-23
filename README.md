@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [subframe7536/maple-font](https://github.com/subframe7536/maple-font)<br>
-2. ⭐️ Starred [ljbclannad/OrderDDD](https://github.com/ljbclannad/OrderDDD)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
-4. Opened PR [#4437](https://github.com/vuejs/vitepress/pull/4437) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+1. Closed issue [#53](https://github.com/unplugin/unplugin-turbo-console/issues/53) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+2. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+3. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+4. ⭐️ Starred [subframe7536/maple-font](https://github.com/subframe7536/maple-font)<br>
+5. ⭐️ Starred [ljbclannad/OrderDDD](https://github.com/ljbclannad/OrderDDD)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
