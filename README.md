@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)<br>
-2. Opened PR [#4472](https://github.com/vuejs/vitepress/pull/4472) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
-3. 💪 Pushed 11 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
-4. Closed issue [#10](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/10) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
+3. ⭐️ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)<br>
+4. Opened PR [#4472](https://github.com/vuejs/vitepress/pull/4472) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+5. 💪 Pushed 11 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
