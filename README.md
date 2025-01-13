@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#4477](https://github.com/vuejs/vitepress/pull/4477) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
+1. Closed PR [#4477](https://github.com/vuejs/vitepress/pull/4477) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+2. Opened PR [#4477](https://github.com/vuejs/vitepress/pull/4477) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
 3. 💪 Pushed 1 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
-4. ⭐️ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)<br>
-5. Opened PR [#4472](https://github.com/vuejs/vitepress/pull/4472) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
+5. ⭐️ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
