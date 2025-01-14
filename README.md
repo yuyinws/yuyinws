@@ -13,10 +13,10 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#4492](https://github.com/vuejs/vitepress/pull/4492) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
-2. 💪 Pushed 5 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
-3. Closed PR [#4477](https://github.com/vuejs/vitepress/pull/4477) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
-4. Opened PR [#4477](https://github.com/vuejs/vitepress/pull/4477) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+3. Merged PR [#11](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/11) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+4. Closed PR [#523](https://github.com/posva/unplugin-vue-router/pull/523) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
 <!--RECENT_ACTIVITY:end-->
 
