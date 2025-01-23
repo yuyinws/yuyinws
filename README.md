@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#904](https://github.com/shikijs/shiki/pull/904) in [shikijs/shiki](https://github.com/shikijs/shiki)<br>
-2. 🍴 Forked [yuyinws/shiki](https://github.com/yuyinws/shiki) from [shikijs/shiki](https://github.com/shikijs/shiki)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-4. 💪 Pushed 14 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
-5. ⭐️ Starred [SincereCSL/Playgrounds](https://github.com/SincereCSL/Playgrounds)<br>
+1. 💪 Pushed 4 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
+2. Opened PR [#904](https://github.com/shikijs/shiki/pull/904) in [shikijs/shiki](https://github.com/shikijs/shiki)<br>
+3. 🍴 Forked [yuyinws/shiki](https://github.com/yuyinws/shiki) from [shikijs/shiki](https://github.com/shikijs/shiki)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+5. 💪 Pushed 14 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
