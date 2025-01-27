@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [voideditor/void](https://github.com/voideditor/void)<br>
-2. 💪 Pushed 4 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
-3. Opened PR [#904](https://github.com/shikijs/shiki/pull/904) in [shikijs/shiki](https://github.com/shikijs/shiki)<br>
-4. 🍴 Forked [yuyinws/shiki](https://github.com/yuyinws/shiki) from [shikijs/shiki](https://github.com/shikijs/shiki)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+1. Closed issue [#56](https://github.com/unplugin/unplugin-turbo-console/issues/56) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+2. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+3. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+4. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+5. ⭐️ Starred [voideditor/void](https://github.com/voideditor/void)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
