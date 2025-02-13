@@ -13,9 +13,9 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Closed issue [#111](https://github.com/yuyinws/steam-card/issues/111) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-2. Closed issue [#56](https://github.com/unplugin/unplugin-turbo-console/issues/56) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-3. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. ⭐️ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)<br>
+2. Closed issue [#111](https://github.com/yuyinws/steam-card/issues/111) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+3. Closed issue [#56](https://github.com/unplugin/unplugin-turbo-console/issues/56) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 4. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 5. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
