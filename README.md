@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 2 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-2. 💪 Pushed 124 commit(s) to [yuyinws/lobe-chat](https://github.com/yuyinws/lobe-chat)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-4. Merged PR [#13](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/13) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-5. Requested changes in [#4393](https://github.com/vuejs/vitepress/pull/4393#pullrequestreview-2557893918) in [vuejs/vitepress](https://github.com/vuejs/vitepress)<br>
+1. Opened issue [#57](https://github.com/unplugin/unplugin-turbo-console/issues/57) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+2. 💪 Pushed 2 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+3. 💪 Pushed 124 commit(s) to [yuyinws/lobe-chat](https://github.com/yuyinws/lobe-chat)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+5. Merged PR [#13](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/13) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
