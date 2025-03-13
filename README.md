@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [arktypeio/arktype](https://github.com/arktypeio/arktype)<br>
-2. ⭐️ Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)<br>
-3. 🍴 Forked [yuyinws/rolldown](https://github.com/yuyinws/rolldown) from [rolldown/rolldown](https://github.com/rolldown/rolldown)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-5. 💪 Pushed 3 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+1. 💪 Pushed 31 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
+2. ⭐️ Starred [arktypeio/arktype](https://github.com/arktypeio/arktype)<br>
+3. ⭐️ Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)<br>
+4. 🍴 Forked [yuyinws/rolldown](https://github.com/yuyinws/rolldown) from [rolldown/rolldown](https://github.com/rolldown/rolldown)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
