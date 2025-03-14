@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)<br>
-2. ⭐️ Starred [sxzz/typescript-go-playground](https://github.com/sxzz/typescript-go-playground)<br>
-3. 💪 Pushed 31 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
-4. ⭐️ Starred [arktypeio/arktype](https://github.com/arktypeio/arktype)<br>
-5. ⭐️ Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)<br>
+1. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+2. ⭐️ Starred [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)<br>
+3. ⭐️ Starred [sxzz/typescript-go-playground](https://github.com/sxzz/typescript-go-playground)<br>
+4. 💪 Pushed 31 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
+5. ⭐️ Starred [arktypeio/arktype](https://github.com/arktypeio/arktype)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
