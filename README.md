@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-2. ⭐️ Starred [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)<br>
-3. ⭐️ Starred [sxzz/typescript-go-playground](https://github.com/sxzz/typescript-go-playground)<br>
-4. 💪 Pushed 31 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
-5. ⭐️ Starred [arktypeio/arktype](https://github.com/arktypeio/arktype)<br>
+1. Opened issue [#15](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/15) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+2. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+3. ⭐️ Starred [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)<br>
+4. ⭐️ Starred [sxzz/typescript-go-playground](https://github.com/sxzz/typescript-go-playground)<br>
+5. 💪 Pushed 31 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
