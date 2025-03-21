@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/wxt](https://github.com/yuyinws/wxt)<br>
-2. 🍴 Forked [yuyinws/wxt](https://github.com/yuyinws/wxt) from [wxt-dev/wxt](https://github.com/wxt-dev/wxt)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+1. Opened PR [#1526](https://github.com/wxt-dev/wxt/pull/1526) in [wxt-dev/wxt](https://github.com/wxt-dev/wxt)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/wxt](https://github.com/yuyinws/wxt)<br>
+3. 🍴 Forked [yuyinws/wxt](https://github.com/yuyinws/wxt) from [wxt-dev/wxt](https://github.com/wxt-dev/wxt)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-5. Merged PR [#16](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/16) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
