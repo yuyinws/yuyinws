@@ -14,10 +14,10 @@
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-2. Opened PR [#1526](https://github.com/wxt-dev/wxt/pull/1526) in [wxt-dev/wxt](https://github.com/wxt-dev/wxt)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/wxt](https://github.com/yuyinws/wxt)<br>
-4. 🍴 Forked [yuyinws/wxt](https://github.com/yuyinws/wxt) from [wxt-dev/wxt](https://github.com/wxt-dev/wxt)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+2. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+3. Opened PR [#1526](https://github.com/wxt-dev/wxt/pull/1526) in [wxt-dev/wxt](https://github.com/wxt-dev/wxt)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/wxt](https://github.com/yuyinws/wxt)<br>
+5. 🍴 Forked [yuyinws/wxt](https://github.com/yuyinws/wxt) from [wxt-dev/wxt](https://github.com/wxt-dev/wxt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
