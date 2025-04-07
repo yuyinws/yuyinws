@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👨🏻‍💻 Created new repository [yuyinws/unplugin-turbo-console-vite-react-demo](https://github.com/yuyinws/unplugin-turbo-console-vite-react-demo)<br>
-2. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. ⭐️ Starred [productdevbook/tiptap-shadcn-vue](https://github.com/productdevbook/tiptap-shadcn-vue)<br>
+2. 👨🏻‍💻 Created new repository [yuyinws/unplugin-turbo-console-vite-react-demo](https://github.com/yuyinws/unplugin-turbo-console-vite-react-demo)<br>
 3. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-4. Opened PR [#1526](https://github.com/wxt-dev/wxt/pull/1526) in [wxt-dev/wxt](https://github.com/wxt-dev/wxt)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/wxt](https://github.com/yuyinws/wxt)<br>
+4. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+5. Opened PR [#1526](https://github.com/wxt-dev/wxt/pull/1526) in [wxt-dev/wxt](https://github.com/wxt-dev/wxt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
