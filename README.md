@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Closed issue [#18](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/18) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-2. 💪 Pushed 2 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-4. Merged PR [#19](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/19) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/ExperimentPlatform](https://github.com/yuyinws/ExperimentPlatform)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/ExperimentPlatform](https://github.com/yuyinws/ExperimentPlatform)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/ExperimentPlatform](https://github.com/yuyinws/ExperimentPlatform)<br>
+4. 🍴 Forked [yuyinws/ExperimentPlatform](https://github.com/yuyinws/ExperimentPlatform) from [qianjiahui-true/ExperimentPlatform](https://github.com/qianjiahui-true/ExperimentPlatform)<br>
+5. ⭐️ Starred [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
