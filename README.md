@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-2. Closed issue [#61](https://github.com/unplugin/unplugin-turbo-console/issues/61) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-3. Closed issue [#33](https://github.com/unplugin/unplugin-turbo-console/issues/33) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-4. 💪 Pushed 9 commit(s) to [yuyinws/unplugin-turbo-console](https://github.com/yuyinws/unplugin-turbo-console)<br>
-5. Closed issue [#57](https://github.com/unplugin/unplugin-turbo-console/issues/57) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. Opened PR [#62](https://github.com/unplugin/unplugin-turbo-console/pull/62) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+2. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+3. Opened PR [#139](https://github.com/rolldown/tsdown/pull/139) in [rolldown/tsdown](https://github.com/rolldown/tsdown)<br>
+4. 🍴 Forked [yuyinws/tsdown](https://github.com/yuyinws/tsdown) from [rolldown/tsdown](https://github.com/rolldown/tsdown)<br>
+5. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
