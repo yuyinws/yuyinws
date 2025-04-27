@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/vite-plugin-vue](https://github.com/yuyinws/vite-plugin-vue) from [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-3. Closed issue [#15](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/15) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-5. 💪 Pushed 6 commit(s) to [yuyinws/unplugin-turbo-console](https://github.com/yuyinws/unplugin-turbo-console)<br>
+1. 🍴 Forked [yuyinws/vite](https://github.com/yuyinws/vite) from [vitejs/vite](https://github.com/vitejs/vite)<br>
+2. 🍴 Forked [yuyinws/vite-plugin-vue](https://github.com/yuyinws/vite-plugin-vue) from [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+4. Closed issue [#15](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/15) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
