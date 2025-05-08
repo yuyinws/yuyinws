@@ -14,9 +14,9 @@
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Pushed 1 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
-3. 💪 Pushed 2 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
-4. 💪 Pushed 2 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
+2. 💪 Pushed 2 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
 5. 💪 Pushed 2 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
 <!--RECENT_ACTIVITY:end-->
 
