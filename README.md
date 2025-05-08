@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [webtui/webtui](https://github.com/webtui/webtui)<br>
-2. ⭐️ Starred [fengzilong/eslint-formatter-mo](https://github.com/fengzilong/eslint-formatter-mo)<br>
-3. 💪 Pushed 37 commit(s) to [yuyinws/vitepress](https://github.com/yuyinws/vitepress)<br>
-4. 🍴 Forked [yuyinws/vite](https://github.com/yuyinws/vite) from [vitejs/vite](https://github.com/vitejs/vite)<br>
-5. 🍴 Forked [yuyinws/vite-plugin-vue](https://github.com/yuyinws/vite-plugin-vue) from [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
