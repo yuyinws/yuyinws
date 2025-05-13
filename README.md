@@ -13,8 +13,8 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 2 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
+1. ⭐️ Starred [ruanyf/weekly](https://github.com/ruanyf/weekly)<br>
+2. 💪 Pushed 2 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
 3. 💪 Pushed 1 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
