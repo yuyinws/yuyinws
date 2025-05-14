@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)<br>
-2. Closed issue [#20](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/20) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+1. 🍴 Forked [yuyinws/docs](https://github.com/yuyinws/docs) from [vuejs/docs](https://github.com/vuejs/docs)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
 3. 💪 Pushed 2 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-4. 💪 Pushed 2 commit(s) to [yuyinws/eslint-formatter-inspector](https://github.com/yuyinws/eslint-formatter-inspector)<br>
-5. ⭐️ Starred [ruanyf/weekly](https://github.com/ruanyf/weekly)<br>
+4. ⭐️ Starred [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)<br>
+5. Closed issue [#20](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/20) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
