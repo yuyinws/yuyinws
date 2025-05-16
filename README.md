@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 4 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
-2. 💪 Pushed 3 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
-4. Opened PR [#2173](https://github.com/slidevjs/slidev/pull/2173) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
-5. 🍴 Forked [yuyinws/slidev](https://github.com/yuyinws/slidev) from [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
+1. Opened PR [#2174](https://github.com/slidevjs/slidev/pull/2174) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
+2. Closed PR [#2173](https://github.com/slidevjs/slidev/pull/2173) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
+3. 💪 Pushed 4 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
+4. 💪 Pushed 3 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
