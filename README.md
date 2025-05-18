@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/yoga](https://github.com/yuyinws/yoga)<br>
 2. 💪 Pushed 1 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
-3. 💪 Pushed 8 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
-4. 💪 Pushed 7 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
-5. Opened PR [#2174](https://github.com/slidevjs/slidev/pull/2174) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
+4. 💪 Pushed 8 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
+5. 💪 Pushed 7 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
