@@ -13,10 +13,10 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#2187](https://github.com/slidevjs/slidev/pull/2187) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
-2. 💪 Pushed 2 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
-4. Opened PR [#2185](https://github.com/slidevjs/slidev/pull/2185) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
+1. Opened PR [#3264](https://github.com/lucide-icons/lucide/pull/3264) in [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>
+2. 🍴 Forked [yuyinws/lucide](https://github.com/yuyinws/lucide) from [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>
+3. Opened PR [#2187](https://github.com/slidevjs/slidev/pull/2187) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
+4. 💪 Pushed 2 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
 5. 💪 Pushed 1 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
 <!--RECENT_ACTIVITY:end-->
 
