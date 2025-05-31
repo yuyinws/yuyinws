@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#2190](https://github.com/slidevjs/slidev/pull/2190) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
-4. 💪 Pushed 3 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
-5. 💪 Pushed 6 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
+1. ⭐️ Starred [vitejs/rolldown-vite](https://github.com/vitejs/rolldown-vite)<br>
+2. Opened PR [#2190](https://github.com/slidevjs/slidev/pull/2190) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
+5. 💪 Pushed 3 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
