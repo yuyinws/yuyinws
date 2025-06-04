@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#2196](https://github.com/slidevjs/slidev/pull/2196) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
-2. Opened PR [#2194](https://github.com/slidevjs/slidev/pull/2194) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
-3. 💪 Pushed 4 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
-4. ⭐️ Starred [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)<br>
-5. ⭐️ Starred [vitejs/rolldown-vite](https://github.com/vitejs/rolldown-vite)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+3. Closed issue [#21](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/21) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+4. Merged PR [#22](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/22) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+5. Opened PR [#22](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/22) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
