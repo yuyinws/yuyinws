@@ -13,11 +13,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-3. Closed issue [#21](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/21) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-4. Merged PR [#22](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/22) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-5. Opened PR [#22](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/22) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+1. 💪 Pushed 7 commit(s) to [yuyinws/lucide](https://github.com/yuyinws/lucide)<br>
+2. Closed issue [#113](https://github.com/yuyinws/steam-card/issues/113) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+5. Closed issue [#21](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/21) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
