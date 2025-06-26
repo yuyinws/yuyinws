@@ -11,6 +11,8 @@
 
 [爱发电](https://afdian.com/a/yuyinws)
 
+![Sponsor](https://cdn.jsdelivr.net/gh/yuyinws/sponsors/sponsorkit/sponsors.svg)
+
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⭐️ Starred [prosekit/prosekit](https://github.com/prosekit/prosekit)<br>
