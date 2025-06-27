@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [prosekit/prosekit](https://github.com/prosekit/prosekit)<br>
-2. ⭐️ Starred [yuyinws/oxlint-formatter-inspector](https://github.com/yuyinws/oxlint-formatter-inspector)<br>
-3. ⭐️ Starred [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react)<br>
-4. 🍴 Forked [yuyinws/vue-vine](https://github.com/yuyinws/vue-vine) from [vue-vine/vue-vine](https://github.com/vue-vine/vue-vine)<br>
-5. 💪 Pushed 7 commit(s) to [yuyinws/lucide](https://github.com/yuyinws/lucide)<br>
+1. 💪 Pushed 5 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
+2. 💪 Pushed 4 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
+3. ⭐️ Starred [prosekit/prosekit](https://github.com/prosekit/prosekit)<br>
+4. ⭐️ Starred [yuyinws/oxlint-formatter-inspector](https://github.com/yuyinws/oxlint-formatter-inspector)<br>
+5. ⭐️ Starred [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
