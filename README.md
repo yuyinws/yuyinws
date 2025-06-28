@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
+1. 💪 Pushed 2 commit(s) to [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
 2. 💪 Pushed 1 commit(s) to [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
 3. 💪 Pushed 1 commit(s) to [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
 4. 💪 Pushed 1 commit(s) to [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
-5. 👨🏻‍💻 Created new repository [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
