@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 5 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
-2. 💪 Pushed 4 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
-3. ⭐️ Starred [prosekit/prosekit](https://github.com/prosekit/prosekit)<br>
-4. ⭐️ Starred [yuyinws/oxlint-formatter-inspector](https://github.com/yuyinws/oxlint-formatter-inspector)<br>
-5. ⭐️ Starred [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react)<br>
+1. ⭐️ Starred [Afilmory/Afilmory](https://github.com/Afilmory/Afilmory)<br>
+2. 💪 Pushed 5 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
+3. 💪 Pushed 4 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
+4. ⭐️ Starred [prosekit/prosekit](https://github.com/prosekit/prosekit)<br>
+5. ⭐️ Starred [yuyinws/oxlint-formatter-inspector](https://github.com/yuyinws/oxlint-formatter-inspector)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
