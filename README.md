@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/afilmory](https://github.com/yuyinws/afilmory) from [Afilmory/afilmory](https://github.com/Afilmory/afilmory)<br>
-2. ⭐️ Starred [Afilmory/Afilmory](https://github.com/Afilmory/Afilmory)<br>
-3. 💪 Pushed 5 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
-4. 💪 Pushed 4 commit(s) to [yuyinws/docs](https://github.com/yuyinws/docs)<br>
-5. ⭐️ Starred [prosekit/prosekit](https://github.com/prosekit/prosekit)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
+5. 👨🏻‍💻 Created new repository [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
