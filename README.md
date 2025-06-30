@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 2 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-2. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-3. Merged PR [#23](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/23) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-4. 💪 Pushed 2 commit(s) to [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
+1. 🍴 Forked [yuyinws/docs-zh-cn](https://github.com/yuyinws/docs-zh-cn) from [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)<br>
+2. 💪 Pushed 2 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+3. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+4. Merged PR [#23](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/23) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+5. 💪 Pushed 2 commit(s) to [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
