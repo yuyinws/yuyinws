@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#139](https://github.com/vue-mini/vue-mini/pull/139) in [vue-mini/vue-mini](https://github.com/vue-mini/vue-mini)<br>
-2. 🍴 Forked [yuyinws/vue-mini](https://github.com/yuyinws/vue-mini) from [vue-mini/vue-mini](https://github.com/vue-mini/vue-mini)<br>
-3. Closed PR [#1090](https://github.com/vuejs-translations/docs-zh-cn/pull/1090) in [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)<br>
-4. Closed issue [#64](https://github.com/unplugin/unplugin-turbo-console/issues/64) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-5. 💪 Pushed 2 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. 🍴 Forked [yuyinws/router](https://github.com/yuyinws/router) from [vuejs/router](https://github.com/vuejs/router)<br>
+2. Opened PR [#139](https://github.com/vue-mini/vue-mini/pull/139) in [vue-mini/vue-mini](https://github.com/vue-mini/vue-mini)<br>
+3. 🍴 Forked [yuyinws/vue-mini](https://github.com/yuyinws/vue-mini) from [vue-mini/vue-mini](https://github.com/vue-mini/vue-mini)<br>
+4. Closed PR [#1090](https://github.com/vuejs-translations/docs-zh-cn/pull/1090) in [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)<br>
+5. Closed issue [#64](https://github.com/unplugin/unplugin-turbo-console/issues/64) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
