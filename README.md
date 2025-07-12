@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 3 commit(s) to [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
-2. 💪 Pushed 28 commit(s) to [yuyinws/afilmory](https://github.com/yuyinws/afilmory)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/router](https://github.com/yuyinws/router)<br>
-4. Opened PR [#2521](https://github.com/vuejs/router/pull/2521) in [vuejs/router](https://github.com/vuejs/router)<br>
-5. 🍴 Forked [yuyinws/router](https://github.com/yuyinws/router) from [vuejs/router](https://github.com/vuejs/router)<br>
+1. ⭐️ Starred [vitejs/devtools](https://github.com/vitejs/devtools)<br>
+2. 💪 Pushed 3 commit(s) to [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
+3. 💪 Pushed 28 commit(s) to [yuyinws/afilmory](https://github.com/yuyinws/afilmory)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/router](https://github.com/yuyinws/router)<br>
+5. Opened PR [#2521](https://github.com/vuejs/router/pull/2521) in [vuejs/router](https://github.com/vuejs/router)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
