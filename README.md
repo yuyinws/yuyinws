@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits)<br>
-2. Opened issue [#40](https://github.com/vitejs/devtools/issues/40) in [vitejs/devtools](https://github.com/vitejs/devtools)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/router](https://github.com/yuyinws/router)<br>
-4. ⭐️ Starred [vitejs/devtools](https://github.com/vitejs/devtools)<br>
-5. 💪 Pushed 3 commit(s) to [yuyinws/webgl-viewer-vue](https://github.com/yuyinws/webgl-viewer-vue)<br>
+1. ⭐️ Starred [enzonotario/vitepress-theme-tui](https://github.com/enzonotario/vitepress-theme-tui)<br>
+2. ⭐️ Starred [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits)<br>
+3. Opened issue [#40](https://github.com/vitejs/devtools/issues/40) in [vitejs/devtools](https://github.com/vitejs/devtools)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/router](https://github.com/yuyinws/router)<br>
+5. ⭐️ Starred [vitejs/devtools](https://github.com/vitejs/devtools)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
