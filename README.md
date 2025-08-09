@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [enzonotario/vitepress-theme-tui](https://github.com/enzonotario/vitepress-theme-tui)<br>
-2. ⭐️ Starred [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits)<br>
-3. Opened issue [#40](https://github.com/vitejs/devtools/issues/40) in [vitejs/devtools](https://github.com/vitejs/devtools)<br>
-4. 💪 Pushed 1 commit(s) to [yuyinws/router](https://github.com/yuyinws/router)<br>
-5. ⭐️ Starred [vitejs/devtools](https://github.com/vitejs/devtools)<br>
+1. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+3. Merged PR [#24](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/24) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+4. ⭐️ Starred [enzonotario/vitepress-theme-tui](https://github.com/enzonotario/vitepress-theme-tui)<br>
+5. ⭐️ Starred [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
