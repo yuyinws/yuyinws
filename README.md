@@ -17,9 +17,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
 2. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-3. Merged PR [#24](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/24) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-4. ⭐️ Starred [enzonotario/vitepress-theme-tui](https://github.com/enzonotario/vitepress-theme-tui)<br>
-5. ⭐️ Starred [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits)<br>
+3. Merged PR [#25](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/25) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+4. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
