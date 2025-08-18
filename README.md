@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Closed issue [#55](https://github.com/unplugin/unplugin-turbo-console/issues/55) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-2. Closed issue [#63](https://github.com/unplugin/unplugin-turbo-console/issues/63) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-3. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-4. 💪 Pushed 29 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
-5. 💪 Pushed 1 commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+1. 💪 Pushed 4 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
+2. Closed issue [#55](https://github.com/unplugin/unplugin-turbo-console/issues/55) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+3. Closed issue [#63](https://github.com/unplugin/unplugin-turbo-console/issues/63) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+4. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+5. 💪 Pushed 29 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
