@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#2252](https://github.com/slidevjs/slidev/pull/2252) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
-2. 💪 Pushed 4 commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
+1. Opened PR [#2252](undefined) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
+2. 💪 Pushed undefined commit(s) to [yuyinws/slidev](https://github.com/yuyinws/slidev)<br>
 3. Closed issue [#55](https://github.com/unplugin/unplugin-turbo-console/issues/55) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 4. Closed issue [#63](https://github.com/unplugin/unplugin-turbo-console/issues/63) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-5. 💪 Pushed 1 commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+5. 💪 Pushed undefined commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
