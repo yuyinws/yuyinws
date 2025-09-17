@@ -15,7 +15,6 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#2252](https://github.com/slidevjs/slidev/pull/2252) in [slidevjs/slidev](https://github.com/slidevjs/slidev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
