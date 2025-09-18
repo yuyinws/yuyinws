@@ -15,6 +15,7 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
+1. 🍴 Forked [yuyinws/umami](https://github.com/yuyinws/umami) from [umami-software/umami](https://github.com/umami-software/umami)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
