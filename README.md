@@ -15,8 +15,9 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Pushed 1 commit(s) to [yuyinws/umami](https://github.com/yuyinws/umami)<br>
-2. 🍴 Forked [yuyinws/umami](https://github.com/yuyinws/umami) from [umami-software/umami](https://github.com/umami-software/umami)<br>
+1. Closed issue [#114](https://github.com/yuyinws/steam-card/issues/114) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
+2. 💪 Pushed 1 commit(s) to [yuyinws/umami](https://github.com/yuyinws/umami)<br>
+3. 🍴 Forked [yuyinws/umami](https://github.com/yuyinws/umami) from [umami-software/umami](https://github.com/umami-software/umami)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
