@@ -17,8 +17,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐️ Starred [barvian/number-flow](https://github.com/barvian/number-flow)<br>
 2. Closed issue [#114](https://github.com/yuyinws/steam-card/issues/114) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-3. 💪 Pushed 1 commit(s) to [yuyinws/umami](https://github.com/yuyinws/umami)<br>
-4. 🍴 Forked [yuyinws/umami](https://github.com/yuyinws/umami) from [umami-software/umami](https://github.com/umami-software/umami)<br>
+3. 💪 Pushed undefined commit(s) to [yuyinws/umami](https://github.com/yuyinws/umami)<br>
+4. 🍴 Forked [yuyinws/umami](https://github.com/yuyinws/umami) from [yuyinws/umami](https://github.com/yuyinws/umami)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
