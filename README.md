@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts)<br>
-2. ⭐️ Starred [barvian/number-flow](https://github.com/barvian/number-flow)<br>
-3. Closed issue [#114](https://github.com/yuyinws/steam-card/issues/114) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)<br>
-4. 💪 Pushed undefined commit(s) to [yuyinws/umami](https://github.com/yuyinws/umami)<br>
-5. 🍴 Forked [yuyinws/umami](https://github.com/yuyinws/umami) from [yuyinws/umami](https://github.com/yuyinws/umami)<br>
+1. 💪 Pushed undefined commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+2. 💪 Pushed undefined commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+3. 💪 Pushed undefined commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+4. Closed issue [#26](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/26) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+5. Opened PR [#27](undefined) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
