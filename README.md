@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [rictic/jsonriver](https://github.com/rictic/jsonriver)<br>
-2. 💪 Pushed undefined commit(s) to [yuyinws/umami](https://github.com/yuyinws/umami)<br>
-3. ⭐️ Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)<br>
-4. 💪 Pushed undefined commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-5. 💪 Pushed undefined commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+1. Closed issue [#28](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/28) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+2. 💪 Pushed undefined commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+3. 💪 Pushed undefined commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
+4. ⭐️ Starred [rictic/jsonriver](https://github.com/rictic/jsonriver)<br>
+5. 💪 Pushed undefined commit(s) to [yuyinws/umami](https://github.com/yuyinws/umami)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
