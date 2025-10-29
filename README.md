@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐️ Starred [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)<br>
-2. Closed issue [#28](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/28) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-3. 💪 Pushed undefined commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-4. 💪 Pushed undefined commit(s) to [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
-5. ⭐️ Starred [rictic/jsonriver](https://github.com/rictic/jsonriver)<br>
+1. 💪 Pushed undefined commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+2. 💪 Pushed undefined commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+3. 💪 Pushed undefined commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+4. ⭐️ Starred [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)<br>
+5. Closed issue [#28](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/28) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
