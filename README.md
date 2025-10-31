@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Pushed undefined commit(s) to [yuyinws/vite-devtools](https://github.com/yuyinws/vite-devtools)<br>
-2. Opened PR [#119](undefined) in [vitejs/devtools](https://github.com/vitejs/devtools)<br>
-3. 💪 Pushed undefined commit(s) to [yuyinws/vite-devtools](https://github.com/yuyinws/vite-devtools)<br>
-4. 🍴 Forked [yuyinws/vite-devtools](https://github.com/yuyinws/vite-devtools) from [yuyinws/vite-devtools](https://github.com/yuyinws/vite-devtools)<br>
-5. ⭐️ Starred [johannschopplich/toon](https://github.com/johannschopplich/toon)<br>
+1. 🗣 Commented on [#119](https://github.com/vitejs/devtools/pull/119#issuecomment-3472157726) in [vitejs/devtools](https://github.com/vitejs/devtools)
+2. 💪 Opened PR [#119](undefined) in [vitejs/devtools](https://github.com/vitejs/devtools)
+3. 🗣 Commented on [#4997](https://github.com/vuejs/vitepress/issues/4997#issuecomment-3465945903) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
+4. 🗣 Commented on [#65](https://github.com/unplugin/unplugin-turbo-console/pull/65#issuecomment-3460700549) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
+5. ❌ Closed PR [#65](undefined) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
 <!--END_SECTION:activity-->
 
 <details>
