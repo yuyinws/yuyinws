@@ -14,13 +14,13 @@
 ![Sponsor](https://cdn.jsdelivr.net/gh/yuyinws/sponsors/sponsorkit/sponsors.svg)
 
 ### ⭐️ Recent Activity
-<!--RECENT_ACTIVITY:start-->
+<!--START_SECTION:activity-->
 1. 💪 Pushed undefined commit(s) to [yuyinws/vite-devtools](https://github.com/yuyinws/vite-devtools)<br>
 2. Opened PR [#119](undefined) in [vitejs/devtools](https://github.com/vitejs/devtools)<br>
 3. 💪 Pushed undefined commit(s) to [yuyinws/vite-devtools](https://github.com/yuyinws/vite-devtools)<br>
 4. 🍴 Forked [yuyinws/vite-devtools](https://github.com/yuyinws/vite-devtools) from [yuyinws/vite-devtools](https://github.com/yuyinws/vite-devtools)<br>
 5. ⭐️ Starred [johannschopplich/toon](https://github.com/johannschopplich/toon)<br>
-<!--RECENT_ACTIVITY:end-->
+<!--END_SECTION:activity-->
 
 <details>
   <summary>
