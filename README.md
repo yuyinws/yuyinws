@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [yuyinws/vite-devtools](https://github.com/yuyinws/vite-devtools) from [yuyinws/vite-devtools](https://github.com/yuyinws/vite-devtools)<br>
-2. ⭐️ Starred [johannschopplich/toon](https://github.com/johannschopplich/toon)<br>
-3. Closed PR [#65](undefined) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-4. 💪 Pushed undefined commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
-5. 💪 Pushed undefined commit(s) to [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)<br>
+1. 💪 Pushed undefined commit(s) to [yuyinws/vite-devtools](https://github.com/yuyinws/vite-devtools)<br>
+2. Opened PR [#119](undefined) in [vitejs/devtools](https://github.com/vitejs/devtools)<br>
+3. 💪 Pushed undefined commit(s) to [yuyinws/vite-devtools](https://github.com/yuyinws/vite-devtools)<br>
+4. 🍴 Forked [yuyinws/vite-devtools](https://github.com/yuyinws/vite-devtools) from [yuyinws/vite-devtools](https://github.com/yuyinws/vite-devtools)<br>
+5. ⭐️ Starred [johannschopplich/toon](https://github.com/johannschopplich/toon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <details>
