@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#122](undefined) in [vitejs/devtools](https://github.com/vitejs/devtools)
-2. 🗣 Commented on [#119](https://github.com/vitejs/devtools/pull/119#issuecomment-3472157726) in [vitejs/devtools](https://github.com/vitejs/devtools)
-3. 💪 Opened PR [#119](undefined) in [vitejs/devtools](https://github.com/vitejs/devtools)
-4. 🗣 Commented on [#4997](https://github.com/vuejs/vitepress/issues/4997#issuecomment-3465945903) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
-5. 🗣 Commented on [#65](https://github.com/unplugin/unplugin-turbo-console/pull/65#issuecomment-3460700549) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
+1. 🗣 Commented on [#40](https://github.com/vitejs/devtools/issues/40#issuecomment-3506350943) in [vitejs/devtools](https://github.com/vitejs/devtools)
+2. 💪 Opened PR [#122](undefined) in [vitejs/devtools](https://github.com/vitejs/devtools)
+3. 🗣 Commented on [#119](https://github.com/vitejs/devtools/pull/119#issuecomment-3472157726) in [vitejs/devtools](https://github.com/vitejs/devtools)
+4. 💪 Opened PR [#119](undefined) in [vitejs/devtools](https://github.com/vitejs/devtools)
+5. 🗣 Commented on [#4997](https://github.com/vuejs/vitepress/issues/4997#issuecomment-3465945903) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
 <!--END_SECTION:activity-->
 
 <details>
