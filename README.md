@@ -15,11 +15,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#3](https://github.com/yuyinws/oxlint-inspector/issues/3) in [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector)
-2. ❗ Opened issue [#15573](https://github.com/oxc-project/oxc/issues/15573) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-3. ❗ Opened issue [#2](https://github.com/yuyinws/oxlint-inspector/issues/2) in [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector)
-4. 🗣 Commented on [#40](https://github.com/vitejs/devtools/issues/40#issuecomment-3506350943) in [vitejs/devtools](https://github.com/vitejs/devtools)
-5. 💪 Opened PR [#122](undefined) in [vitejs/devtools](https://github.com/vitejs/devtools)
+1. 🔒 Closed issue [#3](https://github.com/yuyinws/oxlint-inspector/issues/3) in [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector)
+2.  Labeled issue [#3](https://github.com/yuyinws/oxlint-inspector/issues/3) in [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector)
+3. ❗ Opened issue [#15573](https://github.com/oxc-project/oxc/issues/15573) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+4. ❗ Opened issue [#2](https://github.com/yuyinws/oxlint-inspector/issues/2) in [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector)
+5. 🗣 Commented on [#40](https://github.com/vitejs/devtools/issues/40#issuecomment-3506350943) in [vitejs/devtools](https://github.com/vitejs/devtools)
 <!--END_SECTION:activity-->
 
 <details>
