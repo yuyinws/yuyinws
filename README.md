@@ -9,6 +9,8 @@
 
 ### 💖 Sponsor 赞助
 
+[GitHub Sponsor](https://github.com/sponsors/yuyinws)
+
 [爱发电](https://afdian.com/a/yuyinws)
 
 ![Sponsor](https://cdn.jsdelivr.net/gh/yuyinws/sponsors/sponsorkit/sponsors.svg)
