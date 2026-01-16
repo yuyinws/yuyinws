@@ -17,11 +17,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#31](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/31) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
-2. 🗣 Commented on [#66](https://github.com/unplugin/unplugin-turbo-console/issues/66#issuecomment-3679978102) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
-3. 🔒 Closed issue [#66](https://github.com/unplugin/unplugin-turbo-console/issues/66) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
-4. ❗ Opened issue [#15573](https://github.com/oxc-project/oxc/issues/15573) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-5. ❗ Opened issue [#2](https://github.com/yuyinws/oxlint-inspector/issues/2) in [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector)
+1. 🔒 Closed issue [#32](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/32) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
+2. 🗣 Commented on [#32](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/32#issuecomment-3759888175) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
+3. ❗ Opened issue [#31](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/31) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
+4. 🗣 Commented on [#66](https://github.com/unplugin/unplugin-turbo-console/issues/66#issuecomment-3679978102) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
+5. 🔒 Closed issue [#66](https://github.com/unplugin/unplugin-turbo-console/issues/66) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
 <!--END_SECTION:activity-->
 
 <details>
