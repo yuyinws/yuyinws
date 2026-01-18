@@ -17,11 +17,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/33) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
-2. 🔒 Closed issue [#31](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/31) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
-3. 💪 Opened PR [#33](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/33) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
-4. 🔒 Closed issue [#32](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/32) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
-5. 🗣 Commented on [#32](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/32#issuecomment-3759888175) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
+1. 💪 Opened PR [#798](https://github.com/oxc-project/oxc-project.github.io/pull/798) in [oxc-project/oxc-project.github.io](https://github.com/oxc-project/oxc-project.github.io)
+2. 💪 Opened PR [#7947](https://github.com/rolldown/rolldown/pull/7947) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
+3. 💪 Opened PR [#21439](https://github.com/vitejs/vite/pull/21439) in [vitejs/vite](https://github.com/vitejs/vite)
+4. 🎉 Merged PR [#33](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/33) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
+5. 🔒 Closed issue [#31](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/31) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
 <!--END_SECTION:activity-->
 
 <details>
