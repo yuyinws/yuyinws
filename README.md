@@ -20,7 +20,7 @@
 1. 🎉 Merged PR [#7947](https://github.com/rolldown/rolldown/pull/7947) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
 2. 🎉 Merged PR [#9482](https://github.com/vitest-dev/vitest/pull/9482) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
 3. 🎉 Merged PR [#21439](https://github.com/vitejs/vite/pull/21439) in [vitejs/vite](https://github.com/vitejs/vite)
-4. 🎉 Merged PR [#798](https://github.com/oxc-project/oxc-project.github.io/pull/798) in [oxc-project/oxc-project.github.io](https://github.com/oxc-project/oxc-project.github.io)
+4. 🎉 Merged PR [#798](https://github.com/oxc-project/website/pull/798) in [oxc-project/website](https://github.com/oxc-project/website)
 5. 💪 Opened PR [#9482](https://github.com/vitest-dev/vitest/pull/9482) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
 <!--END_SECTION:activity-->
 
