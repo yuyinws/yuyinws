@@ -17,11 +17,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#216](https://github.com/npmx-dev/npmx.dev/pull/216) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
-2. 🗣 Commented on [#216](https://github.com/npmx-dev/npmx.dev/pull/216#issuecomment-3809557255) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
-3. 💪 Opened PR [#216](https://github.com/npmx-dev/npmx.dev/pull/216) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
-4. 🎉 Merged PR [#7947](https://github.com/rolldown/rolldown/pull/7947) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
-5. 🎉 Merged PR [#9482](https://github.com/vitest-dev/vitest/pull/9482) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+1. 💪 Opened PR [#403](https://github.com/npmx-dev/npmx.dev/pull/403) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
+2. 🎉 Merged PR [#216](https://github.com/npmx-dev/npmx.dev/pull/216) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
+3. 🗣 Commented on [#216](https://github.com/npmx-dev/npmx.dev/pull/216#issuecomment-3809557255) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
+4. 💪 Opened PR [#216](https://github.com/npmx-dev/npmx.dev/pull/216) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
+5. 🎉 Merged PR [#7947](https://github.com/rolldown/rolldown/pull/7947) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
 <!--END_SECTION:activity-->
 
 <details>
