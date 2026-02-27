@@ -17,11 +17,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/yuyinws/oxc-inspector/issues/2) in [yuyinws/oxc-inspector](https://github.com/yuyinws/oxc-inspector)
-2. 💪 Opened PR [#182](https://github.com/vitejs/devtools/pull/182) in [vitejs/devtools](https://github.com/vitejs/devtools)
-3. 🎉 Merged PR [#403](https://github.com/npmx-dev/npmx.dev/pull/403) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
-4. 💪 Opened PR [#403](https://github.com/npmx-dev/npmx.dev/pull/403) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
-5. 🎉 Merged PR [#216](https://github.com/npmx-dev/npmx.dev/pull/216) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
+1. 🎉 Merged PR [#182](https://github.com/vitejs/devtools/pull/182) in [vitejs/devtools](https://github.com/vitejs/devtools)
+2. 🔒 Closed issue [#2](https://github.com/yuyinws/oxc-inspector/issues/2) in [yuyinws/oxc-inspector](https://github.com/yuyinws/oxc-inspector)
+3. 💪 Opened PR [#182](https://github.com/vitejs/devtools/pull/182) in [vitejs/devtools](https://github.com/vitejs/devtools)
+4. 🎉 Merged PR [#403](https://github.com/npmx-dev/npmx.dev/pull/403) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
+5. 💪 Opened PR [#403](https://github.com/npmx-dev/npmx.dev/pull/403) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
 <!--END_SECTION:activity-->
 
 <details>
