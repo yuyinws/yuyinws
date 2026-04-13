@@ -17,11 +17,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/35) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
-2. 💪 Opened PR [#35](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/35) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
-3. 🗣 Commented on [#34](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/34#issuecomment-4132026088) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
-4. 🔒 Closed issue [#34](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/34) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
-5. 🎉 Merged PR [#2093](https://github.com/npmx-dev/npmx.dev/pull/2093) in [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev)
+1. 🗣 Commented on [#37](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/37#issuecomment-4234225094) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
+2. 🎉 Merged PR [#35](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/35) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
+3. 💪 Opened PR [#35](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/35) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
+4. 🗣 Commented on [#34](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/34#issuecomment-4132026088) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
+5. 🔒 Closed issue [#34](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/34) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
 <!--END_SECTION:activity-->
 
 <details>
