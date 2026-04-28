@@ -17,11 +17,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1487](https://github.com/voidzero-dev/vite-plus/pull/1487) in [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
-2. 🗣 Commented on [#1487](https://github.com/voidzero-dev/vite-plus/pull/1487#issuecomment-4325257150) in [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
-3. 💪 Opened PR [#1487](https://github.com/voidzero-dev/vite-plus/pull/1487) in [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
-4. 💪 Opened PR [#2556](https://github.com/slidevjs/slidev/pull/2556) in [slidevjs/slidev](https://github.com/slidevjs/slidev)
-5. 💪 Opened PR [#2547](https://github.com/slidevjs/slidev/pull/2547) in [slidevjs/slidev](https://github.com/slidevjs/slidev)
+1. 🎉 Merged PR [#2556](https://github.com/slidevjs/slidev/pull/2556) in [slidevjs/slidev](https://github.com/slidevjs/slidev)
+2. 🎉 Merged PR [#2547](https://github.com/slidevjs/slidev/pull/2547) in [slidevjs/slidev](https://github.com/slidevjs/slidev)
+3. 🎉 Merged PR [#1487](https://github.com/voidzero-dev/vite-plus/pull/1487) in [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
+4. 🗣 Commented on [#1487](https://github.com/voidzero-dev/vite-plus/pull/1487#issuecomment-4325257150) in [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
+5. 💪 Opened PR [#1487](https://github.com/voidzero-dev/vite-plus/pull/1487) in [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
 <!--END_SECTION:activity-->
 
 <details>
