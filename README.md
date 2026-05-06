@@ -17,11 +17,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2556](https://github.com/slidevjs/slidev/pull/2556) in [slidevjs/slidev](https://github.com/slidevjs/slidev)
-2. 🎉 Merged PR [#2547](https://github.com/slidevjs/slidev/pull/2547) in [slidevjs/slidev](https://github.com/slidevjs/slidev)
-3. 🎉 Merged PR [#1487](https://github.com/voidzero-dev/vite-plus/pull/1487) in [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
-4. 🗣 Commented on [#1487](https://github.com/voidzero-dev/vite-plus/pull/1487#issuecomment-4325257150) in [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
-5. 💪 Opened PR [#1487](https://github.com/voidzero-dev/vite-plus/pull/1487) in [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
+1. 🔒 Closed issue [#67](https://github.com/unplugin/unplugin-turbo-console/issues/67) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
+2. 🎉 Merged PR [#2556](https://github.com/slidevjs/slidev/pull/2556) in [slidevjs/slidev](https://github.com/slidevjs/slidev)
+3. 🎉 Merged PR [#2547](https://github.com/slidevjs/slidev/pull/2547) in [slidevjs/slidev](https://github.com/slidevjs/slidev)
+4. 🎉 Merged PR [#1487](https://github.com/voidzero-dev/vite-plus/pull/1487) in [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
+5. 🗣 Commented on [#1487](https://github.com/voidzero-dev/vite-plus/pull/1487#issuecomment-4325257150) in [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
 <!--END_SECTION:activity-->
 
 <details>
