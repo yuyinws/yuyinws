@@ -17,10 +17,10 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/unplugin/unplugin-turbo-console/issues/69#issuecomment-4899265995) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
-2. 🗣 Commented on [#117](https://github.com/yuyinws/steam-card/issues/117#issuecomment-4714265248) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)
-3. 🎉 Merged PR [#2547](https://github.com/slidevjs/slidev/pull/2547) in [slidevjs/slidev](https://github.com/slidevjs/slidev)
-4. 🎉 Merged PR [#1487](https://github.com/voidzero-dev/vite-plus/pull/1487) in [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
+1. 🗣 Commented on [#69](https://github.com/unplugin/unplugin-turbo-console/issues/69#issuecomment-4921232610) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
+2. 🔒 Closed issue [#69](https://github.com/unplugin/unplugin-turbo-console/issues/69) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
+3. 🗣 Commented on [#69](https://github.com/unplugin/unplugin-turbo-console/issues/69#issuecomment-4899265995) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
+4. 🗣 Commented on [#117](https://github.com/yuyinws/steam-card/issues/117#issuecomment-4714265248) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)
 5. 🗣 Commented on [#1487](https://github.com/voidzero-dev/vite-plus/pull/1487#issuecomment-4325257150) in [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
 <!--END_SECTION:activity-->
 
