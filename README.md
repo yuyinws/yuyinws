@@ -17,11 +17,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#420](https://github.com/vitejs/devtools/issues/420) in [vitejs/devtools](https://github.com/vitejs/devtools)
-2. ❗ Opened issue [#420](https://github.com/vitejs/devtools/issues/420) in [vitejs/devtools](https://github.com/vitejs/devtools)
-3. 🗣 Commented on [#69](https://github.com/unplugin/unplugin-turbo-console/issues/69#issuecomment-4921232610) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
-4. 🔒 Closed issue [#69](https://github.com/unplugin/unplugin-turbo-console/issues/69) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
-5. 🗣 Commented on [#69](https://github.com/unplugin/unplugin-turbo-console/issues/69#issuecomment-4899265995) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
+1. 💪 Opened PR [#432](https://github.com/vitejs/devtools/pull/432) in [vitejs/devtools](https://github.com/vitejs/devtools)
+2. ℹ️ Assigned issue [#420](https://github.com/vitejs/devtools/issues/420) in [vitejs/devtools](https://github.com/vitejs/devtools)
+3. ❗ Opened issue [#420](https://github.com/vitejs/devtools/issues/420) in [vitejs/devtools](https://github.com/vitejs/devtools)
+4. 🗣 Commented on [#69](https://github.com/unplugin/unplugin-turbo-console/issues/69#issuecomment-4921232610) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
+5. 🔒 Closed issue [#69](https://github.com/unplugin/unplugin-turbo-console/issues/69) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
 <!--END_SECTION:activity-->
 
 <details>
