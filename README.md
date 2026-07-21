@@ -17,11 +17,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#449](https://github.com/vitejs/devtools/pull/449) in [vitejs/devtools](https://github.com/vitejs/devtools)
-2. 🗣 Commented on [#432](https://github.com/vitejs/devtools/pull/432#issuecomment-5032333949) in [vitejs/devtools](https://github.com/vitejs/devtools)
-3. 🎉 Merged PR [#447](https://github.com/vitejs/devtools/pull/447) in [vitejs/devtools](https://github.com/vitejs/devtools)
-4. 💪 Opened PR [#447](https://github.com/vitejs/devtools/pull/447) in [vitejs/devtools](https://github.com/vitejs/devtools)
-5. 🎉 Merged PR [#432](https://github.com/vitejs/devtools/pull/432) in [vitejs/devtools](https://github.com/vitejs/devtools)
+1. 🎉 Merged PR [#449](https://github.com/vitejs/devtools/pull/449) in [vitejs/devtools](https://github.com/vitejs/devtools)
+2. 💪 Opened PR [#449](https://github.com/vitejs/devtools/pull/449) in [vitejs/devtools](https://github.com/vitejs/devtools)
+3. 🗣 Commented on [#432](https://github.com/vitejs/devtools/pull/432#issuecomment-5032333949) in [vitejs/devtools](https://github.com/vitejs/devtools)
+4. 🎉 Merged PR [#447](https://github.com/vitejs/devtools/pull/447) in [vitejs/devtools](https://github.com/vitejs/devtools)
+5. 💪 Opened PR [#447](https://github.com/vitejs/devtools/pull/447) in [vitejs/devtools](https://github.com/vitejs/devtools)
 <!--END_SECTION:activity-->
 
 <details>
