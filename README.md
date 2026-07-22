@@ -13,7 +13,7 @@
 
 [爱发电](https://afdian.com/a/yuyinws)
 
-![Sponsor](https://cdn.jsdelivr.net/gh/yuyinws/sponsors/sponsorkit/sponsors.svg)
+![Sponsor](https://cdn.jsdelivr.net/gh/yuyinws/sponsors/sponsors.svg)
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
