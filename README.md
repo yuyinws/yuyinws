@@ -17,11 +17,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#485](https://github.com/vitejs/devtools/pull/485) in [vitejs/devtools](https://github.com/vitejs/devtools)
-2. 🎉 Merged PR [#460](https://github.com/vitejs/devtools/pull/460) in [vitejs/devtools](https://github.com/vitejs/devtools)
-3. 💪 Opened PR [#460](https://github.com/vitejs/devtools/pull/460) in [vitejs/devtools](https://github.com/vitejs/devtools)
-4. 🎉 Merged PR [#449](https://github.com/vitejs/devtools/pull/449) in [vitejs/devtools](https://github.com/vitejs/devtools)
-5. 💪 Opened PR [#449](https://github.com/vitejs/devtools/pull/449) in [vitejs/devtools](https://github.com/vitejs/devtools)
+1. 🗣 Commented on [#38](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/38#issuecomment-5114843826) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
+2. 🔒 Closed issue [#38](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/38) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
+3. 🎉 Merged PR [#485](https://github.com/vitejs/devtools/pull/485) in [vitejs/devtools](https://github.com/vitejs/devtools)
+4. 💪 Opened PR [#485](https://github.com/vitejs/devtools/pull/485) in [vitejs/devtools](https://github.com/vitejs/devtools)
+5. 🎉 Merged PR [#460](https://github.com/vitejs/devtools/pull/460) in [vitejs/devtools](https://github.com/vitejs/devtools)
 <!--END_SECTION:activity-->
 
 <details>
