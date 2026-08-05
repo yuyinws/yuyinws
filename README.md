@@ -17,11 +17,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#512](https://github.com/vitejs/devtools/pull/512) in [vitejs/devtools](https://github.com/vitejs/devtools)
-2. 🗣 Commented on [#118](https://github.com/yuyinws/steam-card/issues/118#issuecomment-5140042611) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)
-3. ℹ️ Labeled issue [#500](https://github.com/vitejs/devtools/issues/500) in [vitejs/devtools](https://github.com/vitejs/devtools)
-4. ❗ Opened issue [#500](https://github.com/vitejs/devtools/issues/500) in [vitejs/devtools](https://github.com/vitejs/devtools)
-5. ℹ️ Assigned issue [#500](https://github.com/vitejs/devtools/issues/500) in [vitejs/devtools](https://github.com/vitejs/devtools)
+1. 🔒 Closed issue [#118](https://github.com/yuyinws/steam-card/issues/118) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)
+2. 💪 Opened PR [#512](https://github.com/vitejs/devtools/pull/512) in [vitejs/devtools](https://github.com/vitejs/devtools)
+3. 🗣 Commented on [#118](https://github.com/yuyinws/steam-card/issues/118#issuecomment-5140042611) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)
+4. ℹ️ Labeled issue [#500](https://github.com/vitejs/devtools/issues/500) in [vitejs/devtools](https://github.com/vitejs/devtools)
+5. ❗ Opened issue [#500](https://github.com/vitejs/devtools/issues/500) in [vitejs/devtools](https://github.com/vitejs/devtools)
 <!--END_SECTION:activity-->
 
 <details>
