@@ -17,11 +17,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#498](https://github.com/vitejs/devtools/issues/498) in [vitejs/devtools](https://github.com/vitejs/devtools)
-2. 🎉 Merged PR [#512](https://github.com/vitejs/devtools/pull/512) in [vitejs/devtools](https://github.com/vitejs/devtools)
-3. 🗣 Commented on [#512](https://github.com/vitejs/devtools/pull/512#issuecomment-5213610161) in [vitejs/devtools](https://github.com/vitejs/devtools)
-4. 🔒 Closed issue [#118](https://github.com/yuyinws/steam-card/issues/118) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)
-5. 💪 Opened PR [#512](https://github.com/vitejs/devtools/pull/512) in [vitejs/devtools](https://github.com/vitejs/devtools)
+1. 💪 Opened PR [#545](https://github.com/vitejs/devtools/pull/545) in [vitejs/devtools](https://github.com/vitejs/devtools)
+2. 🔒 Closed issue [#498](https://github.com/vitejs/devtools/issues/498) in [vitejs/devtools](https://github.com/vitejs/devtools)
+3. 🎉 Merged PR [#512](https://github.com/vitejs/devtools/pull/512) in [vitejs/devtools](https://github.com/vitejs/devtools)
+4. 🗣 Commented on [#512](https://github.com/vitejs/devtools/pull/512#issuecomment-5213610161) in [vitejs/devtools](https://github.com/vitejs/devtools)
+5. 🔒 Closed issue [#118](https://github.com/yuyinws/steam-card/issues/118) in [yuyinws/steam-card](https://github.com/yuyinws/steam-card)
 <!--END_SECTION:activity-->
 
 <details>
