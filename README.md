@@ -17,11 +17,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#567](https://github.com/vitejs/devtools/pull/567) in [vitejs/devtools](https://github.com/vitejs/devtools)
-2. 🔒 Closed issue [#420](https://github.com/vitejs/devtools/issues/420) in [vitejs/devtools](https://github.com/vitejs/devtools)
-3. 💪 Opened PR [#567](https://github.com/vitejs/devtools/pull/567) in [vitejs/devtools](https://github.com/vitejs/devtools)
-4. 🎉 Merged PR [#564](https://github.com/vitejs/devtools/pull/564) in [vitejs/devtools](https://github.com/vitejs/devtools)
-5. 💪 Opened PR [#564](https://github.com/vitejs/devtools/pull/564) in [vitejs/devtools](https://github.com/vitejs/devtools)
+1. ℹ️ Assigned issue [#584](https://github.com/vitejs/devtools/issues/584) in [vitejs/devtools](https://github.com/vitejs/devtools)
+2. ℹ️ Labeled issue [#584](https://github.com/vitejs/devtools/issues/584) in [vitejs/devtools](https://github.com/vitejs/devtools)
+3. ❗ Opened issue [#584](https://github.com/vitejs/devtools/issues/584) in [vitejs/devtools](https://github.com/vitejs/devtools)
+4. ❗ Opened issue [#26828](https://github.com/oxc-project/oxc/issues/26828) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+5. 🎉 Merged PR [#567](https://github.com/vitejs/devtools/pull/567) in [vitejs/devtools](https://github.com/vitejs/devtools)
 <!--END_SECTION:activity-->
 
 <details>
