@@ -17,11 +17,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/unplugin/unplugin-turbo-console/pull/70) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
-2. ℹ️ Assigned issue [#584](https://github.com/vitejs/devtools/issues/584) in [vitejs/devtools](https://github.com/vitejs/devtools)
-3. ℹ️ Labeled issue [#584](https://github.com/vitejs/devtools/issues/584) in [vitejs/devtools](https://github.com/vitejs/devtools)
-4. ❗ Opened issue [#584](https://github.com/vitejs/devtools/issues/584) in [vitejs/devtools](https://github.com/vitejs/devtools)
-5. ❗ Opened issue [#26828](https://github.com/oxc-project/oxc/issues/26828) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+1. 🎉 Merged PR [#70](https://github.com/unplugin/unplugin-turbo-console/pull/70) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
+2. 💪 Opened PR [#70](https://github.com/unplugin/unplugin-turbo-console/pull/70) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
+3. ℹ️ Assigned issue [#584](https://github.com/vitejs/devtools/issues/584) in [vitejs/devtools](https://github.com/vitejs/devtools)
+4. ℹ️ Labeled issue [#584](https://github.com/vitejs/devtools/issues/584) in [vitejs/devtools](https://github.com/vitejs/devtools)
+5. ❗ Opened issue [#584](https://github.com/vitejs/devtools/issues/584) in [vitejs/devtools](https://github.com/vitejs/devtools)
 <!--END_SECTION:activity-->
 
 <details>
