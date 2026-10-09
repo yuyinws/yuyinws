@@ -17,11 +17,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/unplugin/unplugin-turbo-console/pull/72) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
-2. 🎉 Merged PR [#71](https://github.com/unplugin/unplugin-turbo-console/pull/71) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
-3. 💪 Opened PR [#71](https://github.com/unplugin/unplugin-turbo-console/pull/71) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
-4. 🔒 Closed issue [#39](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/39) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
-5. ℹ️ Assigned PR [#594](https://github.com/vitejs/devtools/pull/594) in [vitejs/devtools](https://github.com/vitejs/devtools)
+1. 🎉 Merged PR [#72](https://github.com/unplugin/unplugin-turbo-console/pull/72) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
+2. 💪 Opened PR [#72](https://github.com/unplugin/unplugin-turbo-console/pull/72) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
+3. 🎉 Merged PR [#71](https://github.com/unplugin/unplugin-turbo-console/pull/71) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
+4. 💪 Opened PR [#71](https://github.com/unplugin/unplugin-turbo-console/pull/71) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
+5. 🔒 Closed issue [#39](https://github.com/yuyinws/vitepress-plugin-group-icons/issues/39) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
 <!--END_SECTION:activity-->
 
 <details>
