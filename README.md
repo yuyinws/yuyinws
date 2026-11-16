@@ -17,11 +17,11 @@
 
 ### ⭐️ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/unplugin/unplugin-turbo-console/pull/75) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
-2. 🎉 Merged PR [#43](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/43) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
-3. 💪 Opened PR [#43](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/43) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
-4. 💪 Opened PR [#75](https://github.com/unplugin/unplugin-turbo-console/pull/75) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
-5. 🎉 Merged PR [#32854](https://github.com/raycast/extensions/pull/32854) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 🔒 Closed issue [#626](https://github.com/vitejs/devtools/issues/626) in [vitejs/devtools](https://github.com/vitejs/devtools)
+2. 🎉 Merged PR [#75](https://github.com/unplugin/unplugin-turbo-console/pull/75) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
+3. 🎉 Merged PR [#43](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/43) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
+4. 💪 Opened PR [#43](https://github.com/yuyinws/vitepress-plugin-group-icons/pull/43) in [yuyinws/vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons)
+5. 💪 Opened PR [#75](https://github.com/unplugin/unplugin-turbo-console/pull/75) in [unplugin/unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console)
 <!--END_SECTION:activity-->
 
 <details>
